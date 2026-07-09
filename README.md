@@ -37,26 +37,23 @@ Ich versuche, Dinge so aufzuschreiben, wie sie sind. Nicht schlimmer, aber auch 
 
 Dieses Repository ist privat. Die Inhalte sind nicht für Außenwirkung, Selbstdarstellung oder Rechtfertigung gedacht.
 
-## Mögliche Struktur
+## Struktur
+
+Datei- und Ordnernamen sind englisch, kleingeschrieben, mit Bindestrich. Inhalte sind immer deutsch.
 
 ```text
 .
 ├── README.md
-├── 00-index.md
-├── 01-wer-ich-bin.md
-├── 02-werte.md
-├── 03-ziele.md
-├── 04-schwierigkeiten.md
-├── 05-muster.md
-├── 06-beziehungen.md
-├── 07-arbeit.md
-├── 08-gesundheit.md
-├── 09-finanzen.md
-├── 10-entscheidungen.md
-├── journal/
-│   ├── 2026/
-│   └── templates/
-└── archive/
+├── index.md          Einstiegspunkt, verlinkt alle Bereiche
+├── inbox.md          unsortierte Gedanken, werden später verarbeitet
+├── personality/      wer ich bin, Werte, Stärken/Schwächen, Muster
+├── goals.md          Ziele
+├── relationship/     meine Beziehung zu Angeli
+├── people/           andere Personen, eine Datei pro Person
+├── decisions/        eine Datei pro Entscheidung, mit Vorlage
+├── health/           Gesundheit, körperlich und mental
+├── documents/        wichtige Unterlagen, thematisch in Unterordnern
+└── archive/          Überholtes (entsteht bei Bedarf)
 ```
 
 ## Wichtige Bereiche
@@ -85,9 +82,9 @@ Wiederkehrende Denk- und Verhaltensweisen. Besonders solche, die ich im Alltag o
 
 Wichtige Entscheidungen mit Kontext, Gründen, Alternativen und späterer Rückschau.
 
-### Journal
+### Inbox
 
-Laufende Einträge, Momentaufnahmen und Reflexionen.
+Unsortierte Gedanken und Momentaufnahmen. Sie werden ohne Chronologie-Zwang festgehalten und später verarbeitet: in den passenden Bereich verschoben, zu einer Entscheidung gemacht oder gelöscht.
 
 ## Schreibregeln
 
