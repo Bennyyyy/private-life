@@ -10,4 +10,9 @@ Was mir wichtig ist. Welche Prinzipien ich ernst nehmen möchte. Wo ich nicht me
 
 ## Meine Werte
 
-<!-- z.B. als Liste mit kurzer Begründung, warum mir das wichtig ist -->
+> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
+
+- Meine Freiheit endet dort, wo ich andere beschneide.
+- Stetige Weiterentwicklung.
+- Alle Menschen sind gleich.
+- Meine Werte gelten auch für andere.

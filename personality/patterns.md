@@ -10,4 +10,12 @@ Wiederkehrende Denk- und Verhaltensweisen — besonders solche, die ich im Allta
 
 ## Erkannte Muster
 
-<!-- pro Muster: Wie zeigt es sich? Wann tritt es auf? Was wäre eine Alternative? -->
+> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
+
+- Ich sehe meist nur das, was ich nicht habe — anstatt das, was ich habe.
+- Ich meide Situationen oder verstecke meine Bedürfnisse oder mein Verhalten, um andere nicht zu verletzen.
+- In Gegenwart anderer versuche ich oft, es allen Anwesenden recht zu machen. Dadurch spüre ich meine eigenen Gefühle und Bedürfnisse weniger deutlich und verliere den Kontakt zu mir selbst. Alleine gelingt mir das besser; dann fühle ich mich auch freier und mehr wie ich selbst. Über die Jahre ist es bereits besser geworden.
+- Ich übertreibe gerne.
+- Alle Termine fühlen sich wie Verpflichtungen an — auch Freizeittermine.
+
+<!-- pro Muster ergänzen: Wie zeigt es sich? Wann tritt es auf? Was wäre eine Alternative? -->
