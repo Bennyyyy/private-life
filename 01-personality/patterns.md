@@ -18,5 +18,7 @@ Wiederkehrende Denk- und Verhaltensweisen — besonders solche, die ich im Allta
 - Bei überraschenden oder grenzüberschreitenden Ideen für Angeli habe ich große Angst, dass es ihr nicht gefällt oder sie sich überfordert fühlt. Weil das bereits vorgekommen ist, überlasse ich Überraschungen eher ihr und plane eigene Ideen gemeinsam mit ihr. Das gibt Sicherheit, nimmt aber Spontaneität.
 - Ich übertreibe gerne.
 - Alle Termine fühlen sich wie Verpflichtungen an — auch Freizeittermine.
+- Ich passe mich (besonders an Angeli) an, werde irgendwann müde davon und fordere dann stärker ein, was mir wichtig ist — woraufhin Konflikte zunehmen. Alternative: mein Bedürfnis früher und ruhiger benennen, statt erst anzupassen und dann übergangen zu reagieren (→ [Wir](../03-relationship/us.md), Analyse vom 13.07.2026).
+- Ich merke oft erst zu spät, dass ein Bedürfnis von mir übergangen wird, und kann es dann nicht mehr vertreten — besonders, wenn ich mich schon heruntergefahren oder angepasst habe.
 
 <!-- pro Muster ergänzen: Wie zeigt es sich? Wann tritt es auf? Was wäre eine Alternative? -->

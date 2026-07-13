@@ -102,6 +102,70 @@ Was mir unabhängig von Angeli fehlt:
 
 - Menschen in meinem Leben, die mich verstehen oder denen es genauso geht wie mir.
 
+## Analyse der Beziehungsschwierigkeiten (Interview, 13.07.2026)
+
+> Quelle: Interview mit Claude am 13.07.2026. Die Beobachtungen stammen von mir; die als *Deutung* markierten Zusammenhänge sind gemeinsam erarbeitete Interpretationen, keine gesicherten Wahrheiten.
+
+Ausgangspunkt: Ich habe zunehmend Schwierigkeiten mit der Beziehung und wollte sie genauer verstehen. Woran ich merke, dass etwas nicht stimmt: Ich fühle mich immer wieder angegriffen; schon vor Treffen kommt Angst, dass es nicht schön wird, sondern wir nur diskutieren oder streiten; die Anziehung zu ihr ist schwächer als früher, ich habe oft eher Lust auf Zeit mit anderen; und das Sexuelle zwischen uns fehlt mir total.
+
+### 1. „Angegriffen fühlen" und „übergangen werden" — Vibe und Gegenseitigkeit
+
+Wichtige Präzisierung: Ich fühle mich in vielen Situationen tatsächlich **angegriffen**, nicht nur übergangen. Die folgende Beispielszene ist ein Fall von Übergangen-werden; sie steht nicht stellvertretend für alle Konflikte. Das echte Angriffs-Erleben ist ein eigener, noch genauer zu betrachtender Faden.
+
+Beispielszene (Abend bei Freunden, ~2 Tage zuvor): Angeli war die letzten 1–2 Stunden müde und still, wir sprachen zu dritt weiter, ich passte mich an und wurde auch ruhiger, wir beendeten den Abend. Auf dem Weg zum Auto wurde sie plötzlich wieder wach, wollte Cabrio fahren und ihre Musik hören. Ich war schon heruntergefahren, wollte Ruhe, konnte mich nicht mehr wehren, saß leise und genervt daneben.
+
+- Der wunde Punkt ist die **Asymmetrie**: Ich richte mich nach ihr, aber es kommt nicht gleichwertig zurück. Als ich sie vorher gebraucht hätte, war sie müde; als ich Ruhe wollte, drehte sie auf. Ihre Energie kommt oft im für mich falschen Moment. Da fühle ich mich verarscht.
+- Nicht das Anpassen an sich nervt, sondern das **einseitige** Anpassen. Ich wünsche mir öfter denselben Vibe — oder dass wir uns leicht angleichen und ihn dann gemeinsam halten.
+- *Deutung / ehrlicher Zusatz:* Dieses „sich übergangen fühlen und sich zu spät wehren" ist sonst eher Angelis Seite. Es passiert mir wahrscheinlich öfter, als ich es wahrnehme.
+
+### 2. Die Anziehung ließ schon vor den offenen Konflikten nach
+
+- Der Rückgang war schleichend, nicht sexuell allein. Ursachen aus meiner Sicht: immer mehr wahrgenommene Unterschiede in Dingen, die mir wichtig sind; fehlende Leichtigkeit und gemeinsame Spaßmomente; oft kein gemeinsamer Vibe.
+- Ich habe mich lange angepasst (Angeli auch), wurde müde davon, fing an, mehr ich selbst zu sein und einzufordern, was mir wichtig ist — **daraufhin** nahmen die Konflikte zu.
+- *Deutung:* Die Konflikte sind eher **Symptom** einer schon vorher schwindenden Verbindung als deren Wurzel.
+- Zusätzlicher Verlust: Unser Sexleben war früher eine große **Gemeinsamkeit**. Seit der Krebserkrankung 2020 wurde es stark heruntergefahren, obwohl es uns beiden viel bedeutete — heute ist daraus ein Streitthema geworden. Etwas, das uns verband, trennt uns jetzt.
+
+### 3. Verlorene Bewunderung und der Angst-Kreislauf (mögliche Kernerkenntnis)
+
+Was ich früher am meisten an ihr bewundert / anziehend fand: ihre grenzenlose, abenteuerlustige Art, ihr unkonventioneller und kreativer Zugang zu allem, ihr Hedonismus, ihr Intellekt und ihre Weltoffenheit. Sie hatte Spaß mit mir, wollte Neues (vor allem sexuell) ausprobieren, kam am Tisch mit Freunden plötzlich mit einer leichten, weltoffenen, unkonventionellen Sichtweise um die Ecke. (*Vorbehalt:* Ich übertreibe die Erinnerung vielleicht; es gab damals auch schon andere Probleme.)
+
+- Diese Qualität ist **nicht weg, sondern verschüttet**. Ich sehe noch Reste, muss sie mir aber immer wieder bewusst machen.
+- *Deutung — der Kreislauf:* Was sie verschüttet, ist ihre **Angst** — besonders die Angst, mich zu triggern, mir nicht zu genügen, mich zu verlieren. Genau diese Angst erstickt aber die freie, mutige, coole Seite, die mich ursprünglich angezogen hat. Und meine Distanz und Genervtheit nähren wiederum ihre Angst. Ein sich selbst verstärkender Kreislauf. Mein eigener Satz dazu: „Wenn sie sich unabhängig und sicher fühlt, kann sie eher wieder so cool sein wie früher."
+
+### 4. Mein eigener Anteil und die Inkongruenz
+
+- Ich sehe meinen Anteil am Kreislauf, weiß aber nicht, wie ich ihn ändern kann. Ich versuche, weniger in Distanz zu gehen und ihr Sicherheit zu geben.
+- Aber: Da es zwischen uns eben *nicht* sicher ist, kann ich Sicherheit nicht überzeugend rüberbringen — und das merkt sie.
+- *Deutung:* Das ist kein Technikproblem, sondern ein Signal meiner eigenen Unklarheit. Sicherheit vorspielen, die ich nicht fühle, funktioniert nicht.
+
+### 5. Was ich will (der momentan lautere Pol)
+
+Es gibt Anteile in beide Richtungen. Lauter ist gerade der Wunsch, dass es funktioniert — unter Bedingungen:
+
+- Weiter an der Beziehung arbeiten und Lösungen finden.
+- Wieder **gemeinsam lachen**, gemeinsame Leichtigkeit und Spaß.
+- So akzeptiert werden, wie ich bin — besonders sexuell: dass Sex mir wichtig ist und mir mit Angeli fehlt; dass ich ihn deshalb mit anderen suche und andere Frauen schön finde; und dass ich das mit ihr **teilen** kann, ohne dass sie sich bedroht oder abgewertet fühlt. Dass sie versteht, dass das mein Bedürfnis ist und erst mal nichts mit ihr zu tun hat.
+- Volle gegenseitige Akzeptanz der Bedürfnisse und gewollten Eigenschaften des anderen.
+- *Zweifel:* Manche Veränderungen, die ich mir vorstelle, wären vielleicht so groß, dass „Angeli nicht mehr Angeli wäre". Ich weiß aber nicht, ob das wirklich so wäre.
+
+### 6. Der zentrale Knoten: meine Freiheit gegen ihre Sicherheit
+
+- *Deutung:* Ausgerechnet das, was ich mir am meisten wünsche — dass sie meine Sexualität und die anderen Frauen entspannt akzeptiert —, löst ihre tiefste Angst aus („nicht genug zu sein"). Und diese Angst erstickt genau die freie Seite, die ich an ihr vermisse. Meine Freiheit und ihre Sicherheit ziehen gerade gegeneinander.
+- Ich sehe diesen Knoten auch so; ob er *der* Kern ist, weiß ich nicht — ein echter Konfliktpunkt ist er auf jeden Fall.
+- Was Angeli bräuchte, um meine Sexualität nicht als Bedrohung zu erleben, weiß ich nicht. Vermutlich ein Sicherheitsgefühl, das von mir ausgeht — genau das, was ich ihr gerade nicht geben kann.
+
+### Der Engpass, in einem Satz
+
+Der Engpass bin gerade ich selbst: Ich kann Angeli keine Sicherheit geben, die ich nicht fühle, und ich weiß noch nicht klar genug, was ich will. Solange meine eigene Unklarheit besteht, greifen „gib ihr mehr Sicherheit" und „sei wieder mehr du selbst" beide zu kurz.
+
+### Noch offene Fäden (für ein nächstes Gespräch)
+
+- Das echte **Angriffs-Erleben**: konkrete Situationen, in denen ich mich wirklich angegriffen (nicht nur übergangen) fühle — was genau als Angriff ankommt (Worte, Tonfall, Timing) und was dahintersteckt.
+- Die Angst *vor* Treffen — was genau löst sie aus, und stimmt die Erwartung „es wird nur Streit" mit der Realität überein?
+- Das Sexuelle im Detail: Schmerzen, „Handbremse", was konkret möglich wäre und was nicht.
+- Die konkreten Unterschiede und Wertekonflikte (Sex, Hygiene/Gesundheit, Patriarchat/Feminismus, Politik, Dates, Pornografie, Autofahren) — welche davon sind echte Werteunterschiede und welche eher Ausdruck des Angst-Kreislaufs?
+- Was ich selbst brauche, um mir über den lauteren Pol klarer zu werden.
+
 ## Schöne Momente
 
 <!-- festhalten, was gut war — das geht sonst verloren -->

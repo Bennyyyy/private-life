@@ -38,6 +38,7 @@ Diese Einschätzungen beschreiben meine subjektive Sicht, keine gesicherten Diag
 - Unter Stress kann ihre Kommunikation kritisch, vorwurfsvoll oder aggressiv werden. Teilweise versucht sie aus meiner Sicht indirekt, andere auf ihr Bedürfnis auszurichten, statt es offen als ihr eigenes zu vertreten.
 - Sie möchte gefallen und übernimmt viel Verantwortung für die Reaktionen anderer. Gleichzeitig fällt es ihr schwer, unabhängig davon für ihre Bedürfnisse einzustehen.
 - Vieles davon hat sich bereits verbessert oder zeigt sich inzwischen in anderen Strategien.
+- Was ich früher an ihr bewundert habe — ihre grenzenlose, abenteuerlustige, unkonventionelle, hedonistische, weltoffene und intellektuelle Art — ist aus meiner Sicht nicht weg, sondern von ihrer Angst und Anspannung verschüttet. Wenn sie sich unabhängig und sicher fühlt, kommt diese Seite eher wieder heraus (→ [Wir](us.md), Analyse vom 13.07.2026).
 
 ### Energie
 
