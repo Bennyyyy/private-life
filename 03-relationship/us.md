@@ -20,8 +20,8 @@ Unsere Beziehung: wie es uns geht, was gut läuft, was schwierig ist, was wir ge
 
 ## Wiederkehrende Themen
 
-- Wir führen eine offene Beziehung. Angeli ist mit sexuellen Erfahrungen mit anderen Frauen einverstanden und hat selbst Sex mit anderen Männern. Nicht alle darüber hinausgehenden Freiheiten sind bereits gemeinsam geklärt (→ [Sexualität](../personality/sexuality.md)).
-- Mein Wunsch nach Intimität mit anderen Frauen löst bei Angeli teilweise das Gefühl aus, nicht genug zu sein (→ [Sexualität](../personality/sexuality.md), [Therapie](../health/therapy.md)).
+- Wir führen eine offene Beziehung. Angeli ist mit sexuellen Erfahrungen mit anderen Frauen einverstanden und hat selbst Sex mit anderen Männern. Nicht alle darüber hinausgehenden Freiheiten sind bereits gemeinsam geklärt (→ [Sexualität](../01-personality/sexuality.md)).
+- Mein Wunsch nach Intimität mit anderen Frauen löst bei Angeli teilweise das Gefühl aus, nicht genug zu sein (→ [Sexualität](../01-personality/sexuality.md), [Therapie](../02-health/therapy.md)).
 - Nicht zu heiraten löst bei Angeli ebenfalls das Gefühl aus, nicht genug zu sein.
 
 ## Momentaufnahme (Stand Juli 2026)

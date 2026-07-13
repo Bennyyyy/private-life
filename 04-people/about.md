@@ -1,6 +1,6 @@
 # Personen
 
-Menschen in meinem Leben — außer Angeli, die einen eigenen Bereich hat ([relationship/](../relationship/)).
+Menschen in meinem Leben — außer Angeli, die einen eigenen Bereich hat ([03-relationship/](../03-relationship/)).
 
 **Konvention:** eine Datei pro Person, z.B. `max.md`. Wird die Datei zu groß, kann sie zu einem Ordner werden (`max/`).
 

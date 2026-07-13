@@ -11,24 +11,24 @@ The full purpose, principles, and intended structure are described in `README.md
 ## Language and naming rules
 
 - **Content is always written in German** — file contents, headings, and journal entries.
-- **File and folder names are always in English**, always lowercase, with hyphens as separators where needed (e.g. `01-who-i-am.md`, `journal/`, `decision-log.md`). Never use German, uppercase, spaces, or underscores in names.
+- **File and folder names are always in English**, always lowercase, with hyphens as separators where needed (e.g. `who-i-am.md`, `01-personality/`, `decision-log.md`). Root content folders additionally use two-digit numeric prefixes. Never use German, uppercase, spaces, or underscores in names.
 
 ## Structure
 
 ```text
 index.md          entry point, links all areas
-inbox.md          unsorted thoughts — captured first, processed later
-personality/      who-i-am, values, strengths-weaknesses, patterns
+00-inbox/         unsorted notes and files — captured first, processed later
+01-personality/   who-i-am, values, strengths-weaknesses, patterns
+02-health/        free-form health area, starts with overview.md
+03-relationship/  the user's partner Angeli (angeli.md, us.md)
+04-people/        other people, one file per person (see 04-people/about.md)
+05-decisions/     one file per decision, template in 05-decisions/about.md
+06-documents/     real files (PDFs, scans) in topic subfolders (see 06-documents/about.md)
 goals.md          short- and long-term goals
-relationship/     the user's partner Angeli (angeli.md, us.md)
-people/           other people, one file per person (see people/about.md)
-decisions/        one file per decision, template in decisions/about.md
-health/           free-form health area, starts with overview.md
-documents/        real files (PDFs, scans) in topic subfolders (see documents/about.md)
-archive/          outdated content — move here instead of deleting (created on demand)
+99-archive/       outdated content — move here instead of deleting (created on demand)
 ```
 
-Workflow: new thoughts go into `inbox.md` first; processing means moving them into the right area, turning them into a decision file, or deleting them. The inbox should shrink, not grow. Each `about.md` documents its folder's conventions — read it before adding files there.
+Workflow: new notes, PDFs, and other unclassified files go into `00-inbox/` first; processing means moving them into the right area, turning them into a decision file, or deleting them. The inbox should shrink, not grow. Its note is `00-inbox/inbox.md`. Each `about.md` documents its folder's conventions — read it before adding files there. Root content folders use two-digit numeric prefixes for stable ordering in file browsers and Obsidian.
 
 ## Writing principles (from README, follow when drafting or editing content)
 
@@ -39,7 +39,11 @@ Workflow: new thoughts go into `inbox.md` first; processing means moving them in
 
 ## Maintenance rhythms
 
-The README defines review routines the user may ask for: weekly short review, monthly check-in, quarterly goal review, yearly retrospective, and occasional archiving of outdated thoughts (move to `archive/` rather than delete).
+The README defines review routines the user may ask for: weekly short review, monthly check-in, quarterly goal review, yearly retrospective, and occasional archiving of outdated thoughts (move to `99-archive/` rather than delete).
+
+## Git workflow
+
+Do not commit or push changes unless the user explicitly asks. Leave changes in the working tree for review.
 
 ## Privacy
 

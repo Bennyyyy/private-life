@@ -21,4 +21,4 @@
 - Wenn ich so bin, wie ich bin, enttäusche ich oder bin nicht genug.
 - Menschen wenden sich von mir ab, wenn ich so bin, wie ich bin.
 
-Siehe auch: [Glaubenssätze](beliefs.md), [Therapie](../health/therapy.md)
+Siehe auch: [Glaubenssätze](beliefs.md), [Therapie](../02-health/therapy.md)

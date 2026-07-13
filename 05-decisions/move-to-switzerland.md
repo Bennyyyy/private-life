@@ -13,7 +13,7 @@ Beides ist beschlossen und wird gerade umgesetzt. <!-- Gründe und Kontext ergä
 
 ## Aktueller Stand
 
-Der Umzug ist gerade eine spürbare Stress- und Unsicherheitsquelle — zusammen mit der offenen Situation auf der Arbeit (→ [Mentale Gesundheit](../health/mental.md)). Angeli und ich sind noch auf Wohnungssuche.
+Der Umzug ist gerade eine spürbare Stress- und Unsicherheitsquelle — zusammen mit der offenen Situation auf der Arbeit (→ [Mentale Gesundheit](../02-health/mental.md)). Angeli und ich sind noch auf Wohnungssuche.
 
 ## Rückschau
 

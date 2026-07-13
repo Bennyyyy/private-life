@@ -39,21 +39,21 @@ Dieses Repository ist privat. Die Inhalte sind nicht für Außenwirkung, Selbstd
 
 ## Struktur
 
-Datei- und Ordnernamen sind englisch, kleingeschrieben, mit Bindestrich. Inhalte sind immer deutsch.
+Datei- und Ordnernamen sind englisch, kleingeschrieben, mit Bindestrich. Root-Ordner erhalten für eine stabile Sortierung zweistellige Präfixe. Inhalte sind immer deutsch.
 
 ```text
 .
 ├── README.md
 ├── index.md          Einstiegspunkt, verlinkt alle Bereiche
-├── inbox.md          unsortierte Gedanken, werden später verarbeitet
-├── personality/      wer ich bin, Werte, Stärken/Schwächen, Muster
+├── 00-inbox/         unsortierte Notizen und Dateien zur späteren Verarbeitung
+├── 01-personality/   wer ich bin, Werte, Stärken/Schwächen, Muster
+├── 02-health/        Gesundheit, körperlich und mental
+├── 03-relationship/  meine Beziehung zu Angeli
+├── 04-people/        andere Personen, eine Datei pro Person
+├── 05-decisions/     eine Datei pro Entscheidung, mit Vorlage
+├── 06-documents/     wichtige Unterlagen, thematisch in Unterordnern
 ├── goals.md          Ziele
-├── relationship/     meine Beziehung zu Angeli
-├── people/           andere Personen, eine Datei pro Person
-├── decisions/        eine Datei pro Entscheidung, mit Vorlage
-├── health/           Gesundheit, körperlich und mental
-├── documents/        wichtige Unterlagen, thematisch in Unterordnern
-└── archive/          Überholtes (entsteht bei Bedarf)
+└── 99-archive/       Überholtes (entsteht bei Bedarf)
 ```
 
 ## Wichtige Bereiche
@@ -84,7 +84,7 @@ Wichtige Entscheidungen mit Kontext, Gründen, Alternativen und späterer Rücks
 
 ### Inbox
 
-Unsortierte Gedanken und Momentaufnahmen. Sie werden ohne Chronologie-Zwang festgehalten und später verarbeitet: in den passenden Bereich verschoben, zu einer Entscheidung gemacht oder gelöscht.
+Unsortierte Notizen, PDFs und andere Dateien. Sie werden ohne Chronologie-Zwang gesammelt und später verarbeitet: in den passenden Bereich verschoben, zu einer Entscheidung gemacht oder gelöscht.
 
 ## Schreibregeln
 

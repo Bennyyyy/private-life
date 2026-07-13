@@ -21,12 +21,12 @@ Ich möchte viele sexuelle Erfahrungen machen:
 - Angeli ist damit einverstanden, dass ich Sex mit anderen Frauen habe, und sie hat Sex mit anderen Männern.
 - Bei mir kommt Sex mit anderen Frauen häufiger vor. Angeli ist auch vor dem Hintergrund unserer unterschiedlichen bisherigen Erfahrungen und ihrer damaligen Handlungen damit einverstanden.
 - Nicht alle darüber hinausgehenden Freiheiten sind bereits besprochen; das möchte ich später klären.
-- Mit der Psychologin besprochen → [Therapie](../health/therapy.md)
+- Mit der Psychologin besprochen → [Therapie](../02-health/therapy.md)
 
 ## Was mir gerade fehlt
 
 - Penetrativer, ungeschützter, spontaner Sex.
-- Ich liebe es, schöne Frauen zu betrachten und darüber zu reden — darauf verzichte ich, um Angeli zu gefallen (→ [Mentale Gesundheit](../health/mental.md), Regulationsstrategien).
+- Ich liebe es, schöne Frauen zu betrachten und darüber zu reden — darauf verzichte ich, um Angeli zu gefallen (→ [Mentale Gesundheit](../02-health/mental.md), Regulationsstrategien).
 
 ## Offene Fragen
 
@@ -34,4 +34,4 @@ Ich möchte viele sexuelle Erfahrungen machen:
 - Habe ich einen Analsex-Fetisch?
 - Ändert ein Orgasmus meine Ansichten zu sexuellen Themen kurzfristig?
 
-Siehe auch: [Bedürfnisse](needs.md), [Wir](../relationship/us.md)
+Siehe auch: [Bedürfnisse](needs.md), [Wir](../03-relationship/us.md)

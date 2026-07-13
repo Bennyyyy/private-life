@@ -18,7 +18,7 @@ Erkenntnisse und Themen aus der Arbeit mit meiner Psychologin.
 
 ## Themen rund um Angeli
 
-- Mein Wunsch nach einer offenen Beziehung löst bei Angeli das Gefühl aus, nicht genug zu sein — dabei hat es nichts damit zu tun (→ [Sexualität](../personality/sexuality.md)).
+- Mein Wunsch nach einer offenen Beziehung löst bei Angeli das Gefühl aus, nicht genug zu sein — dabei hat es nichts damit zu tun (→ [Sexualität](../01-personality/sexuality.md)).
 - Nicht zu heiraten löst bei Angeli ebenfalls das Gefühl aus, nicht genug zu sein.
 
-Siehe auch: [Glaubenssätze](../personality/beliefs.md), [Ängste](../personality/fears.md)
+Siehe auch: [Glaubenssätze](../01-personality/beliefs.md), [Ängste](../01-personality/fears.md)

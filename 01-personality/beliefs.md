@@ -22,7 +22,7 @@
 
 - Ich hatte eine eingeschränkte Kindheit.
 - Ich habe immer versucht, mich korrekt zu verhalten.
-- Ich war mit [Agi](../people/agi.md) lange in einer „langweiligen" Beziehung.
+- Ich war mit [Agi](../04-people/agi.md) lange in einer „langweiligen" Beziehung.
 - Ich habe mein Studentenleben nicht voll ausgekostet.
 
 ## Neue Glaubenssätze (Gegenentwürfe)
@@ -34,4 +34,4 @@
 - Ich darf so sein, wie ich bin.
 - Ich bin in einer Beziehung **und** ein freier Mensch.
 
-Siehe auch: [Ängste](fears.md), [Muster](patterns.md), [Therapie](../health/therapy.md)
+Siehe auch: [Ängste](fears.md), [Muster](patterns.md), [Therapie](../02-health/therapy.md)

@@ -56,4 +56,4 @@ Diese Punkte dokumentieren vor allem, was ich damals gebraucht oder mir gewünsc
 - Bei mir kommt Sex mit anderen Frauen häufiger vor. Angeli ist auch vor dem Hintergrund unserer unterschiedlichen bisherigen Erfahrungen und ihrer damaligen Handlungen damit einverstanden.
 - Welche weiteren Freiheiten konkret gemeinsam vereinbart sind, möchte ich später klären.
 
-Siehe auch: [Wir](us.md), [Therapie](../health/therapy.md)
+Siehe auch: [Wir](us.md), [Therapie](../02-health/therapy.md)
