@@ -5,6 +5,7 @@ Wer sie ist, was sie mir bedeutet, was ich an ihr sehe.
 ## Eckdaten
 
 - Geboren am 24.04.1985 in Wangen im Allgäu
+- Hat an der Universität Konstanz Psychologie studiert
 
 ## Leitfragen
 

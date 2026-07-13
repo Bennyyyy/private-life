@@ -4,7 +4,7 @@ Unsere Beziehung: wie es uns geht, was gut läuft, was schwierig ist, was wir ge
 
 ## Eckdaten
 
-- Kennengelernt am 12.07.2013
+- Kennengelernt am 12.07.2013 in der Schmugglerbucht; dort hatten wir unser erstes Date
 - Jahrestag: 12. Juli — 2026 zum 13. Mal
 - Anfangszeit und ihre Folgen: [Angelis Verhalten in den ersten 1,5 Jahren](betrayal-first-years.md)
 
