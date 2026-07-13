@@ -18,11 +18,33 @@ Unsere Beziehung: wie es uns geht, was gut läuft, was schwierig ist, was wir ge
 
 <!-- -->
 
+## Gegenseitige Wertschätzung
+
+Was ich an Angeli und mit ihr besonders schätze:
+
+- Ihre Überraschungen, morgendlichen Nachrichten und die Gedanken, die sie sich macht, um mir etwas Gutes zu tun
+- Ihre freche, spielerische Art sowie ihre gute Laune und Leichtigkeit, die mir selbst an muffeligen Tagen guttun
+- Unsere vielen schönen erotischen Erlebnisse sowie ihre Bilder und Videos
+- Gemeinsames Essen und Genießen
+- Ihre Berührungen, die mich je nach Situation beruhigen oder erregen
+
+Was Angeli an mir besonders schätzt:
+
+- Dass ich mir Ideen und Anwendungen überlege, die uns als Paar guttun können
+- Mein Interesse an Themen und die Gespräche darüber
+- Wenn ich für uns einkaufe und koche und wir anschließend gemütlich Zeit auf dem Sofa verbringen
+- Liebevolle Blicke, feste Umarmungen und meine Massagen
+
 ## Wiederkehrende Themen
 
 - Wir führen eine offene Beziehung. Angeli ist mit sexuellen Erfahrungen mit anderen Frauen einverstanden und hat selbst Sex mit anderen Männern. Nicht alle darüber hinausgehenden Freiheiten sind bereits gemeinsam geklärt (→ [Sexualität](../01-personality/sexuality.md)).
 - Mein Wunsch nach Intimität mit anderen Frauen löst bei Angeli teilweise das Gefühl aus, nicht genug zu sein (→ [Sexualität](../01-personality/sexuality.md), [Therapie](../02-health/therapy.md)).
 - Nicht zu heiraten löst bei Angeli ebenfalls das Gefühl aus, nicht genug zu sein.
+
+### Sexualität und gesundheitliche Einschränkung
+
+- Angeli mag es sehr, wenn ich sexuelle Intimität initiiere, sie packe und den Sex beginne.
+- Diese Form der Intimität ist seit einiger Zeit nicht mehr möglich, weil Angeli beim Sex Schmerzen im Zusammenhang mit ihrer Brustkrebserkrankung hat.
 
 ### Konfliktdynamik (Stand Juli 2026)
 

@@ -26,6 +26,7 @@ Ich möchte viele sexuelle Erfahrungen machen:
 ## Was mir gerade fehlt
 
 - Penetrativer, ungeschützter, spontaner Sex.
+- Spontane, von mir initiierte Intimität mit Angeli ist derzeit aufgrund ihrer Schmerzen beim Sex nicht möglich (→ [Wir](../03-relationship/us.md)).
 - Ich liebe es, schöne Frauen zu betrachten und darüber zu reden — darauf verzichte ich, um Angeli zu gefallen (→ [Mentale Gesundheit](../02-health/mental.md), Regulationsstrategien).
 
 ## Offene Fragen

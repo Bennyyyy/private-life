@@ -9,6 +9,10 @@ Wenn ein Thema wächst, bekommt es eine eigene Datei in diesem Ordner (z.B. `sle
 - [Mentale Gesundheit](mental.md) — Belastungen, aktuelle Momentaufnahme, Regulationsstrategien
 - [Therapie](therapy.md) — Erkenntnisse aus der Arbeit mit meiner Psychologin
 
+## Eckdaten
+
+- Blutgruppe: 0 positiv (0+)
+
 ## Aktueller Stand
 
 - Stand Juli 2026: viel Stress und Unsicherheit (Arbeit, Umzug Schweiz, Zusammenziehen), gerade sehr dünnhäutig → Details in [mental.md](mental.md)

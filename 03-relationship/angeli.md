@@ -13,6 +13,19 @@ Wer sie ist, was sie mir bedeutet, was ich an ihr sehe.
 - Was braucht sie von mir?
 - Was verstehe ich an ihr noch nicht?
 
+## Vorlieben
+
+- Bowls, Granatapfel und Stracciatella-Eis
+- Feigenbäume, Blumen, Natur und Tiere
+- Italien, Mode und Übernachtungen in Tiny Houses
+- Fürsorge
+- Bei sexueller Intimität mag sie es sehr, wenn ich die Initiative übernehme, sie packe und den Sex beginne.
+
+## Gesundheit
+
+- Angeli ist an Brustkrebs erkrankt.
+- Seit einiger Zeit hat sie beim Sex Schmerzen, die mit ihrer Brustkrebserkrankung zusammenhängen.
+
 ## Notizen
 
 ### Meine Wahrnehmung (Stand Juli 2026)

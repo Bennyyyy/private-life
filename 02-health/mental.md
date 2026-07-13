@@ -19,9 +19,15 @@
 - Angeli und ich stressen uns noch mehr, wenn wir gestresst sind.
 - Beziehungsthemen im Detail → [Wir](../03-relationship/us.md)
 
-## Regulationsstrategien, auf die ich verzichte, um Angeli zu gefallen
+## Regulationsstrategien
 
-- Ganja
-- Schöne Frauen betrachten und darüber reden (→ [Sexualität](../01-personality/sexuality.md))
+- Humor, besonders extremerer Humor
+- Computerspiele
+- Sport
+- Schlaf
+- Zeit alleine
+- Alkohol
+- Ganja *(darauf verzichte ich derzeit, um Angeli zu gefallen)*
+- Schöne Frauen betrachten und darüber reden *(darauf verzichte ich derzeit, um Angeli zu gefallen; → [Sexualität](../01-personality/sexuality.md))*
 
 Siehe auch: [Therapie](therapy.md), [Überblick](overview.md)
