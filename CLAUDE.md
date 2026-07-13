@@ -29,6 +29,8 @@ index.md          entry point, links all areas
 
 Workflow: new notes, PDFs, and other unclassified files go into `00-inbox/` first; processing means moving them into the right area, turning them into a decision file, or deleting them. The inbox should shrink, not grow. Its note is `00-inbox/inbox.md`. Each `about.md` documents its folder's conventions — read it before adding files there. Root content folders use two-digit numeric prefixes for stable ordering in file browsers and Obsidian.
 
+Processing the inbox is a semantic task, not a verbatim move. Read and understand each item, synthesize its new information into the appropriate existing files, and update multiple areas when needed. Preserve useful concrete observations, label interpretations as interpretations, avoid duplication, and ask the user when ambiguity would materially affect meaning or placement. Remove the source item only after all relevant information has been incorporated.
+
 ## Writing principles (from README, follow when drafting or editing content)
 
 - Honesty over polish: raw and honest beats well-formulated; short beats not at all.

@@ -23,6 +23,8 @@ Schreibe Inhalte, Überschriften und Notizen auf Deutsch. Datei- und Ordnernamen
 
 Automatisierte Tests und Coverage-Vorgaben existieren nicht. Kontrolliere vor dem Abschluss Überschriftenhierarchie, Rechtschreibung, relative Links und die Einträge in `index.md`, falls ein neuer Bereich hinzukommt. Neue Notizen und Dateien werden zuerst in `00-inbox/` erfasst und erst beim Sortieren in dauerhafte Themenbereiche verschoben.
 
+Beim Verarbeiten der Inbox werden Inhalte nicht lediglich kopiert oder verschoben. Lies und verstehe jeden Eintrag, verdichte neue Informationen und pflege sie in passende bestehende Dateien ein; das kann mehrere Bereiche betreffen. Kennzeichne Vermutungen als solche, erhalte relevante konkrete Beobachtungen und vermeide unnötige Dopplungen. Frage nach, wenn eine Unklarheit die Bedeutung oder Einordnung wesentlich verändert. Entferne den Inbox-Eintrag erst nach vollständiger Verarbeitung.
+
 ## Commits und Pull Requests
 
 Die jüngere Historie verwendet kurze, imperative Betreffzeilen, häufig mit deutschem Bereich oder Conventional-Commit-Präfix, etwa `docs: aktualisiere README auf die neue Struktur`. Erstelle standardmäßig weder Commit noch Push: Änderungen bleiben zur Begutachtung im Arbeitsverzeichnis, bis der Eigentümer ausdrücklich etwas anderes verlangt. Halte angeforderte Commits thematisch geschlossen und nenne den betroffenen Bereich. Pull Requests sollen Zweck, geänderte Dateien und mögliche strukturelle Folgen knapp erklären.

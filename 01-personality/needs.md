@@ -23,5 +23,9 @@
 - Sex → ausführlich in [Sexualität](sexuality.md)
 - Ich möchte, dass andere mich mögen
 - Ich will, dass andere mir nichts vorwerfen können
+- Ich möchte mich in meiner Beziehung sicher fühlen und darauf vertrauen können, dass mir grundsätzlich gute Absichten unterstellt werden.
+- Ich möchte mit meinen Eigenheiten und meiner Lebensweise gesehen werden, ohne mich ständig kritisiert oder verändert zu fühlen.
+- Ich wünsche mir, dass Bedürfnisse direkt und als persönliche Wünsche kommuniziert werden, statt als allgemeines Richtig oder Falsch.
+- Ich brauche neben ernsten Gesprächen auch Leichtigkeit, Humor und eine wohlwollende Grundhaltung.
 
 Siehe auch: [Glaubenssätze](beliefs.md), [Freuden](joys.md)

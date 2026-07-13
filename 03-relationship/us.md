@@ -24,6 +24,27 @@ Unsere Beziehung: wie es uns geht, was gut läuft, was schwierig ist, was wir ge
 - Mein Wunsch nach Intimität mit anderen Frauen löst bei Angeli teilweise das Gefühl aus, nicht genug zu sein (→ [Sexualität](../01-personality/sexuality.md), [Therapie](../02-health/therapy.md)).
 - Nicht zu heiraten löst bei Angeli ebenfalls das Gefühl aus, nicht genug zu sein.
 
+### Konfliktdynamik (Stand Juli 2026)
+
+- Angeli formuliert persönliche Bedürfnisse aus meiner Sicht teilweise als allgemeines Richtig oder Falsch. Bei mir kommt dann Kritik oder Abwertung an; ich verteidige meine Lebensweise. Sie erlebt diesen Widerstand wiederum als Zeichen, dass ihr Bedürfnis nicht wichtig ist. So diskutieren wir über Regeln, obwohl es eigentlich um zwei persönliche Bedürfnisse geht.
+- Unter Stress oder Unsicherheit reagiert Angeli schneller kritisch, kontrollierend oder vorwurfsvoll. Ich fühle mich dadurch nicht sicher, nicht wohlwollend gesehen und in meiner Selbstbestimmung eingeschränkt.
+- Besonders verletzend ist für mich der Eindruck, dass sie mir schlechte Absichten unterstellt oder mir nicht vertraut. Vorwürfe über eine Reaktion, die noch gar nicht eingetreten ist, lösen bei mir starken Widerstand aus. Ich sehe zugleich, dass frühere Reaktionen von mir ihre Sorge mitgeprägt haben könnten.
+- Belastete Themen sind insbesondere Sex, Hygiene und Gesundheit, Patriarchat und Feminismus, Politik, Dates, Pornografie sowie Autofahren und Verkehrsregeln.
+
+Was ich mir stattdessen wünsche:
+
+- Bedürfnisse und Ängste direkt als eigene benennen, statt sie als allgemeine Regeln oder Vorwürfe zu formulieren.
+- Konkrete, ruhige Bitten stellen und die Reaktion des Gegenübers nicht vorwegnehmen.
+- Unterschiedliche Bedürfnisse nebeneinander stehen lassen, ohne daraus richtig oder falsch abzuleiten.
+- Mehr entspannte, humorvolle und wohlwollende Situationen im Verhältnis zu konflikthaften Momenten. Angeli muss sich dafür nicht perfekt verhalten.
+
+### Beobachtete Situationen
+
+- Bei einer Hochzeit reagierte Angeli auf einen leisen Kommentar von mir peinlich berührt und körpersprachlich aggressiv. Ich möchte ihr nicht peinlich sein und mein Verhalten nicht an ihre sozialen Ängste anpassen müssen.
+- Beim Autofahren erlebe ich Hinweise zu Stoppschildern, Radfahrern oder dem Blinken häufig als plötzlich und aggressiv. Ich vermute dahinter Angst und ein starkes Sicherheitsbedürfnis.
+- Nachdem jemand vor ihr nieste, wollte sie die Straßenseite wechseln. Das passt für mich zum Konfliktfeld Hygiene und Gesundheit.
+- In einem zunächst lockeren Telefonat kippte die Stimmung beim Thema Impfungen und Patriarchat. Als Angeli befürchtete, ich könnte ihr die ernste Stimmung später vorwerfen, fühlte ich mich für eine noch nicht erfolgte Reaktion beschuldigt. Hilfreicher wäre für mich gewesen, wenn sie diese Sorge als Frage oder Angst benannt hätte.
+
 ## Momentaufnahme (Stand Juli 2026)
 
 > Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
