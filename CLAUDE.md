@@ -18,13 +18,12 @@ The full purpose, principles, and intended structure are described in `README.md
 ```text
 index.md          entry point, links all areas
 00-inbox/         unsorted notes and files — captured first, processed later
-01-personality/   who-i-am, values, strengths-weaknesses, patterns
+01-personality/   who-i-am, values, goals, strengths-weaknesses, patterns
 02-health/        free-form health area, starts with overview.md
 03-relationship/  the user's partner Angeli (angeli.md, us.md)
 04-people/        other people, one file per person (see 04-people/about.md)
 05-decisions/     one file per decision, template in 05-decisions/about.md
 06-documents/     real files (PDFs, scans) in topic subfolders (see 06-documents/about.md)
-goals.md          short- and long-term goals
 99-archive/       outdated content — move here instead of deleting (created on demand)
 ```
 

@@ -2,7 +2,7 @@
 
 ## Projektstruktur und Inhalte
 
-Dieses Repository ist kein Softwareprojekt, sondern ein privates, deutschsprachiges Personal Wiki. `index.md` ist der Einstiegspunkt; neue, noch unsortierte Notizen und Dateien gehören zunächst in `00-inbox/`. Thematische Inhalte liegen in den nummerierten Root-Ordnern `01-personality/` bis `06-documents/`. Ziele werden in `goals.md` gepflegt. Lies vor Änderungen an einem Bereich dessen `about.md`, sofern vorhanden. Überholte Inhalte werden nach `99-archive/` verschoben, nicht vorschnell gelöscht.
+Dieses Repository ist kein Softwareprojekt, sondern ein privates, deutschsprachiges Personal Wiki. `index.md` ist der Einstiegspunkt; neue, noch unsortierte Notizen und Dateien gehören zunächst in `00-inbox/`. Thematische Inhalte liegen in den nummerierten Root-Ordnern `01-personality/` bis `06-documents/`; Ziele werden in `01-personality/goals.md` gepflegt. Lies vor Änderungen an einem Bereich dessen `about.md`, sofern vorhanden. Überholte Inhalte werden nach `99-archive/` verschoben, nicht vorschnell gelöscht.
 
 ## Lokale Prüfung
 

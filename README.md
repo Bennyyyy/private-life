@@ -46,13 +46,12 @@ Datei- und Ordnernamen sind englisch, kleingeschrieben, mit Bindestrich. Root-Or
 ├── README.md
 ├── index.md          Einstiegspunkt, verlinkt alle Bereiche
 ├── 00-inbox/         unsortierte Notizen und Dateien zur späteren Verarbeitung
-├── 01-personality/   wer ich bin, Werte, Stärken/Schwächen, Muster
+├── 01-personality/   wer ich bin, Werte, Ziele, Stärken/Schwächen, Muster
 ├── 02-health/        Gesundheit, körperlich und mental
 ├── 03-relationship/  meine Beziehung zu Angeli
 ├── 04-people/        andere Personen, eine Datei pro Person
 ├── 05-decisions/     eine Datei pro Entscheidung, mit Vorlage
 ├── 06-documents/     wichtige Unterlagen, thematisch in Unterordnern
-├── goals.md          Ziele
 └── 99-archive/       Überholtes (entsteht bei Bedarf)
 ```
 
