@@ -13,6 +13,13 @@ Ich möchte viele sexuelle Erfahrungen machen:
 - Verrückte Orte
 - Verrückte Situationen
 
+## Was mich besonders erfüllt
+
+- Neuheit und Unvorhersehbarkeit
+- Sexuelle Intensität, Spontaneität und gemeinsame Grenzüberschreitungen
+- Wenn Angeli die Initiative übernimmt, mich überrascht und einen Wunsch von mir aus eigener Begeisterung aufgreift
+- Selbst geplante Erlebnisse können mich ebenfalls erfüllen, wenn Angeli erkennbar und mit Freude mitmacht.
+
 ## Offene Beziehung
 
 - Angeli und ich führen eine offene Beziehung.

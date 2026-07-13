@@ -18,6 +18,18 @@ Unsere Beziehung: wie es uns geht, was gut läuft, was schwierig ist, was wir ge
 
 <!-- -->
 
+## Abenteuer und Spontaneität
+
+In den ersten ein bis zwei Jahren, möglicherweise auch länger, hatten wir ständig aufregende Erlebnisse. Trotz anderer damaliger Probleme war ich mit diesem Teil unseres Lebens sehr zufrieden. Entscheidend waren Neuheit, Unvorhersehbarkeit, sexuelle Intensität, gemeinsame Grenzüberschreitungen und Spontaneität.
+
+Prägende Beispiele:
+
+- Bei einem unserer ersten Dates überraschte Angeli mich mit Analsex und erfüllte damit einen langjährigen Wunsch. Besonders wichtig waren ihre Initiative und die Art, wie es geschah.
+- Angeli schenkte mir einen gemeinsamen Swingerclub-Besuch. Obwohl der Club bereits geschlossen war, blieb der Versuch für mich aufregend und sehr schön.
+- Auf dem Pfänder zog Angeli mich spontan in eine kleine Scheune und initiierte dort einen kurzen sexuellen Moment.
+
+Heute plane ich eigene Ideen lieber gemeinsam mit Angeli, weil ich Angst habe, dass eine Überraschung ihr nicht gefällt oder sie überfordert. Besonders fehlt mir daher nicht nur das Abenteuer selbst, sondern ihre spontane, begeisterte Initiative.
+
 ## Gegenseitige Wertschätzung
 
 Was ich an Angeli und mit ihr besonders schätze:

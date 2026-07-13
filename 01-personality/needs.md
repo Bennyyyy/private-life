@@ -16,6 +16,8 @@
 - Ich möchte ein aufregendes Leben leben
 - Ich möchte Dinge übertreiben
 - Neue Erfahrungen ohne negative Konsequenzen machen
+- Gemeinsame Abenteuer erfüllen mich besonders, wenn mein Gegenüber spürbar begeistert mitmacht und nicht nur zustimmt.
+- Besonders schön ist es für mich, wenn Angeli selbst etwas Überraschendes initiiert und damit zeigt, dass sie dieses aufregende Leben mit mir teilen möchte.
 
 ## Beziehung und Anerkennung
 
