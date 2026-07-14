@@ -33,3 +33,10 @@ Vertiefung: [Glaubenssätze](beliefs.md) · [Ängste](fears.md) · [Bedürfnisse
 ## Notizen
 
 <!-- ehrlich, roh, unfertig ist okay -->
+
+### Ein extremes, risikofreudiges Leben als Identität (13.07.2026)
+
+- Ein extremes, risikofreudiges Leben mit vielen sexuellen (und anderen) Abenteuern gehört zu meiner Identität. Es ist selbst gewählt, und ich feiere mich selbst dafür.
+- Deshalb möchte ich auch von meiner Partnerin dafür gefeiert werden. Fehlt diese Anerkennung, erlebe ich das als teilweise Ablehnung meiner Identität — nicht als bloße Meinungsverschiedenheit.
+- Mein Leben zu nutzen ist mir sehr wichtig; das spüre ich besonders durch extreme Erlebnisse. Da ich auf Kinder verzichte, ist es mir besonders wichtig, diese Zeit für extreme Erlebnisse zu nutzen — vor allem sexuell, aber auch in anderen Bereichen.
+- Passt zum Charakterzug „Sensation Seeker". Bezug zur Beziehung: [Wir](../03-relationship/us.md), Analyse vom 13.07.2026 → [Sexualität](sexuality.md).

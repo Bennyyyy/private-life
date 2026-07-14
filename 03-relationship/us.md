@@ -154,6 +154,33 @@ Es gibt Anteile in beide Richtungen. Lauter ist gerade der Wunsch, dass es funkt
 - Ich sehe diesen Knoten auch so; ob er *der* Kern ist, weiß ich nicht — ein echter Konfliktpunkt ist er auf jeden Fall.
 - Was Angeli bräuchte, um meine Sexualität nicht als Bedrohung zu erleben, weiß ich nicht. Vermutlich ein Sicherheitsgefühl, das von mir ausgeht — genau das, was ich ihr gerade nicht geben kann.
 
+### 7. Meine eigene Unklarheit und der „Weg"-Pol
+
+Es gibt in mir Anteile in beide Richtungen; der lautere ist der Wunsch, dass es funktioniert. Der wegziehende Anteil ließ sich im Gespräch aber genauer fassen:
+
+- Es zieht mich **nicht weg von Angeli als Person, sondern weg von der Dynamik, dem Konflikt, der Enge.**
+- Wohin es zieht: erst mal allein und frei; mich sexuell stark ausleben; mehr Risiken (z. B. Sex ohne Kondom, aber mit vorherigem Test); offen vor Freunden von aufregenden Dingen schwärmen; offen für eine neue Beziehung, nichts ausschließen; wieder eher Cannabis, Partys; mehr Zeit für Hobbys und Freunde; insgesamt ein extremeres Leben.
+- *Deutung — der Kern des Weg-Pols:* Nicht „eine andere Frau", sondern **Freiheit** und das **Ende der Mitverantwortung** dafür, dass meine Bedürfnisse niemanden verletzen. Das passt zu meinem Muster (anpassen, Bedürfnisse verstecken, um andere nicht zu verletzen) und zur Therapie (Wut/Bedürfnisse unterdrücken, um Ablehnung zu vermeiden).
+
+Zwei Schichten der Enge:
+
+- **Meine eigene:** Beziehung bedeutet für mich grundsätzlich Enge / nicht mehr frei sein. Das arbeite ich seit Jahren auf, es ist besser, aber noch da — das würde ich mit jeder Partnerin spüren.
+- **Angelis:** Sie verstärkt das besonders durch ihre Angst, Unsicherheit und das Projizieren mit der Erwartung, dass ich mich entsprechend verhalte. Etwas Rücksicht ist okay, aber es ist „viel zu extrem" geworden; die Enge überwiegt seit einiger Zeit.
+
+Das Paradox: Dieselbe Person engt mich am meisten ein — *und* mit ihr habe ich mich **so frei gefühlt wie mit niemandem bisher**. Diese Freiheit besteht aus ihrer Weltoffenheit, ihrer Vorstellungskraft („sie kann sich alles vorstellen"), kreativem Out-of-the-box-Denken, sehr guter Kommunikation, analytischem Zugang — und daraus, dass sie eine offene Beziehung und extreme Dinge grundsätzlich *wollte*. Das Leben fühlte sich grenzenlos an, „als könnten wir alles gemeinsam schaffen".
+
+Offene Gabelung (*Deutung*): Angelis heutige Einengung könnte kommen aus **(a)** dem Angst-Kreislauf (verschüttet, im Kern noch da, erreichbar bei mehr Sicherheit) oder **(b)** einer echten, evtl. bleibenden Veränderung durch den Krebs (dauerhaft mehr Sicherheitsbedürfnis, weniger Lust auf gesundheitlich riskante Dinge). Ich weiß nicht, wie viel (a) und wie viel (b) ist.
+
+Der wichtigste Reframe des Gesprächs:
+
+- Ich brauche **nicht** zwingend, dass Angeli wieder alles mitmacht. Ich brauche die **Freiheit**, mein Leben so zu leben, wie ich es mag, plus ihre aktive **Unterstützung und Anerkennung** dafür — auch wenn sie selbst etwas anderes braucht und manches nicht mitmacht.
+- Wichtig: Ein extremes, risikofreudiges Leben mit vielen (v. a. sexuellen) Abenteuern gehört zu meiner **Identität**, nicht nur zu meinen Vorlieben (→ [Wer ich bin](../01-personality/who-i-am.md)). Fehlende Unterstützung erlebe ich deshalb als teilweise **Ablehnung meiner Identität**. Da ich auf Kinder verzichte, ist es mir besonders wichtig, meine Lebenszeit für solche Erlebnisse zu nutzen — das erhöht den Einsatz zusätzlich.
+- Dabei muss ihre **Eifersucht nicht verschwinden**. Unterstützung und Eifersucht dürfen nebeneinander bestehen; für die Eifersucht habe ich Verständnis. Zielbild ist also nicht „keine Angst mehr", sondern „Unterstützung *trotz* Angst".
+- Diesen Wunsch habe ich ihr **nie mit dieser Klarheit** gesagt — bisher eher als Bitte um Toleranz, nicht als Bitte um Unterstützung und Stolz. Das ist eine konkrete offene Lücke.
+- Der Wunsch nach Unterstützung gilt allgemein, ist aber bei einigen Themen über die Jahre besonders wichtig geworden: **andere Frauen und Cannabis.**
+
+*Möglicher nächster Schritt:* Angeli einmal klar und ruhig genau darum bitten — nicht um Toleranz, sondern um Unterstützung und Anerkennung dafür, mein Leben so zu leben, ausdrücklich mit dem Angebot, dass ihre Eifersucht dabei sein darf. Vorher für mich selbst klären, wie ernst und wie ausgewogen dieser Wunsch gegenüber meinem eigenen „Beziehung = Enge"-Thema steht.
+
 ### Der Engpass, in einem Satz
 
 Der Engpass bin gerade ich selbst: Ich kann Angeli keine Sicherheit geben, die ich nicht fühle, und ich weiß noch nicht klar genug, was ich will. Solange meine eigene Unklarheit besteht, greifen „gib ihr mehr Sicherheit" und „sei wieder mehr du selbst" beide zu kurz.
@@ -164,7 +191,9 @@ Der Engpass bin gerade ich selbst: Ich kann Angeli keine Sicherheit geben, die i
 - Die Angst *vor* Treffen — was genau löst sie aus, und stimmt die Erwartung „es wird nur Streit" mit der Realität überein?
 - Das Sexuelle im Detail: Schmerzen, „Handbremse", was konkret möglich wäre und was nicht.
 - Die konkreten Unterschiede und Wertekonflikte (Sex, Hygiene/Gesundheit, Patriarchat/Feminismus, Politik, Dates, Pornografie, Autofahren) — welche davon sind echte Werteunterschiede und welche eher Ausdruck des Angst-Kreislaufs?
-- Was ich selbst brauche, um mir über den lauteren Pol klarer zu werden.
+- Die Gabelung (a) Angst-Kreislauf vs. (b) bleibende Veränderung durch den Krebs — woran würde ich den Unterschied konkret erkennen?
+- Mein eigenes „Beziehung = Enge"-Thema — wie viel der Enge liegt an mir, unabhängig von Angeli, und was hilft mir dort weiter?
+- Ob und wie ich Angeli die klare Bitte um Unterstützung (statt nur Toleranz) tatsächlich stelle.
 
 ## Schöne Momente
 
