@@ -17,6 +17,7 @@
 - Ich muss gut aussehen.
 - Entweder bin ich frei oder in einer Beziehung.
 - Nur wenn ich alleine bin, spüre ich meine eigenen Gefühle und Bedürfnisse deutlich und fühle mich wirklich frei und wie ich selbst.
+- Wenn ich mich wehre oder ein Problem anspreche, „mache ich Ärger" und gefährde die Beziehung — also passe ich mich an. (Im Interview 17.07.2026 als *alte Regel* erkannt, nicht als heutige Wirklichkeit → [Wir](../03-relationship/us.md).)
 
 ## „Ich hab viel verpasst" — Herkunft
 
