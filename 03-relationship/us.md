@@ -39,6 +39,7 @@ Was ich an Angeli und mit ihr besonders schätze:
 - Unsere vielen schönen erotischen Erlebnisse sowie ihre Bilder und Videos
 - Gemeinsames Essen und Genießen
 - Ihre Berührungen, die mich je nach Situation beruhigen oder erregen
+- Dass sie selbst gern aufregend ist und vor Freunden verrückte Dinge erzählt oder sie mit unserem alternativen Leben aus dem Konzept bringt
 
 Was Angeli an mir besonders schätzt:
 
@@ -72,12 +73,27 @@ Was ich mir stattdessen wünsche:
 - Unterschiedliche Bedürfnisse nebeneinander stehen lassen, ohne daraus richtig oder falsch abzuleiten.
 - Mehr entspannte, humorvolle und wohlwollende Situationen im Verhältnis zu konflikthaften Momenten. Angeli muss sich dafür nicht perfekt verhalten.
 
+### „Meine Freude ist Angelis Leid"
+
+- Immer wieder wird meine Freude oder mein Interesse zu Angelis Stress oder Leid — die Stimmung kippt dann aus dem Nichts. Diese Dynamik belastet mich sehr und hemmt meine Lebensfreude.
+- Ich wünsche mir, dass Angeli meine Freuden unterstützt, statt darunter zu leiden. Beides darf da sein, aber die Freude oder der Support fehlt mir sehr. Das ist derselbe Wunsch nach Unterstützung statt bloßer Toleranz wie in der Analyse vom 13.07.2026 (→ Abschnitt „Was ich will").
+
 ### Beobachtete Situationen
 
 - Bei einer Hochzeit reagierte Angeli auf einen leisen Kommentar von mir peinlich berührt und körpersprachlich aggressiv. Ich möchte ihr nicht peinlich sein und mein Verhalten nicht an ihre sozialen Ängste anpassen müssen.
 - Beim Autofahren erlebe ich Hinweise zu Stoppschildern, Radfahrern oder dem Blinken häufig als plötzlich und aggressiv. Ich vermute dahinter Angst und ein starkes Sicherheitsbedürfnis.
 - Nachdem jemand vor ihr nieste, wollte sie die Straßenseite wechseln. Das passt für mich zum Konfliktfeld Hygiene und Gesundheit.
 - In einem zunächst lockeren Telefonat kippte die Stimmung beim Thema Impfungen und Patriarchat. Als Angeli befürchtete, ich könnte ihr die ernste Stimmung später vorwerfen, fühlte ich mich für eine noch nicht erfolgte Reaktion beschuldigt. Hilfreicher wäre für mich gewesen, wenn sie diese Sorge als Frage oder Angst benannt hätte.
+
+### Beobachtete Situation: Stimmungsumschwung am Wasser (16.07.2026)
+
+Wir trafen uns gegen 18 Uhr, beide nach einem vollen Tag, aber gut gelaunt. Wir wollten kurz ins Wasser springen, ich hatte wenig Zeit, weil ich danach einen Freund treffen wollte. Angeli hatte am Abend zuvor ein Hotel-Date mit Sex — etwas Besonderes, weil das zuletzt selten vorkam, auch wegen ihrer Schmerzen. Auf dem kurzen Weg zum Wasser redete ich viel und wollte viel wissen. Am Wasser fragte ich sie noch, ob sie eine Sprachnachricht meines für heute abgesagten Dates angehört hat — es wäre das erste Mal gewesen, dass sie die Stimme dieser Frau hört. Angeli wurde plötzlich angespannt und gestresst, wollte schnell ins Wasser, antwortete nicht. Ich verstand sie nicht, dachte, ich hätte etwas falsch gemacht, wurde still und genervt. Danach sprachen wir es an, beide schlecht gelaunt.
+
+Was herauskam: Angeli dachte, ich hätte sie nicht mehr lieb, und deutete meinen Umschwung so, als hätte sie es mir nicht gut genug gemacht. Ihr war in der kurzen, hektischen Zeit alles zu viel — zu viele Infos, die sie nicht so nebenbei besprechen wollte. Sie war genervt, dass ich so viel in die knappe Zeit packte, und wollte sich beeilen, damit ich nicht zu spät komme — obwohl mir das gar nicht wichtig war, darauf achte ich selbst. Danach beruhigten wir uns wieder, ich fühlte mich aber noch lange unwohl und trug einen Groll mit mir.
+
+Die Situation steht stellvertretend dafür, wie oft die Stimmung aus dem Nichts kippt und wie meine Freude und mein Interesse zu ihrem Stress oder Leid werden (→ „Meine Freude ist Angelis Leid").
+
+- *Deutung/Erkenntnis:* Angeli hat unter Stress Schwierigkeiten, sich zu spüren und ihre Bedürfnisse zu äußern. Sie glaubt, ich würde sauer, wenn sie ihre Bedürfnisse äußert. Tatsächlich ist es umgekehrt: Ich werde unsicher und genervt, wenn sie nichts sagt und sich nur körpersprachlich verändert — dann denke ich, ich hätte etwas falsch gemacht und sie ärgere sich heimlich über mich, bekomme Angst, dass meine Freude ihr Leid ist, und passe mich wieder an.
 
 ## Momentaufnahme (Stand Juli 2026)
 

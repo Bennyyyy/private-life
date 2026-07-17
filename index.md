@@ -13,6 +13,7 @@ Neue Notizen, PDFs und andere Dateien landen zuerst in der [Inbox](00-inbox/inbo
 | [00-inbox/](00-inbox/inbox.md) | Unsortierte Notizen und Dateien, die später verarbeitet werden |
 | [01-personality/](01-personality/) | Wer ich bin: Identität, Werte, Ziele, Stärken, Schwächen, Muster |
 | [Ziele](01-personality/goals.md) | Kurz- und langfristige persönliche Ziele |
+| [Vision](01-personality/vision.md) | Vision meines Wunschlebens — was ich will und nicht will |
 | [02-health/](02-health/) | Gesundheitliche Themen — körperlich und mental |
 | [03-relationship/](03-relationship/) | Meine Beziehung zu Angeli |
 | [04-people/](04-people/) | Andere Menschen in meinem Leben, eine Datei pro Person |

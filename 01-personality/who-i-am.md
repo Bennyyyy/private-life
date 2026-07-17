@@ -28,7 +28,7 @@ Identität, Persönlichkeit, Interessen, Ängste und Dinge, die mich geprägt ha
 
 - Befinde ich mich in einer Midlife-Crisis?
 
-Vertiefung: [Glaubenssätze](beliefs.md) · [Ängste](fears.md) · [Bedürfnisse](needs.md) · [Muster](patterns.md) · [Freuden](joys.md) · [Sexualität](sexuality.md) · [Offene Fragen](open-questions.md)
+Vertiefung: [Glaubenssätze](beliefs.md) · [Ängste](fears.md) · [Bedürfnisse](needs.md) · [Muster](patterns.md) · [Freuden](joys.md) · [Sexualität](sexuality.md) · [Vision meines Wunschlebens](vision.md) · [Offene Fragen](open-questions.md)
 
 ## Notizen
 
