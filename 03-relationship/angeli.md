@@ -40,6 +40,15 @@ Diese Einschätzungen beschreiben meine subjektive Sicht, keine gesicherten Diag
 - Vieles davon hat sich bereits verbessert oder zeigt sich inzwischen in anderen Strategien.
 - Was ich früher an ihr bewundert habe — ihre grenzenlose, abenteuerlustige, unkonventionelle, hedonistische, weltoffene und intellektuelle Art — ist aus meiner Sicht nicht weg, sondern von ihrer Angst und Anspannung verschüttet. Wenn sie sich unabhängig und sicher fühlt, kommt diese Seite eher wieder heraus (→ [Wir](us.md), Analyse vom 13.07.2026).
 
+### Angelis eigene Worte: Attraktivitäts-Unsicherheit (18.07.2026)
+
+Aus einem kurzen Interview **mit Angeli selbst** (nicht meine Deutung, sondern ihre Aussage):
+
+- Sie trägt schon länger die Sorge „bin ich anziehend / genug für ihn?".
+- Diese Sorge wird vor allem laut, wenn ich sage, dass ich **gerade weniger Gefühle für sie habe oder weniger verliebt bin**.
+- Ein Vergleich mit früher (konkret: dass ich beim Sex heute schneller komme als früher) landet bei ihr als Urteil über ihre Attraktivität — sie fürchtete, sie sei früher „weniger anturnend" gewesen.
+- Ausführlich dokumentiert in → [Wir](us.md), „Interview mit Angeli (18.07.2026)".
+
 ### Energie
 
 - Wenn Angeli gegen 6 Uhr aufsteht, ist ihre Energie meist ab etwa 21 Uhr aufgebraucht. Bei späterem Aufstehen liegt diese Grenze eher gegen 23 Uhr.
