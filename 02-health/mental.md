@@ -27,7 +27,7 @@
 - Schlaf
 - Zeit alleine
 - Alkohol
-- Ganja *(darauf verzichte ich derzeit, um Angeli zu gefallen)*
+- Ganja *(heute nur noch selten und geplant, alle paar Wochen — kein Abendkonsum mehr; ausführlich in [Cannabis](cannabis.md))*
 - Schöne Frauen betrachten und darüber reden *(darauf verzichte ich derzeit, um Angeli zu gefallen; → [Sexualität](../01-personality/sexuality.md))*
 
 Siehe auch: [Therapie](therapy.md), [Überblick](overview.md)

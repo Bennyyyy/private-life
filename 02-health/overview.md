@@ -8,6 +8,7 @@ Wenn ein Thema wächst, bekommt es eine eigene Datei in diesem Ordner (z.B. `sle
 
 - [Mentale Gesundheit](mental.md) — Belastungen, aktuelle Momentaufnahme, Regulationsstrategien
 - [Therapie](therapy.md) — Erkenntnisse aus der Arbeit mit meiner Psychologin
+- [Cannabis](cannabis.md) — der Bogen des Konsums über die Jahre: vom Belohnungs-Kreislauf zum geplanten Genuss
 
 ## Eckdaten
 
