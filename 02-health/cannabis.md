@@ -10,6 +10,7 @@ Der Bogen meines Cannabis-Konsums über die letzten Jahre — woher er kam, wozu
 - **bis 2020** — Der Konsum wird häufiger und löst sich vom Spieleabend. Cannabis wird zur abendlichen „Belohnung" nach harten Tagen.
 - **2020** — Corona und [Angelis Krebserkrankung](../03-relationship/angeli.md) fast gleichzeitig. Der Konsum wird vom Genuss zum Werkzeug, um überhaupt durch den Tag zu kommen.
 - **ab 2021/22** — Der Konsum geht zurück. Gründe: nachlassende Belastung, [Therapie](therapy.md) (ab Ende 2021), Reibung mit Angeli, eigener Wunsch nach mehr Leben.
+- **Ende 2024** — Kurz vor Weihnachten wollte ich die Beziehung beenden. Angeli und ich einigten uns darauf, dass Cannabis der Grund sein könnte. Danach einige Monate komplett abstinent, viel Sport, Leben wieder in die Hand genommen (→ [Wir](../03-relationship/us.md), Analyse 19.07.2026).
 - **heute (2026)** — Kein Abendkonsum mehr, seit langem. Nur noch selten, geplant, alle paar Wochen — meist um etwas zu verstärken, das ich ohnehin vorhatte (Computerspielen, am See chillen).
 
 ## Der Kreislauf (2018–2020)
@@ -43,4 +44,13 @@ Anfangs war das stark verschwommen — Konsum als Ausgleich zur stressigen Woche
 - Die Streitigkeiten mit Angeli (der Konsum war oft ein Konfliktthema zwischen uns).
 - Mein eigener Wunsch, wieder ein anderes Leben zu führen: Ich möchte viel erleben, und Cannabis hat mich manchmal aufgehalten. Sobald ich merke, dass ich mein Leben nicht so führe, wie ich es möchte, entsteht in mir schnell ein starker Wunsch nach Veränderung — dem ich dann auch nachgehe (→ [Stärken](../01-personality/strengths-weaknesses.md)).
 
-Siehe auch: [Mentale Gesundheit](mental.md), [Muster](../01-personality/patterns.md), [Therapie](therapy.md)
+## Zwei Fäden, die ständig verwechselt werden
+
+Aus dem Interview vom 19.07.2026 (ausführlich in [Wir](../03-relationship/us.md)):
+
+1. **Cannabis ↔ meine Lebendigkeit.** Maßvoll leben macht mich wirklich wacher und in mancher Hinsicht glücklicher. Das ist ein echter Grund zu moderieren — aber *mein eigener* (mein Kompass), nicht Angelis Auflage.
+2. **Cannabis ↔ unsere Beziehungsprobleme.** Die abstinente Zeit Ende 2024/25 hat gezeigt: Nüchtern blieben die eigentlichen Themen (nicht angenommen fühlen, unfrei fühlen, unsere Dynamik) bestehen — Cannabis ist **nicht die Wurzel**, sondern der Sündenbock, auf den wir uns geeinigt haben.
+
+Beim Thema selbst geht es mir heute weniger um die Menge (mit dem niedrigen Niveau könnte ich gut leben) als um **Selbstbestimmung**: selbst entscheiden zu dürfen, wann und wie viel — statt es mit Angeli abzusprechen. Warum Angelis Enttäuschung mich dabei so stark trifft (alte Wunde durch meine Mutter) und warum das eng mit „meine Freiheit gegen ihre Sicherheit" zusammenhängt, steht in [Wir](../03-relationship/us.md).
+
+Siehe auch: [Wir](../03-relationship/us.md), [Mentale Gesundheit](mental.md), [Muster](../01-personality/patterns.md), [Therapie](therapy.md)
