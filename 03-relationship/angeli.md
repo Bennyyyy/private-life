@@ -19,6 +19,10 @@ Wer sie ist, was sie mir bedeutet, was ich an ihr sehe.
 - Feigenbäume, Blumen, Natur und Tiere
 - Italien, Mode und Übernachtungen in Tiny Houses
 - Fürsorge
+- Schnäppchen und Angebote: Sie liest Supermarkt-Prospekte, nutzt Rabatt-Apps und freut sich am Sparen — Shoppen und besonders Schnäppchen geben ihr einen kleinen Kick
+- Neue Produkte ausprobieren; sie kann viel Zeit in Supermärkten und Läden verbringen
+- Viel Ketchup und andere Soßen auf Burger und Pommes; Nudeln müssen sofort nach dem Kochen, noch heiß, mit Pesto vermischt werden
+- Manchmal isst sie direkt aus der Packung, weil sie nicht warten kann, oder heimlich, damit es niemand sieht — und „krasse", eigentlich ungesunde Sachen muss sie einfach probieren
 - Bei sexueller Intimität mag sie es sehr, wenn ich die Initiative übernehme, sie packe und den Sex beginne.
 
 ## Gesundheit
@@ -40,7 +44,13 @@ Diese Einschätzungen beschreiben meine subjektive Sicht, keine gesicherten Diag
 - Vieles davon hat sich bereits verbessert oder zeigt sich inzwischen in anderen Strategien.
 - Was ich früher an ihr bewundert habe — ihre grenzenlose, abenteuerlustige, unkonventionelle, hedonistische, weltoffene und intellektuelle Art — ist aus meiner Sicht nicht weg, sondern von ihrer Angst und Anspannung verschüttet. Wenn sie sich unabhängig und sicher fühlt, kommt diese Seite eher wieder heraus (→ [Wir](us.md), Analyse vom 13.07.2026).
 
-### Angelis eigene Worte: Attraktivitäts-Unsicherheit (18.07.2026)
+### Was ich an ihr schätze und liebe (Interview, 21.07.2026)
+
+Antwort auf die Leitfrage „Was schätze ich an ihr — auch das, was ich ihr selten sage?"; ausführlich in → [Wir](us.md), „Interview: Was ich an Angeli liebe (21.07.2026)".
+
+- **In Gesellschaft** (z. B. Abend im Garten bei Christoph): schön und freundlich, hört aufmerksam zu, genießt den Moment, ist zwischendurch liebevoll zu mir, kann mit jedem sprechen, sagt schlaue und lustige Dinge. Ich bin stolz auf sie.
+- **Ihr Charakter, auch ganz ohne mich:** Sie hält viel aus, ohne zu zerbrechen. Anpassungsfähig, rational, handlungsfähig — sie geht Dinge an und setzt sie um. Eine wahnsinnig gute Psychologin: Sie liest Menschen, erkennt, was sie wirklich brauchen, und hilft ihnen. Man kann ihr vertrauen; sie ist zuverlässig.
+- **Ihre Macken rühren mich** (Schnäppchenjagd, Pesto-Ritual, heimlich aus der Packung essen, Ketchup-Berge — siehe Vorlieben). *Deutung:* Ihr gemeinsamer Nenner ist Genussfreude und kleine Impulsivität — Angelis Hedonismus lebt im Alltag weiter, nur im kleineren Maßstab.
 
 Aus einem kurzen Interview **mit Angeli selbst** (nicht meine Deutung, sondern ihre Aussage):
 
