@@ -62,3 +62,4 @@ Aus einem kurzen Interview **mit Angeli selbst** (nicht meine Deutung, sondern i
 ### Energie
 
 - Wenn Angeli gegen 6 Uhr aufsteht, ist ihre Energie meist ab etwa 21 Uhr aufgebraucht. Bei späterem Aufstehen liegt diese Grenze eher gegen 23 Uhr.
+- Sie sagt selbst, dass sie ihre Müdigkeit nicht richtig bemerkt und sich dann nicht mehr erklären kann. Danach wird sie still und verändert nur ihre Körpersprache — was bei mir ankommt, als hätte ich etwas falsch gemacht (→ [Wir](us.md), Analyse 28.07.2026).
