@@ -61,6 +61,7 @@ Was Angeli an mir besonders schätzt:
 
 - Angeli mag es sehr, wenn ich sexuelle Intimität initiiere, sie packe und den Sex beginne.
 - Diese Form der Intimität ist seit einiger Zeit nicht mehr möglich, weil Angeli beim Sex Schmerzen im Zusammenhang mit ihrer Brustkrebserkrankung hat.
+- *Deutung (30.07.2026, → [Sexualität](../01-personality/sexuality.md), Analyse „Was mich wirklich antreibt"):* Was sexuell fehlt, ist nicht primär die Penetration, sondern die **Erlaubnis, mit meiner Lust nichts kaputtmachen zu können**. Meine sexuelle Kernbedingung ist die spürbare, ausgesprochene Lust der anderen; Schmerz und Zögern sagen meinem Wachposten das Gegenteil. Deshalb fehlt mir vor allem Angelis begeisterte Initiative — und deshalb ist dieses Thema dieselbe Sache wie der Weg-Pol vom 13.07.: das Ende der Mitverantwortung dafür, dass meine Bedürfnisse niemanden verletzen. Der Befund gilt nicht nur für Angeli: Derselbe Mechanismus zeigt sich auch bei Rebecca (→ [Rebecca](../04-people/rebecca.md)), er hängt also an mir, nicht an ihr.
 
 ### Konfliktdynamik (Stand Juli 2026)
 
