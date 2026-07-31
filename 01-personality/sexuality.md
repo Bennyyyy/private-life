@@ -94,6 +94,7 @@ Wenn ich führe, bin ich unsicher: Ich will niemandem wehtun oder etwas tun, das
 Meine Sicherheit kommt bisher aus dem **Verhalten der Frau** — bei Rebecca vor allem aus der *Abwesenheit* negativer Reaktionen. Das hält nur, solange die andere sich richtig verhält; bei Angeli ist genau diese Sicherheit zusammengebrochen. Solange die Erlaubnis von außen kommen muss, bleibe ich in jeder Beziehung davon abhängig, wie die Frau reagiert.
 
 - Das ist der Punkt, an dem eigene Arbeit ansteht — auch für die Therapie (→ [Therapie](../02-health/therapy.md)).
+- *Nachtrag 31.07.2026:* Dieselbe Struktur zeigt sich außerhalb des Bettes. Was ich mir aus Angelis Begeisterung über meine Erlebnisse hole, ist die **Bestätigung meiner Identität** — so wie ich mir aus der lauten Lust einer Frau die Erlaubnis für meine eigene hole. Beide Male ist die Erlaubnis geliehen, beide Male kippt eine verhaltene Reaktion nicht in Enttäuschung, sondern in Ablehnung meiner Person (→ [Wir](../03-relationship/us.md), Analyse vom 31.07.2026).
 
 ### Der praktische Hebel: sprechen, bevor es losgeht
 
