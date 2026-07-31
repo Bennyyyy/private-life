@@ -114,6 +114,24 @@ Vor dem Date hatte ich Angst: sie zu überfordern, zurückgewiesen zu werden, zu
 - Mein Schweigen war nie die sichere Option: Rebecca hat sich mehrfach vorbereitet, und es kam nichts. Das Schweigen hat genau den Schaden angerichtet, den ich vermeiden wollte.
 - **Ein Nein ist keine Zurückweisung, sondern eine Information über heute.** Mein Wachposten kann „das geht heute nicht" und „du bist zu viel" nicht unterscheiden — er reagiert auf jedes Nein mit demselben alten Alarm.
 
+### Praxistest am selben Abend (30.07.2026)
+
+Ich habe den Wunsch zwei Stunden vorher per Sprachnachricht ausgesprochen — mit ausdrücklicher Erlaubnis für ein Nein. Sie hat sich vorbereitet, sich gefreut, es kam dazu (→ [Rebecca](../04-people/rebecca.md)). Was monatelang nicht passiert ist, brauchte einen Satz.
+
+Drei Befunde daraus:
+
+- **Die Regel „Stille = Gefahr" ist widerlegt.** Rebecca war leise, ich las darin „es gefällt ihr nicht, ich mache etwas falsch". Sie sagte mir, sie sei leise, *weil* sie genießt — und hatte dabei einen Orgasmus. Es ist dieselbe Fehldeutung wie bei Angeli (still + veränderte Körpersprache → „ich habe etwas falsch gemacht", → [Wir](../03-relationship/us.md), 17.07.2026). Mein Deutungsapparat hat eine feste Regel, und sie stimmt nachweislich nicht.
+- **Aufgelöst hat es beide Male dasselbe: fragen.** Erst die Sprachnachricht, dann die Frage nach ihrer Stille. Raten hat nie etwas gelöst.
+- **Der Angeli-Transfer:** Meine Verunsicherung (wehtun, zu tief, Grenzen, Hygiene) kam aus Angelis früheren strengen Reaktionen — bei einer Frau, die so nie reagiert hat. Ich hatte teilweise nicht Rebecca im Bett, sondern Angelis Regeln im Kopf.
+  - *Wichtige Nuance:* Beim Hygienepunkt hatte Angeli **sachlich recht** (anal → vaginal ist ein echtes Infektionsrisiko). Verletzt hat mich nicht die Regel, sondern die **Strenge** — der Fehler wurde bestraft statt korrigiert. Die Regel behalten, die Scham ablegen.
+
+Zwei praktische Erkenntnisse:
+
+- **Erektion ist eine Entspannungsfunktion, kein Lustmesser.** Ich war müde und nicht mehr sehr hart, wurde dadurch unsicherer, und die Unsicherheit machte es schlechter. Unter Selbstbeobachtung geht sie zuverlässig zurück — sie braucht dasselbe wie mein Genuss: einen Wachposten in Pause.
+- **Die Stellung entscheidet mit.** Wir haben es im Doggy Style gemacht statt wie geplant „sie auf mir" — also volle Kontrolle bei mir und kein Blickkontakt, die Konstellation mit der maximalen Ungewissheit. Die geplante Variante hätte beides geliefert: ihre Kontrolle über Tiefe und Tempo *und* ihr Gesicht.
+
+*Und der Satz, der am Ende zählt:* „Dennoch war es sehr schön, so wie es war." Meine Bilanz danach begann trotzdem mit „leider" und „nur" (müde, kurz, kein Orgasmus) — das Erleben kam zuletzt und mit Einschränkung. Sobald der Orgasmus zur Messlatte wird, ist Sex wieder eine Leistung und der Wachposten steht als Prüfer im Raum.
+
 ### Praktisches, das ich mir merken will
 
 - **Anal → vaginal nie ohne Wechsel:** Kondom wechseln, Finger waschen, Spielzeug reinigen. Sonst Darmbakterien in der Vagina (Blasenentzündung, bakterielle Vaginose) — besonders riskant bei einer Frau in Krebsbehandlung. Anal → oral ist ebenfalls ein echtes Infektionsrisiko. Saubere Reihenfolge ohne Rückweg: oral → vaginal → anal.
@@ -121,7 +139,9 @@ Vor dem Date hatte ich Angst: sie zu überfordern, zurückgewiesen zu werden, zu
 
 ### Offene Fäden
 
-- **Eigene Erlaubnis statt geliehener:** Wie komme ich dahin, meine Lust auch dann haben zu dürfen, wenn die andere gerade nicht laut ist? Thema für die Therapie.
+- **Eigene Erlaubnis statt geliehener:** Wie komme ich dahin, meine Lust auch dann haben zu dürfen, wenn die andere gerade nicht laut ist? Thema für die Therapie. Der 30.07. hat gezeigt, dass ich das brauche: Rebecca *war* nicht laut, obwohl ich ausdrücklich darum gebeten hatte — vermutlich genießt sie einfach leise. Meine Sicherheit muss also auch ohne laute Rückmeldung funktionieren.
+- **Der Angeli-Transfer:** Wie viel von Angelis Regeln und strengen Reaktionen nehme ich zu anderen Frauen mit? Konkret beobachten, statt zu vermuten (→ [Rebecca](../04-people/rebecca.md), Abend am 30.07.2026).
+- **Stille umlernen:** Die Regel „Stille = Gefahr" ist einmal widerlegt. Sammeln, wo sie noch feuert — im Bett und im Alltag — und jedes Mal fragen statt raten.
 - Die Vermutung prüfen, dass „benutzt werden" ein eigenständiger Wunsch ist und nicht nur Entlastung — z. B. daran, ob es mich auch dann anmacht, wenn ich mich ohnehin sicher fühle.
 - Was von meinem Katalog (Dreier, verschiedene Frauen, verrückte Orte) nach dieser Analyse wirklich ein eigener Wunsch ist und was vor allem Träger der Kern-Bedingung.
 - Mit Angeli: Ob und wie ich ihr sage, dass mir bei ihr nicht primär eine Praktik fehlt, sondern das Gefühl, mit meiner Lust nichts kaputtzumachen.

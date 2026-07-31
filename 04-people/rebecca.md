@@ -29,9 +29,30 @@ Frau, die ich über eine Dating-App kennengelernt habe. Wir treffen uns seit Anf
 - In ihrem Mund kommen und sie dabei benutzen.
 - Zwischen vaginal, anal und oral wechseln (→ [Sexualität](../01-personality/sexuality.md), Hygieneregel: anal → vaginal nie ohne Wechsel).
 
+## Der Abend am 30.07.2026
+
+Anlass: Sie hatte am Vortag eine gute Prognose bekommen — die Medikamente schlagen an. Das wollten wir feiern.
+
+- Ich habe ihr **Blumen** mitgebracht. Reaktion verhalten, aber positiv. Passt zu ihrer zurückhaltenden Art außerhalb des Sexuellen; ich glaube, es war richtig.
+- Ich habe ihr **zwei Stunden vorher per Sprachnachricht gesagt, dass ich Analsex möchte** — mit dem ausdrücklichen Hinweis, dass ein Nein völlig okay ist. **Es hat funktioniert:** Sie hat sich vorbereitet und sich darauf gefreut. Am Ende hatten wir Analsex.
+- Ausgeführt haben wir es nicht wie vorgeschlagen (sie auf mir), sondern im Doggy Style. Ich war müde, nicht mehr sehr hart, es war eine kurze Runde, ich hatte keinen Orgasmus. **Trotzdem war es total heiß und sehr schön.**
+
+### Was ich dabei über mich gelernt habe
+
+- Der Wachposten war die ganze Zeit da: Gefällt es ihr? Mache ich es richtig? Bleibe ich erregt? Reicht meine Energie? Erleichterung, als es dann ging.
+- **Sie war leise — und ich habe das als „es gefällt ihr nicht" gelesen. Sie sagte mir, sie sei leise, *weil* sie genießt.** Beim analen Vorspiel (Finger, Plug, Dildo) war sie am stillsten. Während des Analsex etwas lauter, aber nicht sehr; sie machte mit ihrem Körper deutlich mit, fasste sich selbst an und hatte einen Orgasmus.
+- Ich hatte sie vorher ausdrücklich gebeten, laut zu sein. Sie war es kaum. Möglicherweise ist leises Genießen einfach ihre Art — dann brauche ich meine Sicherheit woanders (Worte davor und danach), nicht in Lautstärke.
+- Meine Verunsicherung kam ausdrücklich **aus der Erfahrung mit Angeli**: Angst, ihr wehzutun, zu tief oder zu fest zu stoßen, Grenzen zu überschreiten, nicht hygienisch genug zu sein. Angeli reagierte da früher oft sehr streng — z. B. wenn ich versehentlich mit der Hand, die am Po war, Teile ihrer Vulva berührte. Rebecca scheint das ziemlich egal zu sein, aber ich weiß es nicht und habe Angst vor derselben Reaktion.
+
+### Was daraus folgt
+
+- **Ihr sagen, dass Stille mich verunsichert** — als Information über mich, nicht als Forderung nach Lautstärke: „Ein Wort reicht mir."
+- **Die Hygienefrage einmal vorher klären**, dann ist sie für den Abend erledigt (eine Hand hinten, eine vorne, oder zwischendurch waschen).
+- **Beim nächsten Mal die Variante nehmen, die ich mir gewünscht hatte:** sie auf mir. Doggy war die Position mit der maximalen Ungewissheit — volle Kontrolle bei mir, kein Blickkontakt.
+
 ## Offene Punkte
 
-- Sie hatte vor einer Woche Darmprobleme, vermutlich durch die Medikamente. Ob Analsex gerade geht, kann ich nur erfragen, nicht erraten.
-- Konkrete Wünsche direkt aussprechen, statt auf den richtigen Moment zu warten; sie um laute, fordernde Rückmeldung bitten; ein Stoppwort vereinbaren (→ [Sexualität](../01-personality/sexuality.md), „Der praktische Hebel").
+- Sie hatte vor dem 30.07.2026 Darmprobleme, vermutlich durch die Medikamente. Ob Analsex gerade geht, kann ich nur erfragen, nicht erraten.
+- Konkrete Wünsche direkt aussprechen, statt auf den richtigen Moment zu warten; sie um laute, fordernde Rückmeldung bitten; ein Stoppwort vereinbaren (→ [Sexualität](../01-personality/sexuality.md), „Der praktische Hebel"). Das Stoppwort haben wir am 30.07. noch nicht vereinbart.
 - Zwei Frauen mit Brustkrebs in meinem Leben, mit unterschiedlichen Konsequenzen: Angeli wurde vorsichtiger, Rebecca will nicht mehr warten. Was das mit mir macht, ist noch nicht angeschaut.
 - Wie ernst und wie langfristig dieser Kontakt für mich ist, ist offen — bisher ein regelmäßiges, sexuell orientiertes Treffen.
