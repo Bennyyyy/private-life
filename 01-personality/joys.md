@@ -28,6 +28,29 @@ Was mir Freude macht — festhalten, damit ich nicht nur sehe, was fehlt.
 - Sex mit Angeli — besonders, wenn es ausgefallen ist
 - Paardates mit Angeli
 
+## Sport und Bewegung
+
+> Ergänzt am 31.07.2026 aus dem Interview über meine Freuden.
+
+- Neue Sportarten ausprobieren — ich habe schon viele getestet.
+- **Wassersport** und **Sachen, bei denen ich fliege**, machen mir meist besonders Spaß.
+- Radfahren in meinem eigenen Tempo.
+
+### Der Foiling-Tag in Allensbach (18.07.2026)
+
+Ich wollte Foiling schon immer einmal testen. Also recherchiert, das Treibgut in Allensbach gefunden und einen Termin gebucht, um von einem Motorboot gezogen zu werden.
+
+- Ich wollte es mit Freunden machen und habe mehrere gefragt. Niemand hatte Zeit; Angeli hatte Fortbildung und hätte es auch nicht mitgemacht.
+- **Ich habe es allein gemacht.** Mit dem Rad hin, ca. 30 Minuten, in meinem Tempo. Tolles Wetter, sehr gute Laune. Radtour und Sportart haben mir beide total gefallen. Angeli kam nach der Fortbildung dazu, wir hatten noch eine schöne Zeit am See.
+- Ich bin froh, dass ich es gemacht habe, und habe direkt das nächste gebucht: **Wakeboarden mit Oli am 01.08.2026** in der Schweiz. Ich freue mich darauf.
+
+Was ich daraus mitnehme:
+
+- Derselbe Motor wie beim KI-Thema, nur außerhalb der Arbeit: Impuls → recherchieren → buchen → machen. Das ist keine Arbeitssache, das läuft gerade in meinem Leben (→ [Stärken und Schwächen](strengths-weaknesses.md), „Ich experimentiere gerne").
+- **Ich habe offen gesagt, was ich will, und es dann trotzdem gemacht, als nichts zurückkam.** Das ist das Gegenteil der alten Regel „was ich will, zeige ich besser nicht" (→ [Wer ich bin](who-i-am.md), Prägung). Es wurde einer meiner besten Tage.
+- Erst das Eigene, dann das Gemeinsame — und es war beides schön.
+- Was wehtat, war nicht das Alleinsein, sondern die **Stille im Gruppenchat** (→ [Muster](patterns.md)).
+
 ## Fortschritt und Aufräumen (31.07.2026)
 
 > Quelle: Interview mit Claude am 31.07.2026, ausgehend von der Frage „Was mag ich gerne, was macht mich glücklich?". Beobachtungen stammen von mir; als *Deutung* markierte Zusammenhänge sind Interpretationen, keine gesicherten Wahrheiten.

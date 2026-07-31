@@ -47,3 +47,11 @@ Vertiefung: [Glaubenssätze](beliefs.md) · [Ängste](fears.md) · [Bedürfnisse
 - Meine Eltern gaben mir viel Liebe, schränkten mich aber stark ein: Ich durfte weniger als meine Freunde, nicht so oft/lange auf Partys; Alkohol und Zigaretten waren „ganz schlimm", teils mit der Androhung, mir das Taschengeld zu streichen. Sie waren schnell enttäuscht, wenn ich nicht so war, wie sie es wollten.
 - Ich habe mich nie wirklich gewehrt — ich war auf sie angewiesen und wollte ihnen gefallen. Gleichzeitig wollte ich mein Leben leben, Erfahrungen sammeln, Fehler machen. Das habe ich mir dann **heimlich** genommen.
 - *Deutung:* Daraus entstand die Regel „wenn ich Ärger mache oder so bin, wie ich bin, gefährde ich die Beziehung — also passe ich mich an". Sie prägt bis heute, wie schnell mich Angelis Missfallen trifft und warum ich mich im Konflikt nicht sofort wehre (→ [Glaubenssätze](beliefs.md), [Muster](patterns.md), [Wir](../03-relationship/us.md), Interview 17.07.2026).
+
+#### Präzisierung: der Ursprungssatz (31.07.2026)
+
+- Die negativen Reaktionen meiner Mutter richteten sich genau auf das **Sich-Ausprobieren** — Party machen, lange weg sein, Alkohol, evtl. Rauchen, irgendwo übernachten, viel Computer spielen. Besonders in der Pubertät.
+- Ihr Satz war dabei kein Verbot, sondern eine Korrektur daran, **wer ich bin**: *„Oh nein Benny. Aber das willst du doch sicher nicht. Du bist doch nicht so einer."* Sie war oft enttäuscht.
+- *Deutung:* Das ist der Ursprung davon, dass fehlende Anerkennung bei mir nicht als Meinungsverschiedenheit ankommt, sondern als **Ablehnung meiner Identität** (siehe Abschnitt oben, 13.07.2026). Was ich mir heute von Angeli wünsche — für mein Leben gefeiert zu werden — ist die exakte Umkehrung dieses Satzes.
+- Dazu die **Schulzeit**: Ich wurde gemobbt und habe versucht, nicht zu zeigen, wer ich bin oder was ich will, weil es gegen mich verwendet wurde. Zwei Quellen, dieselbe Lehre: **Was ich will, zeige ich besser nicht** — und nehme es mir heimlich (→ [Muster](patterns.md)).
+- **Gegenbeleg, den ich mir merken will:** Am 18.07.2026 habe ich offen gesagt, was ich will (Foiling), es kam nichts zurück, und ich habe es trotzdem gemacht. Es wurde einer meiner besten Tage (→ [Freuden](joys.md)).
