@@ -141,6 +141,7 @@ Zwei praktische Erkenntnisse:
 ### Offene Fäden
 
 - **Eigene Erlaubnis statt geliehener:** Wie komme ich dahin, meine Lust auch dann haben zu dürfen, wenn die andere gerade nicht laut ist? Thema für die Therapie. Der 30.07. hat gezeigt, dass ich das brauche: Rebecca *war* nicht laut, obwohl ich ausdrücklich darum gebeten hatte — vermutlich genießt sie einfach leise. Meine Sicherheit muss also auch ohne laute Rückmeldung funktionieren.
+  - *Nachtrag 31.07.2026:* Diese Erlaubnis **gibt es bei mir bereits** — nur ohne Publikum. Meine Zufriedenheit mit der KI-Arbeit und diesem Wiki kommt vollständig aus eigener Entscheidung und braucht keine Reaktion von außen (→ [Freuden](joys.md), 31.07.2026). Die Frage ist also nicht mehr, **ob** ich mir Erlaubnis selbst geben kann, sondern warum diese Fähigkeit verschwindet, sobald ein Mensch daneben steht.
 - **Der Angeli-Transfer:** Wie viel von Angelis Regeln und strengen Reaktionen nehme ich zu anderen Frauen mit? Konkret beobachten, statt zu vermuten (→ [Rebecca](../04-people/rebecca.md), Abend am 30.07.2026).
 - **Stille umlernen:** Die Regel „Stille = Gefahr" ist einmal widerlegt. Sammeln, wo sie noch feuert — im Bett und im Alltag — und jedes Mal fragen statt raten.
 - Die Vermutung prüfen, dass „benutzt werden" ein eigenständiger Wunsch ist und nicht nur Entlastung — z. B. daran, ob es mich auch dann anmacht, wenn ich mich ohnehin sicher fühle.
