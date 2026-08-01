@@ -15,7 +15,14 @@ Eine der Frauen, die ich im Rahmen unserer offenen Beziehung treffe (→ [Sexual
 - **Offener Punkt:** Ich habe Sonja nie von meiner Absprache mit Angeli erzählt, weil ich vor ihr cool sein wollte. Als sie mehr als Einmalbilder wollte, habe ich nachgegeben, statt es zu sagen. Das ist mein Anteil — und dieselbe Bewegung wie sonst: mich der Person im Raum anpassen, während die abwesende Person den Preis zahlt (→ [Muster](../01-personality/patterns.md)).
 - Was ich brauche: Sonja einmal sagen, dass es bei mir Absprachen gibt und was davon geht. Das ist keine Peinlichkeit, sondern eine Information.
 
+## Status (01.08.2026)
+
+- Ich habe Angeli am 31.07.2026 die Bilder-Sache gebeichtet; sie hat sehr heftig reagiert (→ [Wir](../03-relationship/us.md), „Die Beichte und die Eskalation").
+- **Kontakt pausiert.** Angeli wollte einen sofortigen Abbruch; ich habe die Entscheidung vertagt und zugesagt, dass ich abbreche, wenn sie es möchte. Wichtig für mich: nicht unter Schuld entscheiden, sondern wenn wir beide wieder klar sind.
+- Das geplante Date in ca. einer Woche ist offen.
+
 ## Offene Punkte
 
 - Wie ernst und wie langfristig dieser Kontakt für mich ist.
 - Was ich an ihr mag, unabhängig vom Sexuellen — dazu habe ich bisher nichts festgehalten.
+- Wie es mit dem Kontakt weitergeht (Entscheidung mit Angeli, siehe Status).
