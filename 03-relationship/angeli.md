@@ -43,6 +43,7 @@ Diese Einschätzungen beschreiben meine subjektive Sicht, keine gesicherten Diag
 - Sie möchte gefallen und übernimmt viel Verantwortung für die Reaktionen anderer. Gleichzeitig fällt es ihr schwer, unabhängig davon für ihre Bedürfnisse einzustehen.
 - Vieles davon hat sich bereits verbessert oder zeigt sich inzwischen in anderen Strategien.
 - Was ich früher an ihr bewundert habe — ihre grenzenlose, abenteuerlustige, unkonventionelle, hedonistische, weltoffene und intellektuelle Art — ist aus meiner Sicht nicht weg, sondern von ihrer Angst und Anspannung verschüttet. Wenn sie sich unabhängig und sicher fühlt, kommt diese Seite eher wieder heraus (→ [Wir](us.md), Analyse vom 13.07.2026).
+- *Deutung (02.08.2026):* Beim Thema Patriarchat/Feminismus steckt sie vermutlich in einem Doppelzwang: Sie lehnt das System überzeugt ab — und knüpft zugleich ihren Selbstwert an ihr Aussehen, vergleicht sich ständig und zieht sich zurück, wenn sie sich nicht hübsch genug fühlt. Das ist kein Widerspruch oder Heuchelei, sondern internalisiertes Patriarchat; ihre starke Emotionalität bei dem Thema ist Folge ihrer Betroffenheit. Ihre Wut auf mich (Pornos, Blicke) ist vermutlich teilweise umgeleitete Wut auf das System und auf sich selbst (→ [Wir](us.md), Analyse vom 02.08.2026).
 
 ### Was ich an ihr schätze und liebe (Interview, 21.07.2026)
 
