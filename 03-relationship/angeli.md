@@ -53,6 +53,11 @@ Antwort auf die Leitfrage „Was schätze ich an ihr — auch das, was ich ihr s
 - **Ihr Charakter, auch ganz ohne mich:** Sie hält viel aus, ohne zu zerbrechen. Anpassungsfähig, rational, handlungsfähig — sie geht Dinge an und setzt sie um. Eine wahnsinnig gute Psychologin: Sie liest Menschen, erkennt, was sie wirklich brauchen, und hilft ihnen. Man kann ihr vertrauen; sie ist zuverlässig.
 - **Ihre Macken rühren mich** (Schnäppchenjagd, Pesto-Ritual, heimlich aus der Packung essen, Ketchup-Berge — siehe Vorlieben). *Deutung:* Ihr gemeinsamer Nenner ist Genussfreude und kleine Impulsivität — Angelis Hedonismus lebt im Alltag weiter, nur im kleineren Maßstab.
 
+Weitere Macken, die ich an ihr liebe (ergänzt am 02.08.2026):
+
+- Sie nimmt immer zwei Kaugummis auf einmal, anstatt nur einen.
+- Beim Kochen schafft sie es nicht, meine „Herdplatten-Regel" einzuhalten — obwohl sie es versucht.
+
 Aus einem kurzen Interview **mit Angeli selbst** (nicht meine Deutung, sondern ihre Aussage):
 
 - Sie trägt schon länger die Sorge „bin ich anziehend / genug für ihn?".
