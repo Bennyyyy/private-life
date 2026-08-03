@@ -820,6 +820,22 @@ Nachdem ich ihr per Sprachnachricht gesagt hatte, wie es mir geht — dass ich �
 - Prüfstein: **Nichts Großes im Sturm beschließen — das gilt auch für Geschenke, nicht nur für Drohungen.** Das Gespräch führen, aber als Prozess über Wochen, nicht als Vertrag diese Woche. Test über Zeit: Überlebt der Vorschlag ihre Angst in realen Situationen? Wird aus stiller Akzeptanz spürbarer Support? Ein „alles erlaubt" aus Angst wäre die maximale stille Akzeptanz — genau das, was mir nicht reicht.
 - **Warnung an mich:** Das Regelgespräch nicht beschleunigen, um Samstag möglich zu machen — das würde Angelis erste eigene Bewegung auf mich zu vergiften. Gegenmittel (dasselbe Prinzip wie die hörbare Pause): den Einfluss **offenlegen** statt versteckt wirken lassen: *„Ich merke, dass Samstag bei mir mitschwingt. Ich will nicht, dass es unser Gespräch treibt — stopp mich, wenn du das Gefühl hast, ich steuere."* Ich habe ehrlich eingeräumt: Einen kleinen Einfluss wird Samstag haben; in welche Richtung, weiß ich nicht.
 
+### Einordnung: Das neue Regelmodell — Kern statt Verbote (03.08.2026)
+
+> Quelle: Gespräch mit Claude am 03.08.2026 zu Angelis Vorschlag (oben). Bewertung und Empfehlungen sind Claudes Einordnung, keine gesicherten Wahrheiten.
+
+**Grundsatzurteil:** Die Umkehrung ist strukturell richtig. Sie behebt den dokumentierten Fehlermechanismus (Grauzonen + Raten + Streit über die Regel statt über die Sache) und zwingt uns, die Beziehung **positiv** zu definieren („was macht uns aus?") statt defensiv einzuzäunen („was ist mit anderen verboten?"). Das Kern-Gespräch hat eigenständigen Wert, selbst wenn das Regelwerk scheitert — es beantwortet die Frage, was uns eigentlich noch verbindet.
+
+Drei Schwachstellen, die mitgedacht werden müssen:
+
+1. **Die Grauzone verschwindet nicht, sie zieht um.** Statt „ist das erlaubt?" heißt die Auslegungsfrage künftig „berührt das unseren exklusiven Kern?" (Beispiel: tägliche heiße Kommunikation mit einer anderen — freier Raum oder exklusive emotionale Intimität?). Neu ist, wer die Kosten trägt: Angeli muss Dinge **nachträglich** in die Gemeinsamkeit holen — jedes Reinholen fühlt sich für mich wie Wegnehmen an, für sie wie Schuld. Wir brauchen deshalb nicht nur die Liste, sondern einen **Änderungsprozess**: wie etwas in den Kern kommt, wie wieder raus — und die Vereinbarung, dass ein Gefühl geäußert werden darf, **ohne sofort zur Regel zu werden**. Sonst reproduzieren wir „ihr Bedürfnis kommt als Regel an" unter neuem Vorzeichen.
+2. **„Erlaubt" darf nicht „unerzählt" heißen.** Unsere tragfähigste alte Regel ist die Transparenz; der letzte Bruch war Heimlichkeit, kein Regelverstoß. Empfehlung: **drei Schichten statt zwei** — (1) **exklusiver Kern** (nur uns), (2) **Umgangs-Vereinbarungen** (Transparenz, Bescheid geben, Verhütung — Fürsorge und Sicherheit, nicht Exklusivität), (3) **freier Raum** (Default: erlaubt). Schicht 2 in die Whitelist-Logik zu quetschen erzeugt sofort neue Grauzonen, denn „Bescheid geben" ist weder exklusiv noch frei.
+3. **Die Quelle prüfen, nicht nur die Struktur.** Der Vorschlag kam 48 Stunden nach der Beichte, direkt nachdem ich mehr Freiheit angemeldet habe (vgl. die zwei Lesarten oben: Einsicht vs. Angst-Geschenk). Eine aus Angst maximal klein gehaltene Whitelist wäre die perfekteste Form **stiller Akzeptanz** — genau das, was mir nicht reicht. Eine Regel kann Erlaubnis geben; **Support kann sie nicht erzeugen.** Der Test ist nicht die Eleganz auf dem Papier, sondern ob Angelis Ja reale Situationen über Wochen überlebt. Ehrlicher Zusatz an mich: Der neue Default begünstigt asymmetrisch **mich** — das macht ihn nicht falsch, aber es macht mich zum Falschen, um das Tempo vorzugeben (dieselbe Warnung wie beim Samstag-Einfluss).
+
+**Vorgehen:** Als Prozess über Wochen, nicht als Vertrag in einer Woche (Prüfstein oben). Zuerst das Kern-Gespräch („was macht uns aus?") als **eigenes Gespräch**, erst danach Regeln daraus ableiten — beides an einem Abend macht die Identitätsfrage zur Verhandlungsmasse.
+
+**Vorbereitung für mich (offen):** Für mich allein aufschreiben, was aus **meiner** Sicht nur uns gehört — nicht, was Angeli vermutlich braucht. Fällt mir wenig ein, ist das eine wichtige Information, die zu mir gehört, bevor sie ins Gespräch gehört.
+
 ### Der Groll und der unterschriebene Satz
 
 - Beim Gedanken an die Absage: vor allem **Trauer**, etwas Erleichterung — und ein wenig **Groll auf Angeli**, samt dem ehrlichen Gedanken: „Das alles könnte ich haben, wenn Angeli nicht wäre."
@@ -847,10 +863,96 @@ Ich habe mich gegen die sofortige Absage und für einen Aufschub entschieden —
 ### Offene Fäden
 
 - Donnerstag-Entscheidung treffen und festhalten — anhand der drei Kriterien.
-- Das Regelgespräch führen: eigenes Tempo (auch Angelis), Samstag-Einfluss offenlegen, über Wochen prüfen (Support statt Akzeptanz). Nicht mit den Streitregeln vom 01.08. vermischen — beides hat Platz, aber nacheinander.
+- Das Regelgespräch führen: eigenes Tempo (auch Angelis), Samstag-Einfluss offenlegen, über Wochen prüfen (Support statt Akzeptanz). Nicht mit den Streitregeln vom 01.08. vermischen — beides hat Platz, aber nacheinander. Struktur: drei Schichten und Änderungsprozess (→ Einordnung vom 03.08. oben); vorher für mich klären, was aus meiner Sicht nur uns gehört.
 - Die große Frage (→ „Ist Angeli die richtige Partnerin?") aktiv weiterverfolgen, mit Angelis Vorschlag als erstem beobachtbarem Prüfstein. Den Groll als Zeiger auf die unentschiedene Frage lesen, nicht als Hintergrundrauschen gegen Angeli mitlaufen lassen.
 - Sonja langfristig: erst entscheiden, wenn Gespräch 1 gelandet ist und die Regeln neu stehen.
 - Mein Bedürfnis, sexuell provoziert zu werden und zu hören, dass jemand geil auf mich ist (→ [Sexualität](../01-personality/sexuality.md), Kernbedingung vom 30.07.): legitim, nicht verhandelbar wegzudrücken — die Frage ist nur, ob es künftig **legal** (mit Angelis Wissen) Platz bekommt. Gehört ins Regelgespräch.
+
+## Interview: Was gehört nur uns? — Vorbereitung aufs Kern-Gespräch (03.08.2026)
+
+> Quelle: Interview mit Claude am 03.08.2026, im Anschluss an die Einordnung des neuen Regelmodells (oben). Beobachtungen stammen von mir; als *Deutung* markierte Zusammenhänge sind Interpretationen, keine gesicherten Wahrheiten.
+
+Ausgangsfrage (meine Vorbereitung, nur für mich, nicht taktisch fürs Gespräch): Was gehört aus meiner Sicht nur uns?
+
+### Befund 1: Mein Selbstbild stimmt nicht mit meinen Daten überein
+
+Vorhersage: „Mir fällt wenig ein, ich brauche nicht viel Exklusivität." Ergebnis: eine der reichhaltigsten Listen im ganzen Wiki. Der Kern war nicht leer, nur unbeleuchtet — ich habe jahrelang auf das geschaut, was fehlt, nicht auf das, was wir haben.
+
+### Die Liste, sortiert in drei Sorten
+
+**Sorte 1 — echte Exklusivität (Kern-Kandidaten):** Sonntagmorgen-Popo-Sex; dass sie mich morgens wach kuschelt, frisch geduscht, nachdem sie schon Stunden wach war; gemeinsam WoW und Pärchen-Spiele auf der Switch; der Jahrestag (12. Juli); Weihnachten und Silvester zusammen; Geburtstage mit Mega-Frühstück, gemeinsamem Tag und sexuellem Verwöhnen; die Kosenamen (Baby, Baby Bell, Maus, Mäuschen, Waschbär, Käsekuchen); „KUSCHELN" (aus South Park); das Pärchenzeichen (gemeinsames Herz mit beiden Händen); dass ich Angeli Blumen bringe; romantische Gesten überhaupt — die will ich nur mit ihr; bestimmte Lieblingsessen und Supermarkt-Produkte; Lago Maggiore; mit dem Cabrio auf die Reichenau und Lana Del Rey hören; Sonnenuntergang auf der Reichenau; „It Takes Two" auf der Switch; Rouladen kochen wie an Weihnachten; die Sternschnuppen-Nacht schauen; die Marienschlucht; uns gemeinsam den Rhein runtertreiben lassen, von der Seestraße aus; die Schmugglerbucht, in der wir uns kennengelernt haben. (Liste bewusst offen — es darf mehr dazukommen.)
+
+**Sorte 2 — geteilte Identität (pflegen, nicht verbieten):** gemeinsam grenzenlos sein, Neues ausprobieren und über die Stränge schlagen; die Leidenschaft für Essen und Restaurants; nächtelang reden; das öffentliche Paarsein (ständig küssen, umarmen); viel Lust aufeinander; unsere konstruktive, kreative Art, Probleme zu lösen; uns nicht an gesellschaftliche Regeln halten; Neugier auf Wissenschaft. — Das macht uns aus, lässt sich aber nicht sinnvoll verbieten (ich kann Angeli nicht untersagen, mit anderen ein Restaurant auszuprobieren). Gehört ins Kern-Gespräch als „das wollen wir miteinander schützen und nähren", nicht als Tabu-Liste — sonst wird die Whitelist absurd groß und erstickt die Freiheit, die der neue Default schaffen soll.
+
+**Sorte 3 — Mangel mit falschem Etikett:** lange wach sein, Analsex, Alkohol trinken, verrückt sein, verführt werden — Dinge, die ich erst spüre, wenn Angeli sie mit anderen macht, und die mir **mit ihr fehlen**. Das ist keine Exklusivität, das ist Mangel. In den Kern verschoben würde daraus eine Regel, die einen Hunger als Besitzanspruch verkleidet: Angeli dürfte es mit niemandem — und ich hätte es trotzdem nicht. Der Mangel gehört ins Gespräch über unser Sexleben und unsere Lebendigkeit, nicht ins Regelwerk. (Eine Regel kann Verlust verhindern, aber keinen Mangel füllen — dieselbe Logik wie „Erlaubnis ist nicht Support".)
+
+### Befund 2 (Kernfund): Meine Exklusivität liegt auf Widmungen, nicht auf Handlungen
+
+Test am härtesten Fall, Analsex: Als **Handlung** mit einem anderen könnte es okay oder sogar schön für mich sein — es zeigt mir ihre echte Lust und ihre „verrückte" Seite, die ich liebe (passt zur Kernbedingung vom 30.07.: ihre spürbare, ausgelebte Lust ist, was mich anzieht). Als **Szene** wäre es sehr schmerzhaft: wenn sie einen anderen so überraschen würde wie damals mich — die Bodenszene bei mir zuhause, unsere Gründungserinnerung, gleiche Initiative, gleiche Position. Genau beschrieben (damit Angeli weiß, was ich meine): bei einem unserer ersten Dates, als sie bei mir war und mich mit Analsex überrascht hat — im Squat auf dem Boden, die Art, wie sie gesprochen hat, wie sie mich angeschaut hat, dass sie selbst dabei so erregt war. Es war mein erstes Mal Analsex. Einer der schönsten Momente meines Lebens — und einer der Momente, in denen ich mich in Angeli verliebt habe: nicht nur, weil mir der Analsex so gut gefallen hat, sondern weil die Art, wie sie es gemacht hat, mich so begeistert hat. Dasselbe gilt für die Bilder: Nicht dass ein anderer sie sieht, tötet ihre Bedeutung, sondern dass „das hat sie nur für mich gemacht" stirbt.
+
+Gegenprobe über die ganze Liste: **Ich finde keine reine Handlung, die ich exklusiv haben will.** Mein Kern besteht vollständig aus Bedeutungen — Widmungen, Ritualen, Symbolen, Gründungsszenen, Orten. Auf Handlungsebene brauche ich wenig Exklusivität (da stimmte mein Selbstbild); auf Bedeutungsebene bin ich ziemlich exklusiv.
+
+Konsequenzen fürs Regelgespräch:
+
+- **Keine Handlungsverbote von meiner Seite.** Eine Regel wie „Analsex ist tabu" würde in beide Richtungen danebengreifen: etwas verbieten, das für mich positiv sein könnte, und trotzdem nicht schützen, was mich wirklich verletzt (die replizierte Widmung). Das wäre die alte Blacklist-Logik durch die Hintertür.
+- **Widmungen schützt keine Klausel, sondern Wissen.** „Der Moment passt gerade" kann ich nicht in eine Regel fassen. Die Schutzform ist, dass Angeli *weiß*, was die Bodenszene und die Bilder für mich bedeuten — Bedeutung, von der sie nichts weiß, kann sie nur zufällig schonen. Gehört in Schicht 2 (Transparenz/Fürsorge), nicht in Schicht 1 als Verbot.
+- **Warnung an mich:** Diesen Fund im Gespräch nicht als überlegenen Maßstab gegen Angelis Seite verwenden („ich brauche keine Verbote — warum du?"). Ihre Exklusivität darf anders funktionieren, auch auf Handlungsebene. Sonst lande ich in der bekannten Richtig/Falsch-Dynamik, nur mit vertauschten Rollen.
+
+### Befund 3: Priorität statt Monopol
+
+Nachtrag (gleicher Tag): Es verletzt mich nicht nur, wenn unsere Widmungen zu anderen wandern — sondern auch, wenn Angeli **neue Exklusivität für andere** stiftet. Das Bilder-Beispiel macht den Mechanismus sichtbar: Bilder an andere sind okay, **wenn ich sie zuerst bekomme** — dann ist nichts exklusiv für die andere Person, und ich hatte die Priorität. Die Bedeutung stirbt also nicht am Teilen, sondern am Platzverlust. **Ich brauche kein Monopol, ich brauche den ersten Platz.**
+
+Präzisierung (gleicher Tag): Die Priorität-Regel gilt nur für **freie** Bilder. Vollständig sind es drei Stufen — konsistent mit dem Widmungs-Prinzip (das Monopol liegt auf der Widmung, nie auf der Handlung):
+
+1. **Bilder, die sie ursprünglich nur für mich gemacht hat, bleiben exklusiv.** Niemand anderes bekommt sie — auch Priorität heilt das nicht; hier will ich das Monopol, weil das Bild selbst eine Widmung ist.
+2. **Neue Bilder oder alte, die nicht für mich waren:** frei verschickbar, aber ich bekomme sie **vorher** (Prio 1; keine Exklusivität für andere bei sexy Bildern).
+3. **Keine Bilder für andere, die unsere Insider-Themen adressieren** (z. B. „gerade auf der Arbeit ohne Unterwäsche") — das sind Widmungen in Bildform.
+
+Praktische Frage dazu (offen): Woher weiß Angeli sicher, welche Bilder „für mich gemacht" waren? Ihre Zuordnung kann von meiner abweichen. Lösung ist vermutlich keine Liste, sondern der Baustein aus ihrem eigenen Vorschlag: **im Zweifel vorher fragen.**
+
+- *Einschränkung (wichtig für die Formulierung):* Wörtlich ist „nichts exklusiv für jemand anderen" nicht haltbar — jede echte Verbindung entwickelt eigene Momente, und das zu verhindern hieße, Angelis Innenleben zu polizieren (neue Enge durch die Hintertür). Schützbar sind zwei konkretere Dinge: **(a)** unsere Kern-Dinge wandern nicht zu anderen, **(b)** bei Widmungen, die mir wichtig sind, behalte ich den ersten Platz (z. B. Bilder zuerst an mich). Als Vorrang formulieren, nicht als Verbot fremder Einzigartigkeit.
+
+### Befund 4: Der Kern soll leben — der Prozess ohne Vorwurf
+
+Nachtrag (gleicher Tag): Mir ist wichtig, **wie** wir mit der neuen Variante umgehen, wenn wir sie ausprobieren:
+
+- Wenn etwas passiert ist, das einem von uns wehgetan hat, teilen wir das **ohne Vorwurf** mit — nur als Information.
+- Aus dieser Information bilden wir dann **gemeinsam** eine neue Regel oder Ähnliches. Das darf Zeit brauchen und muss nicht sofort geschehen.
+- Es gilt auch **in die andere Richtung**: Eine Regel darf sich als zu einengend herausstellen und wieder gelockert werden.
+- Ziel: Unsere Whitelist / Identität **lebt** und verändert sich mit der Zeit, wird klarer — ohne ständigen Streit. Es muss okay sein, über alles reden zu können, ohne Vorwürfe.
+
+*Einordnung:* Das ist der Änderungsprozess aus der Einordnung vom 03.08. (Schwachstelle 1), jetzt in meinen eigenen Worten und vollständig: ohne Vorwurf berichten, Zeit lassen, in beide Richtungen beweglich. Damit ist die Liste kein Vertrag, sondern ein lebendes Dokument.
+
+### Beobachteter Muster-Moment: die Rücknahme in Echtzeit
+
+Im Gespräch selbst passiert: „Besonders Analsex wäre schlimm für mich" → im selben Atemzug → „es wäre aber schon okay, wenn das ihr Wunsch ist." Position genannt und sofort zurückgenommen — das bekannte Muster (Bedürfnis zeigen = einschränken = Gefahr → weichspülen), dessen Preis der spätere Groll ist. Wichtig fürs Kern-Gespräch: **„Das würde mir wehtun" ist keine Regel.** Ich darf den Schmerz benennen *und* ihr die Entscheidung lassen — zwei Sätze, beide dürfen wahr sein. Der zweite ersetzt nicht den ersten, sonst trifft Angeli ihre Entscheidungen mit falschen Karten. (Spiegel: Genau das werfe ich ihr vor — Bedürfnisse nicht direkt zu äußern.) Beim Analsex-Test ist mir dann beides nebeneinander gelungen, ohne Rücknahme — so klingt der Satz, den ich im Gespräch brauche.
+
+### Die Formulierung fürs Kern-Gespräch (Bausteine, Stand 03.08.2026)
+
+Gemeinsam erarbeitet und von mir geprüft (kein Widerstand, keine Abschwächungs-Impulse beim Durchgehen — der echte Test ist der Moment im Gespräch). Bausteine, keine Rede — die Worte dürfen im Gespräch meine eigenen werden.
+
+**1. Rahmen (am Anfang, einmal):** *„Ich hab mich auf das Gespräch vorbereitet und dabei was gemerkt, das mich selbst überrascht hat. Bevor ich's erzähle, eine Bitte an uns beide: Wenn einer von uns sagt ‚das würde mir wehtun', ist das erst mal nur eine Information — keine Regel, kein Vorwurf. Was davon eine Vereinbarung wird, entscheiden wir danach zusammen."* — Dieser Satz schützt mich vor meinem Rücknahme-Reflex: Wenn Gefühle keine Regeln sind, darf ich sie ungefiltert sagen.
+
+**2. Prinzip:** *„Ich dachte immer, ich brauche wenig Exklusivität. Das stimmt halb: Bei Handlungen brauche ich fast keine. Aber bei Bedeutungen bin ich exklusiver, als ich wusste. Was nur uns gehört, sind für mich nicht Dinge, die du mit anderen nicht tun darfst — sondern Dinge, die du für mich machst. Unsere Rituale, unsere Namen füreinander, unsere Orte, unsere Szenen."*
+
+**3. Die konkreten Dinge:** *„Was für mich in unseren Kern gehört: unser Sonntagmorgen. Wie du mich wach kuschelst. Unsere Kosenamen und ‚KUSCHELN'. Unser Pärchenzeichen. Jahrestag, Weihnachten mit den Rouladen, Silvester, unsere Geburtstage mit dem Frühstück. Dass ich nur dir Blumen bringe und romantische Gesten nur mit dir will. Unsere Orte: die Schmugglerbucht, die Marienschlucht, die Reichenau mit dem Cabrio und Lana Del Rey, der Lago Maggiore, den Rhein runtertreiben von der Seestraße. Die Sternschnuppen-Nacht. It Takes Two. Die Liste ist bestimmt nicht fertig — aber das ist es, was mir bis jetzt eingefallen ist."*
+
+**4. Was sie wissen soll (Information, keine Klausel):** *„Zwei Sachen will ich dir erzählen, damit du sie kennst — nicht als Regel, sondern damit du weißt, was sie mir bedeuten. Das eine ist ein Moment aus unserer Anfangszeit: eines unserer ersten Dates, du warst bei mir und hast mich mit Analsex überrascht. Im Squat auf dem Boden. Wie du gesprochen hast, wie du mich angeschaut hast, dass du selbst so erregt warst. Es war mein erstes Mal. Das war einer der schönsten Momente meines Lebens — und einer der Momente, in denen ich mich in dich verliebt habe. Nicht nur wegen dem Analsex, sondern wegen der Art, wie du es gemacht hast. Wenn du jemand anderen genau so überraschen würdest, würde mir das sehr wehtun. Das andere sind deine Bilder. Da habe ich für mich drei Stufen gefunden: Bilder, die du nur für mich gemacht hast, sollen exklusiv bleiben — die sind für mich wie ein Geschenk, das man nicht weiterverschenkt. Neue Bilder oder welche, die nie für mich waren, kannst du verschicken, an wen du willst — ich möchte sie nur vorher bekommen, ich will Prio 1 sein. Und Bilder mit unseren Insidern — wie ohne Unterwäsche auf der Arbeit — die gehören zu uns. Wenn du mal nicht sicher bist, welche Schublade ein Bild ist: frag mich einfach, genau wie in deinem Vorschlag."* — Der Schluss zitiert bewusst **ihren** Vorschlag (im Zweifel vorher fragen): Ich arbeite in ihrem Modell, statt es zu ersetzen.
+
+**5. Was ich nicht brauche — mit offener Tür für ihre Seite:** *„Deshalb kommt von mir keine Verbotsliste. Es kann sogar sein, dass mich Dinge freuen, von denen du denkst, sie würden mich verletzen — weil ich es liebe, wenn du Lust hast und verrückt bist. Aber das ist meine Art von Exklusivität. Deine darf komplett anders aussehen. Wenn du Handlungen brauchst, die nur uns gehören, ist das genauso legitim — ich will sie hören, nicht wegdiskutieren."* — Wichtigster und gefährlichster Baustein: „Mich können Dinge freuen, die du für verletzend hältst" kann bei Angeli als „dir ist alles egal" landen. Wenn sie an der Stelle kippt, ist Baustein 4 der Anker — er zeigt, dass mir sehr wohl etwas wehtun kann.
+
+**6. Einladung:** *„Was gehört für dich nur uns?"*
+
+**7. Der lebende Prozess (Vorschlag an sie, gegen Ende):** *„Und eine Sache wünsche ich mir für die Zukunft: Wenn wir das ausprobieren und einem von uns tut etwas weh, dann sagen wir es dem anderen ohne Vorwurf — einfach als Information. Und daraus machen wir dann zusammen eine Regel, wenn wir eine brauchen. Das darf auch Zeit brauchen, das muss nicht am selben Abend passieren. Genauso andersrum: Wenn sich eine Regel zu eng anfühlt, dürfen wir sie wieder lockern. Ich möchte, dass unsere Liste lebt und mit der Zeit klarer wird — und dass wir über alles reden können, ohne dass es Streit gibt."*
+
+**Nicht in dieses Gespräch:** Sorte 3 (der Mangel — Analsex, verführt werden, verrückt sein). Sonst hört Angeli „du fehlst mir sexuell" mitten in der Identitätsfrage, und wir verhandeln wieder drei Dinge gleichzeitig. Ebenfalls weiter gültig: eigenes Tempo, Samstag-Einfluss offenlegen, Prozess über Wochen (→ Einordnung vom 03.08.).
+
+### Offene Fäden
+
+- Das Kern-Gespräch mit Angeli führen — mit den Bausteinen oben, in ihrem und meinem Tempo.
+- Das Mangel-Gespräch (Sorte 3: Sexleben, Lebendigkeit, verführt werden) als eigenes Thema führen — getrennt vom Regelwerk.
+- Angelis Seite des Kerns hören, ohne sie an meinem „Bedeutungen statt Verbote"-Maßstab zu messen.
+- Nach dem Gespräch: was tatsächlich in den Kern kam, hier festhalten; Sorte 1 bleibt bewusst offen und darf wachsen.
 
 ## Schöne Momente
 
