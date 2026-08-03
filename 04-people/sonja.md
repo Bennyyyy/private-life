@@ -31,9 +31,10 @@ Was ich an ihr mag (Stand 03.08.2026, noch unvollständig):
 - Das Samstag-Date (08.08.) ist die **Orangerie-Party** — Altersgrenze 45, Sonja wird in ein paar Monaten 45; ihr Wunsch, das vorher noch einmal zu erleben, und mein eigener jahrealter Wunsch. Vor der Beichte war es vollständig transparent mit Angeli verhandelt, sie hatte informiert zugestimmt. Volle Analyse: → [Wir](../03-relationship/us.md), „Die Sonja-Entscheidung, das Orangerie-Date und Angelis Vorschlag".
 - Sonja wusste bisher nichts von der Krise und schickte in gutem Glauben weiter Bilder und Sprachnachrichten. Deshalb habe ich ihr am 03.08. die **Klärungsnachricht geschickt**: dass es bei Angeli und mir gerade Themen gibt, die auch unseren Kontakt betreffen, dass es nichts mit ihr zu tun hat, Funkstille für ein paar Tage, Samstag unsicher, fester Bescheid bis **Donnerstagabend, 06.08.** — und dass sie sich jemand anderen für die Party suchen darf, wenn sie Sicherheit braucht.
 - Die Samstag-Entscheidung treffe ich am Donnerstag selbst, anhand von drei Ja-Kriterien (→ [Wir](../03-relationship/us.md)).
+- **Sonjas Antwort (noch am selben Tag):** Sie hat sich für die offene, ehrliche Kommunikation bedankt, hat Verständnis, ich soll mir die Zeit nehmen, die ich brauche, und einfach Bescheid geben — „kein Problem". Keine Kränkung, kein Rückzug, kein Druck.
 
 ## Offene Punkte
 
 - Wie ernst und wie langfristig dieser Kontakt für mich ist — Entscheidung erst, wenn Gespräch 1 mit Angeli gelandet ist und die neuen Regeln stehen (→ [Wir](../03-relationship/us.md)).
 - Was ich an ihr mag, unabhängig vom Sexuellen — dazu habe ich bisher wenig festgehalten.
-- Wie Sonja auf die Klärungsnachricht reagiert — auch das ist eine Information über das Verhältnis.
+- ~~Wie Sonja auf die Klärungsnachricht reagiert~~ — beantwortet am 03.08.: verständnisvoll, entlastend, ohne Druck (siehe Status). Ein weiterer Gegenbeweis zur alten Regel „Ehrlichkeit ist gefährlich, ich muss cool sein": Die Wahrheit hat den Kontakt nicht beschädigt.
