@@ -58,6 +58,10 @@ Weitere Macken, die ich an ihr liebe (ergänzt am 02.08.2026):
 - Sie nimmt immer zwei Kaugummis auf einmal, anstatt nur einen.
 - Beim Kochen schafft sie es nicht, meine „Herdplatten-Regel" einzuhalten — obwohl sie es versucht.
 
+Ergänzt am 03.08.2026:
+
+- **Pfeffer:** Sie macht immer wahnsinnig viel Pfeffer auf ihr Essen — es kann quasi nicht genug sein. Sie pfeffert ganz schnell und ganz wild und ist dabei total bei sich; ich liebe es, ihr dabei zuzusehen. Ich finde es süß, dass ich Pfeffer nicht so mag und das Essen dann nicht mehr essen kann. Deshalb fragt sie mich immer, ob sie etwas Pfeffer draufmachen darf, oder gibt mir einen Teil des Essens ab, auf dem nicht so viel Pfeffer ist. Wenn es aber nur für sie ist, übertreibt sie es total mit dem Pfeffer. Ich finde das soooo süß.
+
 Aus einem kurzen Interview **mit Angeli selbst** (nicht meine Deutung, sondern ihre Aussage):
 
 - Sie trägt schon länger die Sorge „bin ich anziehend / genug für ihn?".
