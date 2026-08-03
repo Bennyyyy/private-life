@@ -19,6 +19,7 @@ Neue Notizen, PDFs und andere Dateien landen zuerst in der [Inbox](00-inbox/inbo
 | [04-people/](04-people/) | Andere Menschen in meinem Leben, eine Datei pro Person |
 | [05-decisions/](05-decisions/) | Wichtige Entscheidungen mit Kontext und Rückschau, eine Datei pro Entscheidung |
 | [06-documents/](06-documents/) | Wichtige Unterlagen (Scans, PDFs), thematisch in Unterordnern |
+| [07-work/](07-work/overview.md) | Berufliches im Überblick — Details liegen im separaten Career-Wiki und Worklog |
 | `99-archive/` | Überholte Inhalte (entsteht bei Bedarf, nichts wird einfach gelöscht) |
 
 ## Konventionen

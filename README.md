@@ -52,6 +52,7 @@ Datei- und Ordnernamen sind englisch, kleingeschrieben, mit Bindestrich. Root-Or
 ├── 04-people/        andere Personen, eine Datei pro Person
 ├── 05-decisions/     eine Datei pro Entscheidung, mit Vorlage
 ├── 06-documents/     wichtige Unterlagen, thematisch in Unterordnern
+├── 07-work/          Berufliches im Überblick; Details im separaten Career-Wiki und Worklog
 └── 99-archive/       Überholtes (entsteht bei Bedarf)
 ```
 

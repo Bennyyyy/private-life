@@ -24,6 +24,8 @@ index.md          entry point, links all areas
 04-people/        other people, one file per person (see 04-people/about.md)
 05-decisions/     one file per decision, template in 05-decisions/about.md
 06-documents/     real files (PDFs, scans) in topic subfolders (see 06-documents/about.md)
+07-work/          work life overview only — details live in the separate career wiki
+                  (/workspaces/work/career/) and worklog (/workspaces/work/worklog/)
 99-archive/       outdated content — move here instead of deleting (created on demand)
 ```
 
