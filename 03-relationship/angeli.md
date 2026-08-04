@@ -62,6 +62,10 @@ Ergänzt am 03.08.2026:
 
 - **Pfeffer:** Sie macht immer wahnsinnig viel Pfeffer auf ihr Essen — es kann quasi nicht genug sein. Sie pfeffert ganz schnell und ganz wild und ist dabei total bei sich; ich liebe es, ihr dabei zuzusehen. Ich finde es süß, dass ich Pfeffer nicht so mag und das Essen dann nicht mehr essen kann. Deshalb fragt sie mich immer, ob sie etwas Pfeffer draufmachen darf, oder gibt mir einen Teil des Essens ab, auf dem nicht so viel Pfeffer ist. Wenn es aber nur für sie ist, übertreibt sie es total mit dem Pfeffer. Ich finde das soooo süß.
 
+Ergänzt am 04.08.2026:
+
+- **Die leere Klopapierrolle:** Sie lässt die leere Rolle stets im Bad liegen, anstatt sie ins Altpapier zu bringen. Eigentlich könnte man es nervig finden, dass sie das nicht macht — aber ich finde es irgendwie süß.
+
 Aus einem kurzen Interview **mit Angeli selbst** (nicht meine Deutung, sondern ihre Aussage):
 
 - Sie trägt schon länger die Sorge „bin ich anziehend / genug für ihn?".
