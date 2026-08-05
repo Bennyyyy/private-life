@@ -27,6 +27,16 @@
 - Ich war mit [Agi](../04-people/agi.md) lange in einer „langweiligen" Beziehung.
 - Ich habe mein Studentenleben nicht voll ausgekostet.
 
+## „Ich bin nicht gut genug" — Herkunft (Interview, 05.08.2026)
+
+*Deutung:* Drei frühe Botschaften derselben Sorte, alle vor der Pubertät (→ [Lebensgeschichte](life-story.md)):
+
+- Der Clown, über den man sich lustig macht und den man für dumm hält.
+- Die Lehrer: „nicht gut genug für die Realschule" (Hauptschul-Empfehlung).
+- Felix' Eltern verbieten den Kontakt — ich war „nicht gut genug" für ihren Sohn.
+
+Danach die Mobbing-Jahre als Dauerbestätigung. Vermutlich eine Wurzel von Leistungsdruck, Perfektionsdruck und „Ich muss gut aussehen" (ich war als Jugendlicher „zu dick" und wurde dafür gedemütigt). Gegenbelege: Berufskolleg und Konstanz — Umgebung gewechselt, sofort „gut genug" gewesen.
+
 ## Neue Glaubenssätze (Gegenentwürfe)
 
 - Ich bin gut so, wie ich bin.

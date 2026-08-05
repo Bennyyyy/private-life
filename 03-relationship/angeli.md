@@ -27,7 +27,9 @@ Wer sie ist, was sie mir bedeutet, was ich an ihr sehe.
 
 ## Gesundheit
 
-- Angeli ist an Brustkrebs erkrankt.
+- Angeli ist an Brustkrebs erkrankt (Diagnose 2020, mitten in der Corona-Zeit). Die Chemo hat funktioniert; die Reha machte sie langsam wieder fitter. Die Angst vor einem Rückfall bleibt (→ [Lebensgeschichte](../01-personality/life-story.md), „Das Krisenjahr 2020").
+- Während der Chemo hatte sie kaum ein Immunsystem; eine Corona-Infektion hätte tödlich sein können.
+- Durch die Erkrankung kann sie keine Kinder mehr bekommen — wir hatten aber schon vorher geklärt, dass wir beide keine wollen (→ [Keine Kinder](../05-decisions/no-children.md)).
 - Seit einiger Zeit hat sie beim Sex Schmerzen, die mit ihrer Brustkrebserkrankung zusammenhängen.
 
 ## Notizen

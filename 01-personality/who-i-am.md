@@ -5,6 +5,9 @@ Identität, Persönlichkeit, Interessen, Ängste und Dinge, die mich geprägt ha
 ## Eckdaten
 
 - Geboren am 20.03.1986 in Heidenheim an der Brenz
+- Aufgewachsen auf dem Land: erst Treffelhausen, ab ca. 1993 Böhmenkirch; seit 2004 in Konstanz
+- Drei Geschwister: [Christian](../04-people/christian.md) (+4), [Melissa](../04-people/melissa.md) (+3, schwer behindert), [Jasmin](../04-people/jasmin.md) (−4)
+- Die ganze Chronik: [Lebensgeschichte](life-story.md)
 
 ## Leitfragen
 
@@ -28,7 +31,7 @@ Identität, Persönlichkeit, Interessen, Ängste und Dinge, die mich geprägt ha
 
 - Befinde ich mich in einer Midlife-Crisis?
 
-Vertiefung: [Glaubenssätze](beliefs.md) · [Ängste](fears.md) · [Bedürfnisse](needs.md) · [Muster](patterns.md) · [Freuden](joys.md) · [Sexualität](sexuality.md) · [Vision meines Wunschlebens](vision.md) · [Offene Fragen](open-questions.md)
+Vertiefung: [Lebensgeschichte](life-story.md) · [Glaubenssätze](beliefs.md) · [Ängste](fears.md) · [Bedürfnisse](needs.md) · [Muster](patterns.md) · [Freuden](joys.md) · [Sexualität](sexuality.md) · [Vision meines Wunschlebens](vision.md) · [Offene Fragen](open-questions.md)
 
 ## Notizen
 
@@ -55,3 +58,12 @@ Vertiefung: [Glaubenssätze](beliefs.md) · [Ängste](fears.md) · [Bedürfnisse
 - *Deutung:* Das ist der Ursprung davon, dass fehlende Anerkennung bei mir nicht als Meinungsverschiedenheit ankommt, sondern als **Ablehnung meiner Identität** (siehe Abschnitt oben, 13.07.2026). Was ich mir heute von Angeli wünsche — für mein Leben gefeiert zu werden — ist die exakte Umkehrung dieses Satzes.
 - Dazu die **Schulzeit**: Ich wurde gemobbt und habe versucht, nicht zu zeigen, wer ich bin oder was ich will, weil es gegen mich verwendet wurde. Zwei Quellen, dieselbe Lehre: **Was ich will, zeige ich besser nicht** — und nehme es mir heimlich (→ [Muster](patterns.md)).
 - **Gegenbeleg, den ich mir merken will:** Am 18.07.2026 habe ich offen gesagt, was ich will (Foiling), es kam nichts zurück, und ich habe es trotzdem gemacht. Es wurde einer meiner besten Tage (→ [Freuden](joys.md)).
+
+### Vertiefung der Prägung: das Dorffest-Tribunal und die „nicht gut genug"-Botschaften (Interview, 05.08.2026)
+
+Aus dem Interview zur [Lebensgeschichte](life-story.md); dort ausführlich.
+
+- **Die Kernszene zur alten Regel:** Beim Dorffest-Vorfall (kurz vor Ende der Realschule) breitete [Patriz](../04-people/patriz.md) meine Heimlichkeiten vor meinen Eltern aus. Sie verteidigten mich nach außen — aber am nächsten Tag kam das Tribunal: Taschengeldentzug, Nachforschungen bei Freunden, Lehrer informiert, Umsetzen in der Klasse. *Deutung:* Der Worst Case „sie sehen, wer ich wirklich bin" ist real eingetreten und wurde real bestraft — von den Menschen, auf die ich angewiesen war. Das ist die dichteste Fassung der Regel „wenn ich zeige, wer ich bin, gefährde ich die Beziehung".
+- **Drei frühe „nicht gut genug"-Botschaften** (Grundschulzeit): der Clown, den man für dumm hält; die Hauptschul-Empfehlung der Lehrer gegen den Willen meiner Eltern; das Kontaktverbot durch Felix' Eltern. *Deutung:* eine Wurzel von Leistungs- und Perfektionsdruck (→ [Glaubenssätze](beliefs.md)).
+- **„So war das Leben eben":** Die Misshandlungen der Mobbing-Jahre habe ich nie jemandem erzählt — ich wollte dazugehören, kannte nichts anderes und sah keinen Grund, mich zu beschweren. *Deutung:* der Ursprung des Nicht-Beschwerens und Normalisierens von schlechter Behandlung (→ [Muster](patterns.md)).
+- **Gegenerfahrung Berufskolleg/Konstanz:** Zweimal Umgebungswechsel, zweimal wurde aus dem „dummen Idioten" jemand mit Freunden, guten Noten und Freiheit. Die Umgebung war das Problem, nicht ich.
