@@ -50,6 +50,14 @@ Anlass: Sie hatte am Vortag eine gute Prognose bekommen — die Medikamente schl
 - **Die Hygienefrage einmal vorher klären**, dann ist sie für den Abend erledigt (eine Hand hinten, eine vorne, oder zwischendurch waschen).
 - **Beim nächsten Mal die Variante nehmen, die ich mir gewünscht hatte:** sie auf mir. Doggy war die Position mit der maximalen Ungewissheit — volle Kontrolle bei mir, kein Blickkontakt.
 
+## Stand des Verhältnisses (05.08.2026)
+
+- Mir ist wichtig, das Verhältnis nicht zu verlieren. Ich mag sie gerne, und ich mag den Sex, den wir haben, sehr — ich wünsche mir sehr, dass es weitergeht.
+- Ich spüre oft, dass sie einen anderen — **Miguel** — besser findet als mich: Sie datet ihn sehr häufig, sie kommunizieren enger; er ist ebenfalls in einer offenen Beziehung. Außerdem sucht Rebecca einen festen Partner und datet dafür regelmäßig.
+- Ich habe das Gefühl, in ihrem Interesse zu **schrumpfen**, weil ich nicht so eng in Kontakt stehe wie andere; sie hat zudem angefangen, weniger mit mir zu kommunizieren. Auf meine letzte Nachricht hat sie nicht geantwortet.
+- Deshalb wollte ich mich mehr bemühen — auch vor dem Hintergrund, dass die Sache mit Sonja unklar ist, ich seit Monaten erfolglos nach neuen Dates suche und am Ende nicht ohne Dates dastehen will. Die Urlaubsstart-Nachricht vom 04.08. gehört in diese Bemühung (→ [Wir](../03-relationship/us.md), Vorfall vom 04.08.2026).
+- *Beobachtung (05.08.):* Was ich hier fühle — schrumpfender Platz, Vergleich mit einem enger kommunizierenden Rivalen, Drang, mich mehr zu bemühen — ist strukturell genau Angelis Grundangst mir gegenüber. Von innen erlebt. (→ [Wir](../03-relationship/us.md), Befund 6.)
+
 ## Offene Punkte
 
 - Sie hatte vor dem 30.07.2026 Darmprobleme, vermutlich durch die Medikamente. Ob Analsex gerade geht, kann ich nur erfragen, nicht erraten.
