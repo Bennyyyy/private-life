@@ -944,6 +944,19 @@ Meine Einordnung: Angeli versucht, **Gefühle in Schicht 1** (exklusiver Kern) z
 - *Der Rebecca-Spiegel (Empathie-Material):* Was ich gerade bei Rebecca erlebe — in ihrem Interesse schrumpfen, Vergleich mit Miguel, Drang, mich mehr zu bemühen, um meinen Platz nicht zu verlieren (→ [Rebecca](../04-people/rebecca.md)) — ist Angelis Grundangst von innen. Ich weiß jetzt, wie sich unsicherer Platz anfühlt. Das ist die Sprache, mit der ich ihr zeigen kann, dass ich ihre Angst ernst nehme, ohne mich zu unterwerfen.
 - Offener Faden: Das Gefühls-Thema (Schicht-Zuordnung) gehört ins Kern-Gespräch — als einer der Punkte, an denen Angelis Seite und meine sich widersprechen werden.
 
+### Offener Punkt: Kommunikation mit Dates (Nachtrag 05.08.2026)
+
+Fürs Kern-Gespräch vormerken: Wie sieht die Kommunikation mit unseren Dates künftig aus — was davon gehört in den Kern, was sind Verhaltensregeln (Schicht 3), was ist freier Raum? Konkrete Fragen, die mich beschäftigen:
+
+- **Häufigkeit, Zeitraum und Art** der Kommunikation — gibt es Grenzen, und wo?
+- Ist **Sexting** erlaubt? Sind **lange Sprachnachrichten** erlaubt?
+- Sind **Inhalte außerhalb der Organisation von Treffen** erlaubt (Alltag, persönliche Themen)?
+- Wie steht es um **Bilder und Videos — auch nicht-sexuelle**? (Die sexuellen Bilder sind über die drei Stufen in Befund 3 schon vorgedacht.)
+
+Meine Haltung: Ich hätte gerne viel Freiheit und würde grundsätzlich alles frei erlauben, außer dem, was in unseren Kern gehört. Dazu bestimmte Verhaltensregeln festlegen (z. B. Bilder zuerst an mich, Prio 1). **Ehrlich festgehalten: Ich bin hier unsicher** — das gilt es zu besprechen, wenn es so weit ist.
+
+- *Einordnung:* Das ist die historisch konfliktreichste Grauzone des alten Systems („welche Art von Kommunikation ist erlaubt? wann ist es zu viel?") — sie verdient explizite Behandlung statt Vertrauen auf den Default. Und sie liegt genau auf der Bruchlinie von Befund 5/6: Häufigkeit und Intensität von Kommunikation *sind* investierte Energie — Angelis Währung. Hier werden ihr Schicht-1-Versuch (Gefühle/Energie exklusiv) und mein Freier-Raum-Wunsch voraussichtlich kollidieren. Gut, das vorher zu wissen.
+
 ### Beobachteter Muster-Moment: die Rücknahme in Echtzeit
 
 Im Gespräch selbst passiert: „Besonders Analsex wäre schlimm für mich" → im selben Atemzug → „es wäre aber schon okay, wenn das ihr Wunsch ist." Position genannt und sofort zurückgenommen — das bekannte Muster (Bedürfnis zeigen = einschränken = Gefahr → weichspülen), dessen Preis der spätere Groll ist. Wichtig fürs Kern-Gespräch: **„Das würde mir wehtun" ist keine Regel.** Ich darf den Schmerz benennen *und* ihr die Entscheidung lassen — zwei Sätze, beide dürfen wahr sein. Der zweite ersetzt nicht den ersten, sonst trifft Angeli ihre Entscheidungen mit falschen Karten. (Spiegel: Genau das werfe ich ihr vor — Bedürfnisse nicht direkt zu äußern.) Beim Analsex-Test ist mir dann beides nebeneinander gelungen, ohne Rücknahme — so klingt der Satz, den ich im Gespräch brauche.
