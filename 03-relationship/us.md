@@ -275,7 +275,7 @@ Auslöser: Benny erzählte, dass er beim Sex gerade schnell zum Orgasmus kommt �
 Was Angeli selbst sagte:
 
 - Das Verletzende war **nicht die Aussage an sich, sondern der Vergleich mit früher**.
-- Ihre Sorge in diesem Vergleich: dass es heißen könnte, früher sei sie **weniger „anturnend"** gewesen und Benny habe *deshalb* langsamer / nicht zum Orgasmus kommen können. Der Satz landete also als Aussage über **ihre Attraktivität**, nicht über Gewöhnung.
+- Ihre Sorge in diesem Vergleich: dass sie **heute nicht mehr so sexy** sei wie früher — und Benny *deshalb* heute grundsätzlich langsamer oder gar nicht zum Orgasmus kommt. Der Satz landete also als Aussage über **ihre heutige Attraktivität**, nicht über Gewöhnung. *(Korrigiert am 05.08.2026 — die Richtung der Sorge stand vorher verdreht da. Einordnung der Fakten: Penetration ist wegen ihrer Schmerzen selten geworden; wenn sie stattfindet, genieße ich sie sehr und komme daher oft schnell — der Auslöser oben stimmt. Grundsätzlich komme ich heute aber langsamer oder oft gar nicht, und genau daran hängt ihre Sorge.)*
 - Diese Unsicherheit („bin ich anziehend / genug für ihn?") ist **nicht neu** — sie war schon vorher da.
 - Genährt wird sie vor allem durch **Momente, in denen Benny sagt, er habe gerade weniger Gefühle für sie oder sei weniger verliebt.** Der Sex-Vergleich fiel in genau diesen schon offenen Boden.
 
