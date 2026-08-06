@@ -33,8 +33,17 @@ Was ich an ihr mag (Stand 03.08.2026, noch unvollständig):
 - Die Samstag-Entscheidung treffe ich am Donnerstag selbst, anhand von drei Ja-Kriterien (→ [Wir](../03-relationship/us.md)).
 - **Sonjas Antwort (noch am selben Tag):** Sie hat sich für die offene, ehrliche Kommunikation bedankt, hat Verständnis, ich soll mir die Zeit nehmen, die ich brauche, und einfach Bescheid geben — „kein Problem". Keine Kränkung, kein Rückzug, kein Druck.
 
+## Status (06.08.2026) — Absage und zwei Wochen Funkstille
+
+- Angeli und ich haben heute über Sonja gesprochen. Entscheidung: **Das Samstag-Date (Orangerie, 08.08.) ist abgesagt**, und ich habe **zwei Wochen keinen Kontakt** zu Sonja. Ich melde mich danach von mir aus.
+- Der am 03.08. zugesagte feste Bescheid „bis Donnerstagabend" ist damit eingehalten.
+- Die Nachricht war bewusst kurz und ohne Details: Sonja hat nichts falsch gemacht und muss nichts von unserer Krise wissen. Wortlaut und Einordnung → [Wir](../03-relationship/us.md), „Die Donnerstag-Entscheidung".
+- Hinweis auf die Orangerie in der ersten Fassung („such dir jemanden") habe ich am Ende weggelassen — sie wusste seit dem 03.08., dass sie das darf.
+
 ## Offene Punkte
 
+- Sonjas Reaktion auf die Absage — noch offen (Stand 06.08.2026).
+- Nach zwei Wochen von mir aus melden, wie zugesagt. Auch dann, wenn ich noch unsicher bin — dann genau das sagen.
 - Wie ernst und wie langfristig dieser Kontakt für mich ist — Entscheidung erst, wenn Gespräch 1 mit Angeli gelandet ist und die neuen Regeln stehen (→ [Wir](../03-relationship/us.md)).
 - Was ich an ihr mag, unabhängig vom Sexuellen — dazu habe ich bisher wenig festgehalten.
 - ~~Wie Sonja auf die Klärungsnachricht reagiert~~ — beantwortet am 03.08.: verständnisvoll, entlastend, ohne Druck (siehe Status). Ein weiterer Gegenbeweis zur alten Regel „Ehrlichkeit ist gefährlich, ich muss cool sein": Die Wahrheit hat den Kontakt nicht beschädigt.

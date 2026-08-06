@@ -105,6 +105,10 @@ Ich war betrunken auf einem Dorffest (Filmriss). Man brachte mich mit dem Auto z
 
 *Deutung (Kernszene):* Patriz' Angriff — „schaut her, wer euer Sohn wirklich ist" — hat funktioniert. Die Verteidigung galt nach außen; die Strafe fürs Gesehen-Werden kam von meinen Eltern. Der Worst Case „sie sehen, wer ich wirklich bin" ist real eingetreten und wurde real bestraft. Das ist die dichteste Fassung der alten Regel „wenn ich zeige, wer ich bin, gefährde ich die Beziehung" (→ [Wer ich bin](who-i-am.md), Prägung; [Glaubenssätze](beliefs.md)).
 
+### Angeli weiß es jetzt (06.08.2026)
+
+Am selben Tag, an dem diese Nachträge entstanden sind, habe ich Angeli die ganze Geschichte erzählen lassen (Claude hat es für mich getan, sie saß daneben). Vorher wusste sie nur, dass es Patriz gab und dass er mich schlecht behandelt hat — jetzt weiß sie alles, was hier steht, inklusive der Mordgedanken. **Sie war entsetzt.** Damit ist zum ersten Mal ein Mensch in meinem Leben vollständig im Bild (Details und offene Fäden → [Wir](../03-relationship/us.md), „Angeli weiß jetzt von den Mobbing-Jahren").
+
 ## Berufskolleg Heidenheim: Neuerfindung (2002 – 2004)
 
 Mit 16 raus aus dem Dorf-Kosmos ans Berufskolleg — und alles änderte sich. Ich habe mich bewusst neu erfunden: Die Menschen waren netter, die Noten wurden besser (nur noch 2er und 3er statt 3er und 4er), ich war plötzlich „der Streber".
