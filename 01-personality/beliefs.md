@@ -37,6 +37,8 @@
 
 Danach die Mobbing-Jahre als Dauerbestätigung. Vermutlich eine Wurzel von Leistungsdruck, Perfektionsdruck und „Ich muss gut aussehen" (ich war als Jugendlicher „zu dick" und wurde dafür gedemütigt). Gegenbelege: Berufskolleg und Konstanz — Umgebung gewechselt, sofort „gut genug" gewesen.
 
+*Nachtrag 06.08.2026:* Der stärkste Verstärker fehlte bisher — die **Zelt-Falle** mit 15/16. Die ganze Klique inszenierte eine Situation, in der ich fast nackt dastand, und lachte mich dann gemeinsam dafür aus, „wie dumm" ich sei (→ [Lebensgeschichte](life-story.md)). Dieselbe Botschaft wie die Clown-Rolle und die Hauptschul-Empfehlung, aber öffentlich, geplant und mit Publikum. Dazu der Running Gag über meinen möglichen Tod: Ich war nicht nur „nicht gut genug", mein Schaden war der Gruppe schlicht gleichgültig.
+
 ## Neue Glaubenssätze (Gegenentwürfe)
 
 - Ich bin gut so, wie ich bin.

@@ -89,6 +89,15 @@ Wenn ich führe, bin ich unsicher: Ich will niemandem wehtun oder etwas tun, das
 - *Deutung:* Was mit Angeli sexuell fehlt, ist nicht in erster Linie die Penetration. Es ist, dass Sex zu einem Ort geworden ist, an dem ich **etwas falsch machen kann** — jede schmerzbedingte oder zögerliche Reaktion sagt dem Wachposten: *Deine Lust tut ihr weh.* Das ist das exakte Gegenteil meiner Bedingung.
 - Das erklärt auch, warum mir vor allem **ihre spontane, begeisterte Initiative** fehlt (→ [Wir](../03-relationship/us.md), „Abenteuer und Spontaneität") und nicht bloß das Abenteuer.
 
+### Mögliche Herkunft des Wachpostens (Hypothese, 06.08.2026)
+
+Zwei Erfahrungen aus der Jugend, in denen sexuelles Interesse an mir sich als Angriffsfläche herausstellte (ausführlich → [Lebensgeschichte](life-story.md)):
+
+1. **Waldparty (ca. 14–16):** Zum ersten Mal interessierte sich ein Mädchen für mich, wir berührten uns — es war wunderschön. Danach erzählten [Patriz](../04-people/patriz.md) und die anderen ihr, was für ein schlimmer Mensch ich sei. Sie sprach nie wieder mit mir.
+2. **Zelt-Falle (mit 15/16):** Nadine kam betrunken zu mir ins Zelt und schlug ein Auszieh-Spiel vor. Ich fand es zuerst nett, dass sich jemand für mich interessiert. Als ich fast nackt war, stand die ganze Klique um das Zelt herum und lachte — geplant von Anfang an.
+
+*Deutung, ausdrücklich als Hypothese und nicht als Erklärung:* Beide Male war das Interesse selbst der Köder, und beide Male kam die Strafe **nach** dem Moment, in dem ich mich gefreut habe. Das könnte eine Mitursache dafür sein, dass ich im Bett die Reaktion der anderen dauernd scanne, statt mich zu spüren — und dass ich Sicherheit nur aus **eindeutigen, lauten** Signalen ziehen kann: Ambivalenz und Stille sind genau der Zustand, in dem ich damals nicht gemerkt habe, was gespielt wird. Zu prüfen, nicht zu glauben (→ [Offene Fragen](open-questions.md)).
+
 ### Die geliehene Sicherheit (unbequemer Befund)
 
 Meine Sicherheit kommt bisher aus dem **Verhalten der Frau** — bei Rebecca vor allem aus der *Abwesenheit* negativer Reaktionen. Das hält nur, solange die andere sich richtig verhält; bei Angeli ist genau diese Sicherheit zusammengebrochen. Solange die Erlaubnis von außen kommen muss, bleibe ich in jeder Beziehung davon abhängig, wie die Frau reagiert.

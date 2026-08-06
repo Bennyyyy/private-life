@@ -51,6 +51,52 @@ Auf der Realschule war ich nicht gut (Schnitt ~3,5). Ab der Pubertät, bis etwa 
 
 Ich habe das Schlimmste nie jemandem erzählt. Meine Eltern wussten, dass Patriz mich schlecht behandelte (das war offensichtlich), aber nicht das meiste. Ich wollte dazugehören — das Dorf war mein einziges Umfeld, ich kannte nichts anderes. Mein Satz dazu war: **„So war das Leben eben. Kein Grund, sich zu beschweren."** (*Deutung:* der Ursprung davon, dass ich mich bis heute in Konflikten nicht sofort wehre, → [Muster](patterns.md).)
 
+> Nachtrag 06.08.2026: Die folgenden Abschnitte sind Erinnerungen und Einordnungen, die nach dem Interview vom 05.08. dazugekommen sind.
+
+### Die Zelt-Falle (mit 15 oder 16)
+
+Ein Fest mit der Dorfklique, wir wollten in Zelten übernachten; Patriz war vermutlich dabei. Ich war schon ziemlich betrunken in mein Zelt gegangen, als **Nadine** — ein Mädchen aus der Klique — zu mir hereinkam und ein Spiel spielen wollte: Wir ziehen uns abwechselnd etwas aus. Sie legte jedes Mal nur eine Kleinigkeit ab, einen Ring oder einen Ohrring; ich dagegen T-Shirt, Hose und so weiter. Ich fand es zuerst nett, dass sie sich für mich interessiert, und habe es wegen des Alkohols schlicht nicht mehr gecheckt.
+
+Als ich fast nackt war und sie fast noch vollständig angezogen, fing sie an zu lachen — und um das Zelt herum ebenfalls. Sie öffneten die Zelttür: Die ganze Klique stand drumherum, hatte die ganze Zeit zugehört. **Es war geplant.** Sie lachten mich aus, wie dumm ich sei. Die Details weiß ich nicht mehr genau, aber es war sehr schlimm für mich.
+
+*Deutung:* Das war kein missglückter Flirt und kein Streich, sondern eine **geplante, kollektiv inszenierte sexuelle Demütigung eines Wehrlosen**. Und es ist das zweite Mal, dass das erste Interesse eines Mädchens zur Waffe gegen mich wurde (siehe die Waldparty-Szene oben). Beide Male war das Interesse selbst der Köder — mit möglichen Spuren bis heute (→ [Sexualität](sexuality.md), „Wachposten").
+
+### „Irgendwann bringen wir dich noch um" (ca. 12 – 16)
+
+Im Freundeskreis war es ein **Running Gag**, dass man mich irgendwann versehentlich umbringen wird. Darüber wurde immer sehr gelacht. Der Hintergrund: Mir wurde ständig etwas angetan, und oft war es dann sogar schlimmer als geplant.
+
+Ein Beispiel: **Tobias Mahringer**, ein großer Bauer, schoss mit einem großen Ball sehr hart auf mich. Ich flog stärker um als erwartet, und dabei fiel fast etwas Schweres von einer Wand auf mich — es verfehlte nur knapp meinen Kopf. Alle lachten und machten Witze darüber, dass man mich bei solchen Aktionen noch irgendwann umbringen werde, besonders Patriz. Tobias war auch sonst immer wieder sehr grob und gemein zu mir.
+
+**Ich habe damals mitgelacht.** Weil es für mich normal war und ich eh der Clown war. Aber irgendwo tat es auch sehr weh.
+
+*Deutung:* Mein Schaden wurde dauerhaft in Kauf genommen — bis hin zu Witzen über meinen Tod. Das Mitlachen war keine Zustimmung, sondern Überlebensstrategie: die einzige Position, die mich noch dazugehören ließ. Es ist die aktive Form von „So war das Leben eben" (→ [Muster](patterns.md)).
+
+### Was in mir entstand: Mordgedanken an Patriz
+
+Zwischendurch hatte ich Mordgedanken an Patriz. Sie waren nicht wirklich konkret, aber ich habe mir manchmal vorgestellt, wie es passieren könnte, dass es wie ein Unfall aussieht — es gab ein konkretes Szenario in einem verlassenen Steinbruch, weil ich wusste, dass er dort allein sein würde und dort schnell etwas Dummes passieren könnte. **Ich hätte das nie gemacht.** Aber allein die Gedanken fand ich krass. Wieder eingefallen sind sie mir durch das Interview vom 05.08.2026.
+
+*Deutung:* Rachefantasien sind bei anhaltender Misshandlung eine normale Selbstschutz-Reaktion — kein Hinweis auf Gefährlichkeit.
+
+**Meine eigene Einordnung dazu (06.08.2026):** Das war eine **Ausnahmesituation** und kam nicht oft. Sonst habe ich niemandem etwas Böses gewünscht, sondern meist gesehen, dass der andere vermutlich einen Grund für sein Verhalten hat. Aggressiv war ich hier und da schon auch mal — aber nie stark, und immer nur, wenn ich sicher war, dass es keine schlimmen Konsequenzen hat. Der Satz „Ich war nie aggressiv" aus meiner Therapie stimmt also nicht ganz; ein Vorrat unterdrückter Wut war es aber auch nicht (→ [Therapie](../02-health/therapy.md)).
+
+### Warum ich mich nicht gewehrt habe: eine geschlossene Welt
+
+Meine Einordnung dazu (06.08.2026):
+
+- **Ich wollte dazugehören.** Darum habe ich mich oft nicht getraut, mich zu wehren.
+- **Wehren hätte es schlimmer machen können.** Das war keine Feigheit, sondern eine realistische Einschätzung.
+- **Es gab keine anderen Menschen** — nicht im Dorf, nicht in der Schule. Das war eben meine Welt. Es war normal für mich.
+- **Zwei Arenen mit unterschiedlichen Regeln:** meine Eltern als Sicherheit — dort musste ich besonders aufpassen, sie nicht zu enttäuschen. Und die „Freunde" aus Dorf und Schule, zu denen ich dazugehören wollte.
+- **Gefallen hat mir das Dorf nie.**
+
+*Deutung:* Das erklärt das Nicht-Wehren besser als jede Charaktereigenschaft. In einem geschlossenen System ohne Ausweichmöglichkeit ist Anpassung die vernünftige Strategie — sich wehren hätte den Verlust der einzigen verfügbaren Welt riskiert. Dazu kam: Es gab keinen Ort, an dem ich einfach sein konnte. Zuhause galt „nicht enttäuschen", draußen galt „dazugehören" — beides Bedingungen, keins davon bedingungslos (→ [Wer ich bin](who-i-am.md), Prägung; [Muster](patterns.md)).
+
+### Das Internet als andere Welt
+
+Ab einer bestimmten Zeit habe ich mich viel im Internet aufgehalten. **Dort habe ich mich viel wohler gefühlt** — und dort habe ich gesehen, dass es auch eine andere Welt gibt. Auch wenn es im Internet oft ebenfalls hart zuging.
+
+*Deutung:* Das ist mein **erster** Umgebungswechsel — vor dem Berufskolleg und vor Konstanz, und er fand statt, ohne dass ich das Dorf verlassen musste. Damit ist das Muster „Die Umgebung war das Problem, nicht ich" schon in den schlimmsten Jahren einmal belegt gewesen. Bemerkenswert außerdem: Ich habe mich dort wohler gefühlt, obwohl es auch dort hart zuging — es war also nicht Härte an sich, die mich fertigmachte, sondern die Ausweglosigkeit und das Ausgeliefertsein im Dorf. Wo ich gehen konnte, hielt ich Härte aus.
+
 ### Das Dorffest und das Tribunal (kurz vor Ende der Realschule)
 
 Ich war betrunken auf einem Dorffest (Filmriss). Man brachte mich mit dem Auto zu meinen Eltern und legte mich vor die Tür. Patriz und andere kamen mit, um meinen Eltern zu zeigen, wie betrunken ich bin, dass ich rauche und „was für ein schlimmer Mensch" ich sei, der ganz viel heimlich macht — was zum Teil stimmte (Alkohol, Rauchen, heimliche Partys). Meine Eltern verteidigten mich in dem Moment und verwiesen Patriz vom Grundstück; der Kontakt zu ihm war seither beendet.
