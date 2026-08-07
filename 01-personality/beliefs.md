@@ -17,8 +17,8 @@
 - Ich muss gut aussehen.
 - Entweder bin ich frei oder in einer Beziehung.
 - Nur wenn ich alleine bin, spüre ich meine eigenen Gefühle und Bedürfnisse deutlich und fühle mich wirklich frei und wie ich selbst.
-- Wenn ich mich wehre oder ein Problem anspreche, „mache ich Ärger" und gefährde die Beziehung — also passe ich mich an. (Im Interview 17.07.2026 als *alte Regel* erkannt, nicht als heutige Wirklichkeit → [Wir](../03-relationship/us.md).)
-- Ich bin vielleicht nicht in der Lage, wirklich zu lieben — ich hatte noch nie das Gefühl, jemanden „wirklich" zu lieben. (Im Interview 21.07.2026 geprüft: Mein Maßstab bestand aus Verliebtheits-Symptomen plus angstfreier Sicherheit — beides misst nicht Liebesfähigkeit. Gemessen an dem, was ich real fühle — Stolz, Rührung, Respekt, Begehren —, liebe ich Angeli. Offen: ob sich das auch ohne diese Neudefinition richtig anfühlt; und ob mein Gefühls-Regler durch das frühe Wegdrücken von Gefühlen generell gedrosselt ist — Therapie-Thema. → [Wir](../03-relationship/us.md))
+- Wenn ich mich wehre oder ein Problem anspreche, „mache ich Ärger" und gefährde die Beziehung — also passe ich mich an. (Im Interview 17.07.2026 als *alte Regel* erkannt, nicht als heutige Wirklichkeit → [Wir: Der Trigger-Kreislauf, 17.07.2026](../03-relationship/log/2026-07-17-trigger-cycle.md).)
+- Ich bin vielleicht nicht in der Lage, wirklich zu lieben — ich hatte noch nie das Gefühl, jemanden „wirklich" zu lieben. (Im Interview 21.07.2026 geprüft: Mein Maßstab bestand aus Verliebtheits-Symptomen plus angstfreier Sicherheit — beides misst nicht Liebesfähigkeit. Gemessen an dem, was ich real fühle — Stolz, Rührung, Respekt, Begehren —, liebe ich Angeli. Offen: ob sich das auch ohne diese Neudefinition richtig anfühlt; und ob mein Gefühls-Regler durch das frühe Wegdrücken von Gefühlen generell gedrosselt ist — Therapie-Thema. → [Wir: Was ich an Angeli liebe, 21.07.2026](../03-relationship/log/2026-07-21-what-i-love-about-angeli.md))
 
 ## „Ich hab viel verpasst" — Herkunft
 

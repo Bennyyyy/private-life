@@ -31,7 +31,7 @@ Wer sie ist, was sie mir bedeutet, was ich an ihr sehe.
 - Während der Chemo hatte sie kaum ein Immunsystem; eine Corona-Infektion hätte tödlich sein können.
 - Durch die Erkrankung kann sie keine Kinder mehr bekommen — wir hatten aber schon vorher geklärt, dass wir beide keine wollen (→ [Keine Kinder](../05-decisions/no-children.md)).
 - Seit einiger Zeit hat sie beim Sex Schmerzen, die mit ihrer Brustkrebserkrankung zusammenhängen.
-- Früher hatte sie eine Essstörung (Bulimie), und auch heute hat sie noch ein schwieriges Verhältnis zum Essen. Ihr Gewicht („Dickheit") war lange ein belastendes Thema, das sie vor mir eher versteckt hat. Dank Wegovy hat sich das Problem sehr verbessert. (Interview 07.08.2026, → [Wir](us.md), „Die Jahre vor der Krise".)
+- Früher hatte sie eine Essstörung (Bulimie), und auch heute hat sie noch ein schwieriges Verhältnis zum Essen. Ihr Gewicht („Dickheit") war lange ein belastendes Thema, das sie vor mir eher versteckt hat. Dank Wegovy hat sich das Problem sehr verbessert. (Interview 07.08.2026, → [Wir: Die Jahre vor der Krise](log/2026-08-07-years-before-crisis.md).)
 
 ## Notizen
 
@@ -45,12 +45,12 @@ Diese Einschätzungen beschreiben meine subjektive Sicht, keine gesicherten Diag
 - Unter Stress kann ihre Kommunikation kritisch, vorwurfsvoll oder aggressiv werden. Teilweise versucht sie aus meiner Sicht indirekt, andere auf ihr Bedürfnis auszurichten, statt es offen als ihr eigenes zu vertreten.
 - Sie möchte gefallen und übernimmt viel Verantwortung für die Reaktionen anderer. Gleichzeitig fällt es ihr schwer, unabhängig davon für ihre Bedürfnisse einzustehen.
 - Vieles davon hat sich bereits verbessert oder zeigt sich inzwischen in anderen Strategien.
-- Was ich früher an ihr bewundert habe — ihre grenzenlose, abenteuerlustige, unkonventionelle, hedonistische, weltoffene und intellektuelle Art — ist aus meiner Sicht nicht weg, sondern von ihrer Angst und Anspannung verschüttet. Wenn sie sich unabhängig und sicher fühlt, kommt diese Seite eher wieder heraus (→ [Wir](us.md), Analyse vom 13.07.2026).
-- *Deutung (02.08.2026):* Beim Thema Patriarchat/Feminismus steckt sie vermutlich in einem Doppelzwang: Sie lehnt das System überzeugt ab — und knüpft zugleich ihren Selbstwert an ihr Aussehen, vergleicht sich ständig und zieht sich zurück, wenn sie sich nicht hübsch genug fühlt. Das ist kein Widerspruch oder Heuchelei, sondern internalisiertes Patriarchat; ihre starke Emotionalität bei dem Thema ist Folge ihrer Betroffenheit. Ihre Wut auf mich (Pornos, Blicke) ist vermutlich teilweise umgeleitete Wut auf das System und auf sich selbst (→ [Wir](us.md), Analyse vom 02.08.2026).
+- Was ich früher an ihr bewundert habe — ihre grenzenlose, abenteuerlustige, unkonventionelle, hedonistische, weltoffene und intellektuelle Art — ist aus meiner Sicht nicht weg, sondern von ihrer Angst und Anspannung verschüttet. Wenn sie sich unabhängig und sicher fühlt, kommt diese Seite eher wieder heraus (→ [Wir: Analyse vom 13.07.2026](log/2026-07-13-relationship-difficulties.md)).
+- *Deutung (02.08.2026):* Beim Thema Patriarchat/Feminismus steckt sie vermutlich in einem Doppelzwang: Sie lehnt das System überzeugt ab — und knüpft zugleich ihren Selbstwert an ihr Aussehen, vergleicht sich ständig und zieht sich zurück, wenn sie sich nicht hübsch genug fühlt. Das ist kein Widerspruch oder Heuchelei, sondern internalisiertes Patriarchat; ihre starke Emotionalität bei dem Thema ist Folge ihrer Betroffenheit. Ihre Wut auf mich (Pornos, Blicke) ist vermutlich teilweise umgeleitete Wut auf das System und auf sich selbst (→ [Wir: Die Patriarchat-Streits, 02.08.2026](log/2026-08-02-patriarchy-fights.md)).
 
 ### Was ich an ihr schätze und liebe (Interview, 21.07.2026)
 
-Antwort auf die Leitfrage „Was schätze ich an ihr — auch das, was ich ihr selten sage?"; ausführlich in → [Wir](us.md), „Interview: Was ich an Angeli liebe (21.07.2026)".
+Antwort auf die Leitfrage „Was schätze ich an ihr — auch das, was ich ihr selten sage?"; ausführlich in → [Wir: Was ich an Angeli liebe (21.07.2026)](log/2026-07-21-what-i-love-about-angeli.md).
 
 - **In Gesellschaft** (z. B. Abend im Garten bei Christoph): schön und freundlich, hört aufmerksam zu, genießt den Moment, ist zwischendurch liebevoll zu mir, kann mit jedem sprechen, sagt schlaue und lustige Dinge. Ich bin stolz auf sie.
 - **Ihr Charakter, auch ganz ohne mich:** Sie hält viel aus, ohne zu zerbrechen. Anpassungsfähig, rational, handlungsfähig — sie geht Dinge an und setzt sie um. Eine wahnsinnig gute Psychologin: Sie liest Menschen, erkennt, was sie wirklich brauchen, und hilft ihnen. Man kann ihr vertrauen; sie ist zuverlässig.
@@ -74,9 +74,9 @@ Aus einem kurzen Interview **mit Angeli selbst** (nicht meine Deutung, sondern i
 - Sie trägt schon länger die Sorge „bin ich anziehend / genug für ihn?".
 - Diese Sorge wird vor allem laut, wenn ich sage, dass ich **gerade weniger Gefühle für sie habe oder weniger verliebt bin**.
 - Ein Vergleich mit früher landet bei ihr als Urteil über ihre Attraktivität — ihre Angst: Sie sei früher sexier gewesen und heute nicht mehr, und deshalb komme ich heute nicht so schnell oder gar nicht mehr zum Orgasmus. (Korrigiert am 05.08.2026 — stand vorher genau verdreht da.)
-- Ausführlich dokumentiert in → [Wir](us.md), „Interview mit Angeli (18.07.2026)".
+- Ausführlich dokumentiert in → [Wir: Interview mit Angeli (18.07.2026)](log/2026-07-18-interview-angeli-sex-comparison.md).
 
 ### Energie
 
 - Wenn Angeli gegen 6 Uhr aufsteht, ist ihre Energie meist ab etwa 21 Uhr aufgebraucht. Bei späterem Aufstehen liegt diese Grenze eher gegen 23 Uhr.
-- Sie sagt selbst, dass sie ihre Müdigkeit nicht richtig bemerkt und sich dann nicht mehr erklären kann. Danach wird sie still und verändert nur ihre Körpersprache — was bei mir ankommt, als hätte ich etwas falsch gemacht (→ [Wir](us.md), Analyse 28.07.2026).
+- Sie sagt selbst, dass sie ihre Müdigkeit nicht richtig bemerkt und sich dann nicht mehr erklären kann. Danach wird sie still und verändert nur ihre Körpersprache — was bei mir ankommt, als hätte ich etwas falsch gemacht (→ [Wir: Analyse 28.07.2026](log/2026-07-28-euphoria-meets-exhaustion.md)).

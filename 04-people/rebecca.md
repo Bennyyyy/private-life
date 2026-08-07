@@ -55,8 +55,8 @@ Anlass: Sie hatte am Vortag eine gute Prognose bekommen — die Medikamente schl
 - Mir ist wichtig, das Verhältnis nicht zu verlieren. Ich mag sie gerne, und ich mag den Sex, den wir haben, sehr — ich wünsche mir sehr, dass es weitergeht.
 - Ich spüre oft, dass sie einen anderen — **Miguel** — besser findet als mich: Sie datet ihn sehr häufig, sie kommunizieren enger; er ist ebenfalls in einer offenen Beziehung. Außerdem sucht Rebecca einen festen Partner und datet dafür regelmäßig.
 - Ich habe das Gefühl, in ihrem Interesse zu **schrumpfen**, weil ich nicht so eng in Kontakt stehe wie andere; sie hat zudem angefangen, weniger mit mir zu kommunizieren. Auf meine letzte Nachricht hat sie nicht geantwortet.
-- Deshalb wollte ich mich mehr bemühen — auch vor dem Hintergrund, dass die Sache mit Sonja unklar ist, ich seit Monaten erfolglos nach neuen Dates suche und am Ende nicht ohne Dates dastehen will. Die Urlaubsstart-Nachricht vom 04.08. gehört in diese Bemühung (→ [Wir](../03-relationship/us.md), Vorfall vom 04.08.2026).
-- *Beobachtung (05.08.):* Was ich hier fühle — schrumpfender Platz, Vergleich mit einem enger kommunizierenden Rivalen, Drang, mich mehr zu bemühen — ist strukturell genau Angelis Grundangst mir gegenüber. Von innen erlebt. (→ [Wir](../03-relationship/us.md), Befund 6.)
+- Deshalb wollte ich mich mehr bemühen — auch vor dem Hintergrund, dass die Sache mit Sonja unklar ist, ich seit Monaten erfolglos nach neuen Dates suche und am Ende nicht ohne Dates dastehen will. Die Urlaubsstart-Nachricht vom 04.08. gehört in diese Bemühung (→ [Wir: Vorfall vom 04.08.2026](../03-relationship/log/2026-08-04-rebecca-message-incident.md)).
+- *Beobachtung (05.08.):* Was ich hier fühle — schrumpfender Platz, Vergleich mit einem enger kommunizierenden Rivalen, Drang, mich mehr zu bemühen — ist strukturell genau Angelis Grundangst mir gegenüber. Von innen erlebt. (→ [Wir: Was gehört nur uns?, Befund 6](../03-relationship/log/2026-08-03-what-belongs-to-us.md).)
 
 ## Offene Punkte
 

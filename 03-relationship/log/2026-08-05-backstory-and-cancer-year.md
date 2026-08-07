@@ -1,0 +1,9 @@
+# Vorgeschichte und das Krebsjahr 2020 aus meiner Sicht (Interview, 05.08.2026)
+
+> Log-Eintrag zur Beziehung — dauerhafter Stand und Log-Übersicht: [Wir](../us.md).
+
+Ausführlich in der [Lebensgeschichte](../../01-personality/life-story.md); hier das, was die Beziehung direkt betrifft.
+
+- **Anfang:** Nach Agi wollte ich eigentlich keine Beziehung, sondern mich ausleben. Angeli machte das überflüssig — der Sex war genau das, was Agi für „unmöglich" hielt, und Angeli war anfangs sehr nymphomanisch: Es gab mehr Sex, als ich geben konnte. Schon in den ersten Monaten ein Dreier in Berlin (trotz Pannen der Wahnsinn für mich) und der Swingerclub-Wunsch von ihr. Paar-Dates über die Jahre liefen dagegen meist nicht gut — dort begannen erste Probleme. Das Solo-Dating wurde erst in den letzten ~2 Jahren intensiver, auch weil Angeli weniger Sex möchte oder kann, ich aber schon — und nichts verpassen will.
+- **2020 war das schlimmste Jahr meines Lebens:** Diagnose, Corona, Job-Wechsel. Ich stellte meine Bedürfnisse hinten an, um für Angeli da zu sein, und überbrückte mit Cannabis (→ [Cannabis](../../02-health/cannabis.md)). Meine Ängste in Schichten: sie zu verlieren; mein Leben, wie ich es kannte, zu verlieren; ehrlicherweise auch mein Sexleben zu verlieren. Als ihr wegen der Chemo fast ohne Immunsystem einziger Kontakt lebte ich mit der Angst, sie durch eine Corona-Infektion indirekt umzubringen. Dazu die Hilflosigkeit, sie leiden zu sehen.
+- **Was blieb:** die Angst vor dem Rückfall, das Wissen um die Endlichkeit, die dauerhaften Verluste. Und mein schwerster Satz dazu: **Ich habe Angst, einen Teil von Angeli in dieser Zeit verloren zu haben — und dass sie seither nicht mehr so sehr zu mir passt.** (= die Gabelung aus der [Analyse vom 13.07.2026](2026-07-13-relationship-difficulties.md): Angst-Kreislauf vs. bleibende Veränderung.)

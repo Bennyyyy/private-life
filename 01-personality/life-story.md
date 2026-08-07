@@ -110,7 +110,7 @@ Ich war betrunken auf einem Dorffest (Filmriss). Man brachte mich mit dem Auto z
 
 ### Angeli weiß es jetzt (06.08.2026)
 
-Am selben Tag, an dem diese Nachträge entstanden sind, habe ich Angeli die ganze Geschichte erzählen lassen (Claude hat es für mich getan, sie saß daneben). Vorher wusste sie nur, dass es Patriz gab und dass er mich schlecht behandelt hat — jetzt weiß sie alles, was hier steht, inklusive der Mordgedanken. **Sie war entsetzt.** Damit ist zum ersten Mal ein Mensch in meinem Leben vollständig im Bild (Details und offene Fäden → [Wir](../03-relationship/us.md), „Angeli weiß jetzt von den Mobbing-Jahren").
+Am selben Tag, an dem diese Nachträge entstanden sind, habe ich Angeli die ganze Geschichte erzählen lassen (Claude hat es für mich getan, sie saß daneben). Vorher wusste sie nur, dass es Patriz gab und dass er mich schlecht behandelt hat — jetzt weiß sie alles, was hier steht, inklusive der Mordgedanken. **Sie war entsetzt.** Damit ist zum ersten Mal ein Mensch in meinem Leben vollständig im Bild (Details und offene Fäden → [Wir: Angeli weiß jetzt von den Mobbing-Jahren](../03-relationship/log/2026-08-06-angeli-knows-mobbing-years.md)).
 
 > Nachtrag 07.08.2026: Zwei weitere Erinnerungen. Sie sind in der Erzählung vom 06.08. noch nicht enthalten.
 
@@ -173,7 +173,7 @@ Die Jahre vor der Krise waren sehr schön: Wir haben uns sexuell sehr ausgelebt,
 
 Wir lebten getrennt, beide in Konstanz (Angeli zwischendurch eine Zeit in Stuttgart) — und leben bis heute getrennt, inzwischen in derselben Straße. **Das Zusammenziehen in der Schweiz wird unser erstes gemeinsames Wohnen überhaupt** (→ [Entscheidung](../05-decisions/move-to-switzerland.md)).
 
-Aber viele der heutigen Themen gab es damals schon: Wir haben Themen gemieden und waren nicht authentisch zueinander — spiegelbildlich. Sie versteckte ihre Probleme, um mir zu gefallen; ich schluckte meinen Ärger, um sie zu schonen. Ausführlich → [Wir](../03-relationship/us.md), „Die Jahre vor der Krise: gegenseitige Schonung (07.08.2026)".
+Aber viele der heutigen Themen gab es damals schon: Wir haben Themen gemieden und waren nicht authentisch zueinander — spiegelbildlich. Sie versteckte ihre Probleme, um mir zu gefallen; ich schluckte meinen Ärger, um sie zu schonen. Ausführlich → [Wir: Die Jahre vor der Krise, gegenseitige Schonung (07.08.2026)](../03-relationship/log/2026-08-07-years-before-crisis.md).
 
 ## Das Krisenjahr 2020
 
@@ -196,7 +196,7 @@ Geblieben ist eine Schwere:
 - Die Angst, dass der Krebs wiederkommt.
 - Das Wissen, wie schnell das Leben zu Ende sein kann. Die erlebte Hilflosigkeit.
 - Die dauerhaften Verluste — auch was die Zeit mit Angeli gemacht hat: Ihre Verrücktheit und Grenzenlosigkeit ist verstummt, sie ist ängstlicher und kontrollierender geworden. Ich kann das verstehen; mir würde es in ihrer Situation vermutlich ähnlich gehen. Doch es ist das Gegenteil von dem, was ich will.
-- **Meine Angst, einen Teil von Angeli in dieser Zeit verloren zu haben — und dass sie seither nicht mehr so sehr zu mir passt.** (Das ist die offene Gabelung aus → [Wir](../03-relationship/us.md), Analyse 13.07.2026: Angst-Kreislauf vs. bleibende Veränderung.)
+- **Meine Angst, einen Teil von Angeli in dieser Zeit verloren zu haben — und dass sie seither nicht mehr so sehr zu mir passt.** (Das ist die offene Gabelung aus → [Wir: Analyse 13.07.2026](../03-relationship/log/2026-07-13-relationship-difficulties.md): Angst-Kreislauf vs. bleibende Veränderung.)
 
 Heute (2026): Umzug in die Schweiz und Zusammenziehen mit Angeli in Umsetzung (→ [Entscheidung](../05-decisions/move-to-switzerland.md)), Mandate laufen Ende August aus, intensive Arbeit an mir und an der Beziehung — dokumentiert in diesem Wiki.
 

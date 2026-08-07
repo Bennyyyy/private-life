@@ -37,7 +37,7 @@ Konkret habe ich das Bedürfnis, mit sportlichen, möglichst jungen Frauen Sex z
 - Penetrativer, ungeschützter, spontaner Sex.
 - Spontane, von mir initiierte Intimität mit Angeli ist derzeit aufgrund ihrer Schmerzen beim Sex nicht möglich (→ [Wir](../03-relationship/us.md)).
 - Ich liebe es, schöne Frauen zu betrachten und darüber zu reden — darauf verzichte ich, um Angeli zu gefallen (→ [Mentale Gesundheit](../02-health/mental.md), Regulationsstrategien).
-- Frauen, die mir sehr gut gefallen, sind oft raus, sobald sie hören, dass ich in einer offenen Beziehung lebe. Ich möchte keine Beziehung mit ihnen, aber vielleicht Sex — als Single käme ich eher dazu, sie würden sich eher mit mir treffen. Das ärgert mich, und ich fühle mich dadurch von Angeli bzw. der Beziehung aufgehalten (→ [Wir](../03-relationship/us.md), Weg-Pol in der Analyse vom 13.07.2026).
+- Frauen, die mir sehr gut gefallen, sind oft raus, sobald sie hören, dass ich in einer offenen Beziehung lebe. Ich möchte keine Beziehung mit ihnen, aber vielleicht Sex — als Single käme ich eher dazu, sie würden sich eher mit mir treffen. Das ärgert mich, und ich fühle mich dadurch von Angeli bzw. der Beziehung aufgehalten (→ [Wir: Analyse vom 13.07.2026](../03-relationship/log/2026-07-13-relationship-difficulties.md), Weg-Pol).
 
 ## Offene Fragen
 
@@ -74,13 +74,13 @@ Die Konstante in beiden ist **nicht** die Rolle, sondern die **ausgesprochene, h
 
 Das ist meine eigentliche sexuelle Bedingung. Analsex, BDSM, Dreier, verrückte Orte sind **Träger** dieses Gefühls, nicht das Ziel selbst.
 
-- *Deutung:* Das ist dasselbe Bedürfnis, das mein ganzes Beziehungsthema trägt — der Weg-Pol vom 13.07.2026 war „Freiheit und das **Ende der Mitverantwortung dafür, dass meine Bedürfnisse niemanden verletzen**" (→ [Wir](../03-relationship/us.md)). Mein sexueller Kern und mein Lebenskern sind dieselbe Sache.
+- *Deutung:* Das ist dasselbe Bedürfnis, das mein ganzes Beziehungsthema trägt — der Weg-Pol vom 13.07.2026 war „Freiheit und das **Ende der Mitverantwortung dafür, dass meine Bedürfnisse niemanden verletzen**" (→ [Wir: Analyse vom 13.07.2026](../03-relationship/log/2026-07-13-relationship-difficulties.md)). Mein sexueller Kern und mein Lebenskern sind dieselbe Sache.
 
 ### Der Wachposten im Bett
 
 Wenn ich führe, bin ich unsicher: Ich will niemandem wehtun oder etwas tun, das ihr nicht gefällt. Weil es öfter negative Reaktionen auf mein Tun gab, kann ich dann nicht genießen. Ich achte sehr auf die andere — und genau das verhindert, mich selbst zu spüren. Bei vertrauten Praktiken geht es noch; etwas Neues auszuprobieren fällt mir so sehr schwer.
 
-- *Deutung:* Aufmerksamkeit kann nicht gleichzeitig nach außen scannen und nach innen fühlen. Das ist kein Willensproblem. Es ist derselbe Wachposten wie im Alltag (→ Analyse vom 17.07.2026 in [Wir](../03-relationship/us.md), [Ängste](fears.md), [Glaubenssätze](beliefs.md)).
+- *Deutung:* Aufmerksamkeit kann nicht gleichzeitig nach außen scannen und nach innen fühlen. Das ist kein Willensproblem. Es ist derselbe Wachposten wie im Alltag (→ [Wir: Analyse vom 17.07.2026](../03-relationship/log/2026-07-17-trigger-cycle.md), [Ängste](fears.md), [Glaubenssätze](beliefs.md)).
 - „Benutzt werden" ist bei mir vermutlich **beides**: ein echter, eigenständiger Wunsch **und** der einzige Zustand, in dem ich von der Verantwortung befreit bin und mich fallen lassen kann.
 - **Körperlicher Beleg:** Normalerweise komme ich mit Kondom nicht. Beim letzten Mal mit Rebecca schon — in der führenden Position, aber mit unmissverständlichen Signalen von ihr (sie umschlang mich, drückte ihr Becken gegen mich, machte sich eng, stöhnte, forderte mehr). Nicht die Reibung war anders, sondern die Erlaubnis.
 
@@ -104,7 +104,7 @@ Drei Erfahrungen aus der Jugend, in denen sexuelles Interesse oder eigene sexuel
 Meine Sicherheit kommt bisher aus dem **Verhalten der Frau** — bei Rebecca vor allem aus der *Abwesenheit* negativer Reaktionen. Das hält nur, solange die andere sich richtig verhält; bei Angeli ist genau diese Sicherheit zusammengebrochen. Solange die Erlaubnis von außen kommen muss, bleibe ich in jeder Beziehung davon abhängig, wie die Frau reagiert.
 
 - Das ist der Punkt, an dem eigene Arbeit ansteht — auch für die Therapie (→ [Therapie](../02-health/therapy.md)).
-- *Nachtrag 31.07.2026:* Dieselbe Struktur zeigt sich außerhalb des Bettes. Was ich mir aus Angelis Begeisterung über meine Erlebnisse hole, ist die **Bestätigung meiner Identität** — so wie ich mir aus der lauten Lust einer Frau die Erlaubnis für meine eigene hole. Beide Male ist die Erlaubnis geliehen, beide Male kippt eine verhaltene Reaktion nicht in Enttäuschung, sondern in Ablehnung meiner Person (→ [Wir](../03-relationship/us.md), Analyse vom 31.07.2026).
+- *Nachtrag 31.07.2026:* Dieselbe Struktur zeigt sich außerhalb des Bettes. Was ich mir aus Angelis Begeisterung über meine Erlebnisse hole, ist die **Bestätigung meiner Identität** — so wie ich mir aus der lauten Lust einer Frau die Erlaubnis für meine eigene hole. Beide Male ist die Erlaubnis geliehen, beide Male kippt eine verhaltene Reaktion nicht in Enttäuschung, sondern in Ablehnung meiner Person (→ [Wir: Was ich brauche, wenn ich von einem Date erzähle, 31.07.2026](../03-relationship/log/2026-07-31-telling-about-dates.md)).
 
 ### Der praktische Hebel: sprechen, bevor es losgeht
 
@@ -131,7 +131,7 @@ Ich habe den Wunsch zwei Stunden vorher per Sprachnachricht ausgesprochen — mi
 
 Drei Befunde daraus:
 
-- **Die Regel „Stille = Gefahr" ist widerlegt.** Rebecca war leise, ich las darin „es gefällt ihr nicht, ich mache etwas falsch". Sie sagte mir, sie sei leise, *weil* sie genießt — und hatte dabei einen Orgasmus. Es ist dieselbe Fehldeutung wie bei Angeli (still + veränderte Körpersprache → „ich habe etwas falsch gemacht", → [Wir](../03-relationship/us.md), 17.07.2026). Mein Deutungsapparat hat eine feste Regel, und sie stimmt nachweislich nicht.
+- **Die Regel „Stille = Gefahr" ist widerlegt.** Rebecca war leise, ich las darin „es gefällt ihr nicht, ich mache etwas falsch". Sie sagte mir, sie sei leise, *weil* sie genießt — und hatte dabei einen Orgasmus. Es ist dieselbe Fehldeutung wie bei Angeli (still + veränderte Körpersprache → „ich habe etwas falsch gemacht", → [Wir: Der Trigger-Kreislauf, 17.07.2026](../03-relationship/log/2026-07-17-trigger-cycle.md)). Mein Deutungsapparat hat eine feste Regel, und sie stimmt nachweislich nicht.
 - **Aufgelöst hat es beide Male dasselbe: fragen.** Erst die Sprachnachricht, dann die Frage nach ihrer Stille. Raten hat nie etwas gelöst.
 - **Der Angeli-Transfer:** Meine Verunsicherung (wehtun, zu tief, Grenzen, Hygiene) kam aus Angelis früheren strengen Reaktionen — bei einer Frau, die so nie reagiert hat. Ich hatte teilweise nicht Rebecca im Bett, sondern Angelis Regeln im Kopf.
   - *Wichtige Nuance:* Beim Hygienepunkt hatte Angeli **sachlich recht** (anal → vaginal ist ein echtes Infektionsrisiko). Verletzt hat mich nicht die Regel, sondern die **Strenge** — der Fehler wurde bestraft statt korrigiert. Die Regel behalten, die Scham ablegen.

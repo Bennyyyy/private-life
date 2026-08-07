@@ -27,6 +27,6 @@ Fragen ohne fertige Antwort. Regelmäßig wieder anschauen — manche beantworte
 ## Neue Fragen (07.08.2026)
 
 - **Frage ich Phil direkt**, ob wir die Magic-Runde ohne [Bogo](../04-people/bogo.md) weiterführen? Ich mochte ihn sehr; von selbst traut er sich vermutlich nicht. Direkt fragen wäre dieselbe Bewegung wie bei [Oli](../04-people/oli.md): mir aktiv holen, was ich will.
-- **Zwischenstand zur Ärger-Frage** (vom 06.08.): In den Jahren 2015–2019 mit Angeli habe ich Ärger meist geschluckt und in Anspannung umgewandelt — ich wollte alles richtig machen und sie „mit Liebe in die Sicherheit bringen". Mein Vorsatz heute: den Ärger zeigen, auch über Muster, die sie auf mich projiziert (→ [Wir](../03-relationship/us.md), 07.08.2026). Prüfstein: passiert das auch wirklich, wenn es das nächste Mal wehtut?
+- **Zwischenstand zur Ärger-Frage** (vom 06.08.): In den Jahren 2015–2019 mit Angeli habe ich Ärger meist geschluckt und in Anspannung umgewandelt — ich wollte alles richtig machen und sie „mit Liebe in die Sicherheit bringen". Mein Vorsatz heute: den Ärger zeigen, auch über Muster, die sie auf mich projiziert (→ [Wir: Die Jahre vor der Krise, 07.08.2026](../03-relationship/log/2026-08-07-years-before-crisis.md)). Prüfstein: passiert das auch wirklich, wenn es das nächste Mal wehtut?
 
 Fragen zu Sexualität → [Sexualität](sexuality.md)
