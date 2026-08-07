@@ -10,8 +10,6 @@ Was mir wichtig ist. Welche Prinzipien ich ernst nehmen möchte. Wo ich nicht me
 
 ## Meine Werte
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 - Meine Freiheit endet dort, wo ich andere beschneide.
 - Stetige Weiterentwicklung.
 - Alle Menschen sind gleich.

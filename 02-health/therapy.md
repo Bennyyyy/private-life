@@ -2,8 +2,6 @@
 
 Erkenntnisse und Themen aus der Arbeit mit meiner Psychologin.
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 ## Kindheit / Gespräch mit den Eltern
 
 - ~~Ich war nie aggressiv.~~ → **präzisiert am 06.08.2026** (meine eigene Einordnung, nachdem die Mordgedanken an [Patriz](../04-people/patriz.md) wieder aufgetaucht sind → [Lebensgeschichte](../01-personality/life-story.md)):

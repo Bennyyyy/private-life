@@ -18,8 +18,6 @@ Identität, Persönlichkeit, Interessen, Ängste und Dinge, die mich geprägt ha
 
 ## Charakterzüge
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 - Sensation Seeker
 - Bequemlichkeit?
 - Perfektionsdruck

@@ -96,8 +96,6 @@ Was ich mir stattdessen wünsche:
 
 ## Momentaufnahme (Stand Juli 2026)
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 Was mich gerade belastet:
 
 - Angelis Geschichten sind manchmal uninteressant für mich und stressen mich.

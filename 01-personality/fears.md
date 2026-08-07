@@ -1,7 +1,5 @@
 # Ängste
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 ## Verpassen und Optionen
 
 - Ich möchte nichts verpassen.

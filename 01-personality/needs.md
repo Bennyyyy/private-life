@@ -1,7 +1,5 @@
 # Bedürfnisse
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 ## Freiheit und Kontrolle
 
 - Freiheit / Unabhängigkeit

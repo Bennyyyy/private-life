@@ -2,8 +2,6 @@
 
 Bündelt alles zu diesem Thema, weil es sich durch viele Bereiche zieht: Wünsche, offene Fragen, das Thema offene Beziehung und was mir gerade fehlt.
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 ## Wünsche
 
 Ich möchte viele sexuelle Erfahrungen machen:

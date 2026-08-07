@@ -2,8 +2,6 @@
 
 Was mir Freude macht — festhalten, damit ich nicht nur sehe, was fehlt.
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 ## Schaffen und Lernen
 
 - Spiel programmieren

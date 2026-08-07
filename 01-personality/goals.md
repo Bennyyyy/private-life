@@ -4,8 +4,6 @@ Kurzfristige und langfristige Ziele. Nicht nur beruflich, sondern auch persönli
 
 > Das größere Bild, wohin diese Ziele führen sollen: [Vision meines Wunschlebens](vision.md).
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 ## Langfristig
 
 - Eigenes Gamestudio

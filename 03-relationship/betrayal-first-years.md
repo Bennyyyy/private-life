@@ -2,8 +2,6 @@
 
 Aufarbeitung dessen, was in der Anfangszeit (ab 2013) passiert ist.
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026.
-
 ## Taten
 
 - Sex-Video mit David

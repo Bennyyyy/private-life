@@ -1,7 +1,5 @@
 # Glaubenssätze
 
-> Quelle: Mindmap „Ich" (MindMeister), übertragen am 10.07.2026. Einzelne Einträge können älter sein.
-
 ## Belastende Glaubenssätze
 
 - Wenn ich alleine bin, kann ich niemanden verletzen oder enttäuschen.
