@@ -35,4 +35,6 @@ Nicht schlimmer, aber auch nicht schöner als es ist.
 
 ## Schwächen
 
+Meine wiederkehrenden Schwächen sind de facto in [Muster](patterns.md) dokumentiert — dort mit Auslösern und Alternativen. Hier gehört nur hin, was darüber hinausgeht.
+
 <!-- Was kostet mich dauerhaft Energie? Was vermeide ich immer wieder? -->

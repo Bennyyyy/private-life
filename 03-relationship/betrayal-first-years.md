@@ -52,8 +52,6 @@ Diese Punkte dokumentieren vor allem, was ich damals gebraucht oder mir gewünsc
 - Ich habe das Gefühl, etwas von Angelis wilder Art verloren zu haben. Gleichzeitig mit der Verletzung fand ich diese Seite an ihr auch ziemlich cool.
 - Ich nutze die Vergangenheit innerlich teilweise als Rechtfertigung dafür, heute selbst sexuelle Erfahrungen mit anderen Frauen zu machen und stärker nach meinen Bedürfnissen zu handeln. Dazu gehört für mich auch die Freiheit, Fehler machen und manchmal egoistisch sein zu dürfen.
 - Diese innere Rechtfertigung bedeutet nicht automatisch, dass jede Freiheit mit Angeli vereinbart ist.
-- Wir führen grundsätzlich eine offene Beziehung. Angeli ist damit einverstanden, dass ich Sex mit anderen Frauen habe, und sie hat Sex mit anderen Männern.
-- Bei mir kommt Sex mit anderen Frauen häufiger vor. Angeli ist auch vor dem Hintergrund unserer unterschiedlichen bisherigen Erfahrungen und ihrer damaligen Handlungen damit einverstanden.
-- Welche weiteren Freiheiten konkret gemeinsam vereinbart sind, möchte ich später klären.
+- Der heutige Stand unserer offenen Beziehung (was vereinbart ist, was noch offen ist) steht kanonisch in [Sexualität](../01-personality/sexuality.md), Abschnitt „Offene Beziehung". Angelis damalige Handlungen sind einer der Hintergründe, vor denen sie mit meiner häufigeren Praxis einverstanden ist.
 
 Siehe auch: [Wir](us.md), [Therapie](../02-health/therapy.md)
