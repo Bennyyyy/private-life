@@ -7,7 +7,7 @@ Studienfreund („Jay"), einer der zwei Freunde aus der Studienzeit, die geblieb
 ## Unsere Geschichte
 
 - Wir haben beide Informatik an der HTWG studiert und kennen uns seither.
-- Wir haben beide bei Formigas gearbeitet und waren dort beide Gesellschafter. Ausgestiegen sind wir gemeinsam — d. h. wir haben unsere Anteile zusammen verkauft; aufgehört dort zu arbeiten haben wir zu unterschiedlichen Zeiten. **Der Verkauf war eine große Sache und macht mich seither finanziell deutlich freier** (→ [Arbeit](../07-work/overview.md)).
+- Wir haben beide bei Formigas gearbeitet und waren dort beide Gesellschafter. Ausgestiegen sind wir gemeinsam — d. h. wir haben unsere Anteile zusammen verkauft; aufgehört dort zu arbeiten haben wir zu unterschiedlichen Zeiten. **Der Verkauf war eine große Sache und macht mich seither finanziell deutlich freier** (→ [Arbeit](../06-work/overview.md)).
 
 ## Heute
 

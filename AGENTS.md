@@ -2,7 +2,7 @@
 
 ## Projektstruktur und Inhalte
 
-Dieses Repository ist kein Softwareprojekt, sondern ein privates, deutschsprachiges Personal Wiki. `index.md` ist der Einstiegspunkt; neue, noch unsortierte Notizen und Dateien gehören zunächst in `00-inbox/`. Thematische Inhalte liegen in den nummerierten Root-Ordnern `01-personality/` bis `06-documents/`; Ziele werden in `01-personality/goals.md` gepflegt. Lies vor Änderungen an einem Bereich dessen `about.md`, sofern vorhanden. Überholte Inhalte werden nach `99-archive/` verschoben, nicht vorschnell gelöscht.
+Dieses Repository ist kein Softwareprojekt, sondern ein privates, deutschsprachiges Personal Wiki. `index.md` ist der Einstiegspunkt; neue, noch unsortierte Notizen und Dateien gehören zunächst in `00-inbox/`. Thematische Inhalte liegen in den nummerierten Root-Ordnern `01-personality/` bis `06-work/`; Ziele werden in `01-personality/goals.md` gepflegt. Dokumente (Scans, PDFs, Befunde) liegen als `assets/`-Unterordner direkt im jeweiligen Bereich (z. B. `02-health/assets/`); wächst eine Datei zu stark, wandern datierte Analysen in einen `log/`-Unterordner (Vorbild: `03-relationship/log/`). Lies vor Änderungen an einem Bereich dessen `about.md`, sofern vorhanden. Überholte Inhalte werden nach `99-archive/` verschoben, nicht vorschnell gelöscht.
 
 ## Lokale Prüfung
 
@@ -31,4 +31,4 @@ Die jüngere Historie verwendet kurze, imperative Betreffzeilen, häufig mit deu
 
 ## Datenschutz
 
-Behandle sämtliche Inhalte als vertraulich. Veröffentliche oder übertrage keine persönlichen, medizinischen oder dokumentbezogenen Daten an externe Dienste. Gib sensible Inhalte weder in Logs noch in Commit-Nachrichten oder Beispielen wieder. Bearbeite Dateien unter `02-health/` und `06-documents/` nur bei ausdrücklichem Auftrag.
+Behandle sämtliche Inhalte als vertraulich. Veröffentliche oder übertrage keine persönlichen, medizinischen oder dokumentbezogenen Daten an externe Dienste. Gib sensible Inhalte weder in Logs noch in Commit-Nachrichten oder Beispielen wieder. Bearbeite Dateien unter `02-health/` und in `assets/`-Ordnern nur bei ausdrücklichem Auftrag.

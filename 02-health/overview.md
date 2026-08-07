@@ -2,7 +2,7 @@
 
 Körperliche und mentale Gesundheit. Dieser Bereich ist bewusst frei — er kann alles aufnehmen: aktuelle Themen, Arztbesuche, Befunde, Gewohnheiten, Schlaf, Ernährung, Psyche.
 
-Wenn ein Thema wächst, bekommt es eine eigene Datei in diesem Ordner (z.B. `sleep.md`, `mental.md`). Befunde und Dokumente liegen unter [06-documents/](../06-documents/).
+Wenn ein Thema wächst, bekommt es eine eigene Datei in diesem Ordner (z.B. `sleep.md`, `mental.md`). Befunde und Dokumente (PDFs, Scans) liegen im Unterordner `assets/` direkt hier im Bereich.
 
 ## Themen
 

@@ -20,14 +20,16 @@ index.md          entry point, links all areas
 00-inbox/         unsorted notes and files — captured first, processed later
 01-personality/   who-i-am, values, goals, strengths-weaknesses, patterns
 02-health/        free-form health area, starts with overview.md
-03-relationship/  the user's partner Angeli (angeli.md, us.md)
+03-relationship/  the user's partner Angeli (angeli.md; us.md = durable state,
+                  log/ = one file per dated analysis/event)
 04-people/        other people, one file per person (see 04-people/about.md)
 05-decisions/     one file per decision, template in 05-decisions/about.md
-06-documents/     real files (PDFs, scans) in topic subfolders (see 06-documents/about.md)
-07-work/          work life overview only — details live in the separate career wiki
+06-work/          work life overview only — details live in the separate career wiki
                   (/workspaces/work/career/) and worklog (/workspaces/work/worklog/)
 99-archive/       outdated content — move here instead of deleting (created on demand)
 ```
+
+Documents (scans, PDFs, medical results) live in an `assets/` subfolder directly inside the area they belong to (e.g. `02-health/assets/`) — there is no central documents folder. When a file grows too large, split it: durable state stays in the main file, dated analyses/events become individual files in a `log/` subfolder (see `03-relationship/log/`, files named `YYYY-MM-DD-topic.md`).
 
 Workflow: new notes, PDFs, and other unclassified files go into `00-inbox/` first; processing means moving them into the right area, turning them into a decision file, or deleting them. The inbox should shrink, not grow. Its note is `00-inbox/inbox.md`. Each `about.md` documents its folder's conventions — read it before adding files there. Root content folders use two-digit numeric prefixes for stable ordering in file browsers and Obsidian.
 

@@ -48,13 +48,14 @@ Datei- und Ordnernamen sind englisch, kleingeschrieben, mit Bindestrich. Root-Or
 ├── 00-inbox/         unsortierte Notizen und Dateien zur späteren Verarbeitung
 ├── 01-personality/   wer ich bin, Werte, Ziele, Stärken/Schwächen, Muster
 ├── 02-health/        Gesundheit, körperlich und mental
-├── 03-relationship/  meine Beziehung zu Angeli
+├── 03-relationship/  meine Beziehung zu Angeli (us.md als Stand, log/ als Chronik)
 ├── 04-people/        andere Personen, eine Datei pro Person
 ├── 05-decisions/     eine Datei pro Entscheidung, mit Vorlage
-├── 06-documents/     wichtige Unterlagen, thematisch in Unterordnern
-├── 07-work/          Berufliches im Überblick; Details im separaten Career-Wiki und Worklog
+├── 06-work/          Berufliches im Überblick; Details im separaten Career-Wiki und Worklog
 └── 99-archive/       Überholtes (entsteht bei Bedarf)
 ```
+
+Dokumente (Scans, PDFs, Befunde) liegen als `assets/`-Unterordner direkt im jeweiligen Bereich, z. B. `02-health/assets/`. Wächst eine Datei zu stark, wird sie aufgeteilt: Der dauerhafte Stand bleibt in der Hauptdatei, datierte Analysen und Ereignisse wandern als einzelne Dateien in einen `log/`-Unterordner (Vorbild: `03-relationship/log/`).
 
 ## Wichtige Bereiche
 

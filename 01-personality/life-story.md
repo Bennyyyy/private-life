@@ -145,7 +145,7 @@ Konstanz habe ich mit Melli entdeckt — wir fuhren herum und schauten Hochschul
 
 Es war wunderbar: endlich Stadt, endlich weltoffene Menschen, endlich **von niemandem kontrolliert** — nicht mehr von meiner Mutter. Machen können, was ich wollte. Ich habe mich frei und zuhause gefühlt. Nach 1–2 Semestern zog ich aus einer kleinen WG ins Studentenwohnheim: 28 Leute auf einem Stock, viele Partys, viele lustige Momente.
 
-Informatik war mein Element — ich bin mit dem PC aufgewachsen, konnte schon programmieren, habe das Wissen aufgesaugt. Auch hier eher der Streber, oder zumindest der, der nichts lernen muss und alles kann. (Werdegang im Detail: [Arbeit](../07-work/overview.md).)
+Informatik war mein Element — ich bin mit dem PC aufgewachsen, konnte schon programmieren, habe das Wissen aufgesaugt. Auch hier eher der Streber, oder zumindest der, der nichts lernen muss und alles kann. (Werdegang im Detail: [Arbeit](../06-work/overview.md).)
 
 *Deutung:* Der Kontrast Böhmenkirch → Konstanz erklärt, warum Freiheitsentzug mich heute so tief trifft: Ich weiß genau, wie sich der Unterschied anfühlt.
 
@@ -177,7 +177,7 @@ Aber viele der heutigen Themen gab es damals schon: Wir haben Themen gemieden un
 
 ## Das Krisenjahr 2020
 
-**Das schlimmste Jahr meines Lebens.** Drei Dinge gleichzeitig: Angelis Brustkrebs-Diagnose, Corona, und die Job-Situation (ich nahm die Festanstellung bei Next Lotto u. a. an, um Last abzugeben, → [Arbeit](../07-work/overview.md)).
+**Das schlimmste Jahr meines Lebens.** Drei Dinge gleichzeitig: Angelis Brustkrebs-Diagnose, Corona, und die Job-Situation (ich nahm die Festanstellung bei Next Lotto u. a. an, um Last abzugeben, → [Arbeit](../06-work/overview.md)).
 
 - Ich war überfordert und empfand es als zutiefst ungerecht, dass uns so etwas passiert.
 - Ich stellte meine Bedürfnisse hinten an, um für Angeli da zu sein. Zum Überbrücken konsumierte ich viel Cannabis (→ [Cannabis](../02-health/cannabis.md)).
