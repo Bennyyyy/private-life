@@ -109,6 +109,22 @@ Ich war betrunken auf einem Dorffest (Filmriss). Man brachte mich mit dem Auto z
 
 Am selben Tag, an dem diese Nachträge entstanden sind, habe ich Angeli die ganze Geschichte erzählen lassen (Claude hat es für mich getan, sie saß daneben). Vorher wusste sie nur, dass es Patriz gab und dass er mich schlecht behandelt hat — jetzt weiß sie alles, was hier steht, inklusive der Mordgedanken. **Sie war entsetzt.** Damit ist zum ersten Mal ein Mensch in meinem Leben vollständig im Bild (Details und offene Fäden → [Wir](../03-relationship/us.md), „Angeli weiß jetzt von den Mobbing-Jahren").
 
+> Nachtrag 07.08.2026: Zwei weitere Erinnerungen. Sie sind in der Erzählung vom 06.08. noch nicht enthalten.
+
+### Gefesselt und schwarz gefärbt (das „Geburtstagsgeschenk")
+
+An einem Abend fesselten mich Patriz und andere aus der Klique und färbten oder tönten mir die Haare schwarz — als eine Art „Geburtstagsgeschenk". Ich wollte das natürlich nicht; genau deshalb wurde ich gefesselt. Alle Beteiligten fanden es lustig.
+
+*Deutung:* Das Fesseln macht den Charakter der Sache eindeutig: Es brauchte Gewalt, weil klar war, dass ich nicht einverstanden bin. Ein „Geschenk", das dem Beschenkten mit Gewalt angetan wird, ist keins — es ist ein Übergriff auf den Körper, verpackt als Spaß. Und anders als eine einzelne Party-Aktion war das Ergebnis nicht nach einem Abend vorbei: Die Markierung war danach für alle sichtbar.
+
+### Das Anpinkeln (erste sexuelle Versuche in der Klique)
+
+An einem anderen Abend ging es um sexuelle Dinge. Wie es genau dazu kam, weiß ich nicht mehr — ich glaube, wir wollten in einer kleinen Gruppe von Jungs gegenseitig erste sexuelle Dinge ausprobieren, und ich sollte anfangen. Am Ende kniete ich am Boden und sollte Patriz' Schwanz in den Mund nehmen. Bis dahin war das nicht gegen meinen Willen. Patriz nutzte genau diesen Moment, um mich anzupinkeln und dabei laut zu lachen — natürlich anders als ausgemacht, und natürlich vor den anderen. An den Rahmen erinnere ich mich nur noch grob; an das Anpinkeln und sein lautes Lachen erinnere ich mich stark.
+
+Aus heutiger Sicht fühle ich mich schlecht, dass ich mich überhaupt zu so einem Moment habe hinreißen lassen. Ich weiß nicht, wie das passieren konnte.
+
+*Deutung:* Gegenseitiges sexuelles Ausprobieren unter Jugendlichen ist normal — nichts daran war falsch oder beschämend. Falsch war, was Patriz daraus gemacht hat: Er hat eine abgesprochene, maximal verletzliche Situation in eine öffentliche Demütigung verwandelt. Die Scham von heute („dass ich mich darauf eingelassen habe") sitzt an der falschen Stelle — sie gehört zur Tat, nicht zur Teilnahme. Dass die Erinnerung an den Rahmen verblasst ist und die an die Demütigung glasklar, passt dazu: Gespeichert wurde die Strafe, nicht das Einverständnis. Nach Waldparty und Zelt-Falle ist das der dritte Vorfall mit demselben Bauplan — der Moment, in dem ich mich öffne und vertraue, wird zur Waffe. Diesmal nicht über das Interesse eines Mädchens, sondern mitten in einer der ersten sexuellen Erfahrungen überhaupt (→ [Sexualität](sexuality.md), „Wachposten").
+
 ## Berufskolleg Heidenheim: Neuerfindung (2002 – 2004)
 
 Mit 16 raus aus dem Dorf-Kosmos ans Berufskolleg — und alles änderte sich. Ich habe mich bewusst neu erfunden: Die Menschen waren netter, die Noten wurden besser (nur noch 2er und 3er statt 3er und 4er), ich war plötzlich „der Streber".

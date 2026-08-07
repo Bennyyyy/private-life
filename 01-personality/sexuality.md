@@ -91,12 +91,13 @@ Wenn ich führe, bin ich unsicher: Ich will niemandem wehtun oder etwas tun, das
 
 ### Mögliche Herkunft des Wachpostens (Hypothese, 06.08.2026)
 
-Zwei Erfahrungen aus der Jugend, in denen sexuelles Interesse an mir sich als Angriffsfläche herausstellte (ausführlich → [Lebensgeschichte](life-story.md)):
+Drei Erfahrungen aus der Jugend, in denen sexuelles Interesse oder eigene sexuelle Offenheit sich als Angriffsfläche herausstellte (ausführlich → [Lebensgeschichte](life-story.md); die dritte ergänzt am 07.08.2026):
 
 1. **Waldparty (ca. 14–16):** Zum ersten Mal interessierte sich ein Mädchen für mich, wir berührten uns — es war wunderschön. Danach erzählten [Patriz](../04-people/patriz.md) und die anderen ihr, was für ein schlimmer Mensch ich sei. Sie sprach nie wieder mit mir.
 2. **Zelt-Falle (mit 15/16):** Nadine kam betrunken zu mir ins Zelt und schlug ein Auszieh-Spiel vor. Ich fand es zuerst nett, dass sich jemand für mich interessiert. Als ich fast nackt war, stand die ganze Klique um das Zelt herum und lachte — geplant von Anfang an.
+3. **Das Anpinkeln:** Bei einem gegenseitigen ersten sexuellen Ausprobieren unter Jungs der Klique — bis dahin nicht gegen meinen Willen — nutzte Patriz den Moment, in dem ich vor ihm kniete, um mich vor den anderen anzupinkeln und laut zu lachen.
 
-*Deutung, ausdrücklich als Hypothese und nicht als Erklärung:* Beide Male war das Interesse selbst der Köder, und beide Male kam die Strafe **nach** dem Moment, in dem ich mich gefreut habe. Das könnte eine Mitursache dafür sein, dass ich im Bett die Reaktion der anderen dauernd scanne, statt mich zu spüren — und dass ich Sicherheit nur aus **eindeutigen, lauten** Signalen ziehen kann: Ambivalenz und Stille sind genau der Zustand, in dem ich damals nicht gemerkt habe, was gespielt wird. Zu prüfen, nicht zu glauben (→ [Offene Fragen](open-questions.md)).
+*Deutung, ausdrücklich als Hypothese und nicht als Erklärung:* Beide Male war das Interesse selbst der Köder, und beide Male kam die Strafe **nach** dem Moment, in dem ich mich gefreut habe. Das könnte eine Mitursache dafür sein, dass ich im Bett die Reaktion der anderen dauernd scanne, statt mich zu spüren — und dass ich Sicherheit nur aus **eindeutigen, lauten** Signalen ziehen kann: Ambivalenz und Stille sind genau der Zustand, in dem ich damals nicht gemerkt habe, was gespielt wird. Zu prüfen, nicht zu glauben (→ [Offene Fragen](open-questions.md)). *Ergänzung 07.08.2026:* Das Anpinkeln folgt demselben Bauplan mit einer Verschärfung: Hier war nicht das Interesse eines Mädchens der Köder, sondern meine eigene sexuelle Offenheit — die Strafe kam genau in dem Moment, in dem ich mich am weitesten eingelassen hatte.
 
 ### Die geliehene Sicherheit (unbequemer Befund)
 

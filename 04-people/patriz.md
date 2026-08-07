@@ -12,6 +12,8 @@ Mein Großcousin — und der Haupttäter der Mobbing-Jahre in Böhmenkirch (ca. 
 - Er galt schon früher als schlechter Umgang — der Kontakt zu ihm war ein Grund, warum Felix' Eltern unsere Freundschaft verboten.
 - Trieb den **Running Gag**, dass man mich irgendwann versehentlich umbringen werde: Er lachte darüber besonders. Hintergrund waren die ständigen Übergriffe, die oft schlimmer ausfielen als geplant (→ [Lebensgeschichte](../01-personality/life-story.md), „Irgendwann bringen wir dich noch um").
 - Bei der **Zelt-Falle** mit 15/16 war er *vermutlich* dabei (unsicher — ich weiß es nicht mehr genau).
+- **Gefesselt und schwarz gefärbt (Nachtrag 07.08.2026):** An einem Abend fesselten er und andere aus der Klique mich und färbten/tönten mir die Haare schwarz — als „Geburtstagsgeschenk". Gefesselt wurde ich, weil ich es nicht wollte; alle Beteiligten fanden es lustig (→ [Lebensgeschichte](../01-personality/life-story.md)).
+- **Das Anpinkeln (Nachtrag 07.08.2026):** Bei einem gegenseitigen ersten sexuellen Ausprobieren in einer kleinen Gruppe von Jungs — bis dahin nicht gegen meinen Willen — sollte ich anfangen und seinen Schwanz in den Mund nehmen. Er nutzte den Moment, um mich anders als ausgemacht vor den anderen anzupinkeln und laut zu lachen (→ [Lebensgeschichte](../01-personality/life-story.md), [Sexualität](../01-personality/sexuality.md)).
 
 ## Das Ende
 
