@@ -20,7 +20,7 @@ Hier steht nur, was ich für das Gesamtbild meines Lebens brauche: wer ich beruf
 
 - **2004–2012** — Informatik an der HTWG Konstanz: Diplom (2,1), dann Master (1,6, Masterarbeit *3D-Gestenerkennung*, dazu 2012 eine Veröffentlichung auf der Konferenz Mensch & Computer). Nebenbei Tutor, Praxissemester, Jobs u. a. an HTWG und Spielbank.
 - **2012** — Elektrobit Automotive, Konstanz (Embedded, ein halbes Jahr).
-- **2013–2018** — Formigas GmbH, Konstanz: hauptverantwortlicher Android-Entwickler und Softwarearchitekt (Clever Lotto, LottoKit, p2d mobile, Elesta Mobile u. a.).
+- **2013–2018** — Formigas GmbH, Konstanz: hauptverantwortlicher Android-Entwickler und Softwarearchitekt (Clever Lotto, LottoKit, p2d mobile, Elesta Mobile u. a.). Ich war dort auch **Gesellschafter**, gemeinsam mit [Jakob](../04-people/jakob.md); wir haben unsere Anteile später zusammen verkauft. **Der Verkauf war eine große Sache und macht mich seither finanziell deutlich freier.**
 - **2018–2020** — Freiberuflich mit Schwerpunkt Spieleentwicklung: eigenes Spiel **Hungry Chicks** (Unity; zeitweise über 1.000 Nutzer, erster Umsatz, eigenes Team).
 - **2020–2021** — Next Lotto GmbH: Software Engineer / Technical Lead Android (Festanstellung, angenommen u. a. um in der Krisenzeit Last abzugeben, → [Cannabis](../02-health/cannabis.md)).
 - **seit 2022** — wieder selbständig als IT-Beratung. Nebenher 2019–2020 Teilzeit an der HTWG (BiLeSA), Lehre/Vorlesung und Betreuung von Abschlussarbeiten.

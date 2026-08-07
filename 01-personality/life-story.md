@@ -15,6 +15,7 @@ Chronik meines Lebens: Orte, Familie, Wendepunkte. Die Analysen zu einzelnen The
 | ca. 2005/06–2013 | Beziehung mit [Agi](../04-people/agi.md) |
 | 2013 | Trennung, Joyclub, erstes Date mit Angeli (12.07.2013) |
 | ca. 2015 | Offiziell zusammen mit Angeli |
+| 2015–2019 | Die schönen Jahre mit Angeli — und der Riss darunter |
 | 2020 | Das Krisenjahr: Angelis Brustkrebs, Corona, Festanstellung |
 | 2021–heute | Erholung, wieder selbständig, heute vor dem Umzug in die Schweiz |
 
@@ -25,6 +26,8 @@ Geboren am 20.03.1986 in Heidenheim an der Brenz, aufgewachsen auf dem Land. Die
 Die Familie: [Mutter](../04-people/mother.md) (früher Finanzamt, dann meist Hausfrau, hat mich hauptsächlich großgezogen, kochte gerne gesund — viel Bio und Selbstangebautes), [Vater](../04-people/father.md) (Informatiker, meist Alleinverdiener, viel arbeiten), dazu drei Geschwister: [Christian](../04-people/christian.md) (4 Jahre älter), [Melissa](../04-people/melissa.md) (3 Jahre älter, schwer behindert) und [Jasmin](../04-people/jasmin.md) (4 Jahre jünger).
 
 Die Familie fühlte sich sehr harmonisch an. Meine Eltern waren liebevoll und lebten mir eine glückliche Beziehung vor — sie sind bis heute glücklich zusammen. Aber: Es ging nie besonders emotional zu. Wir haben viel gelacht, doch über Probleme wurde nie viel geredet — und wenn, dann sachlich und leicht liebevoll. Meine Eltern legten großen Wert auf Bildung und gute Erziehung und waren darin auch streng.
+
+Großeltern spielten kaum eine Rolle: Wirklich kennengelernt habe ich nur die Oma mütterlicherseits, die später ebenfalls in Böhmenkirch lebte — ein Verhältnis zueinander hatten wir kaum. Den Opa väterlicherseits kannte ich nur ein klein wenig. Heute lebt keiner meiner Großeltern mehr.
 
 **Melissa** ist körperlich und geistig schwer behindert (ein Arm nur halb ausgebildet, versteht Sprache nicht, kann nicht sprechen). Sie kam früh ins Heim; meine Eltern hielten das Thema von uns Kindern fern. Erst später erfuhr ich, dass meine Mutter sehr darunter gelitten und sich Vorwürfe gemacht hat. *Deutung:* Das größte Problem der Familie wurde still getragen und weggeräumt — ein früher Baustein des Familienmusters, Schweres nicht offen auf den Tisch zu legen.
 
@@ -162,6 +165,16 @@ Nach der Trennung ging es mir erst einmal sehr schlecht; wir wohnten noch eine W
 
 Die Beziehung war **von Anfang an offen** — ich wusste mein Leben lang, dass ich der Typ für eine offene Beziehung bin, und Angeli kannte das aus ihrer letzten Beziehung. 1,5 Jahre waren wir inoffiziell zusammen (fast täglich gesehen), ab ca. Anfang 2015 offiziell. Details und die Verletzungen aus dieser Zeit: [Wir](../03-relationship/us.md), [Anfangszeit](../03-relationship/betrayal-first-years.md).
 
+## Die schönen Jahre mit Angeli — und der Riss darunter (2015 – 2019)
+
+> Quelle: Interview-Fortsetzung am 07.08.2026.
+
+Die Jahre vor der Krise waren sehr schön: Wir haben uns sexuell sehr ausgelebt, Urlaube gemacht, viel gefeiert, oft extrem gelebt — besonders die ersten Jahre ab 2013 haben mir sehr gefallen. Was uns verband: Sex, Weltoffenheit, Partys, Essen und Hedonismus, Freiheit und Grenzenlosigkeit, dazu kreative und alternative Lebensweisen und Problemlösungen.
+
+Wir lebten getrennt, beide in Konstanz (Angeli zwischendurch eine Zeit in Stuttgart) — und leben bis heute getrennt, inzwischen in derselben Straße. **Das Zusammenziehen in der Schweiz wird unser erstes gemeinsames Wohnen überhaupt** (→ [Entscheidung](../05-decisions/move-to-switzerland.md)).
+
+Aber viele der heutigen Themen gab es damals schon: Wir haben Themen gemieden und waren nicht authentisch zueinander — spiegelbildlich. Sie versteckte ihre Probleme, um mir zu gefallen; ich schluckte meinen Ärger, um sie zu schonen. Ausführlich → [Wir](../03-relationship/us.md), „Die Jahre vor der Krise: gegenseitige Schonung (07.08.2026)".
+
 ## Das Krisenjahr 2020
 
 **Das schlimmste Jahr meines Lebens.** Drei Dinge gleichzeitig: Angelis Brustkrebs-Diagnose, Corona, und die Job-Situation (ich nahm die Festanstellung bei Next Lotto u. a. an, um Last abzugeben, → [Arbeit](../07-work/overview.md)).
@@ -186,5 +199,37 @@ Geblieben ist eine Schwere:
 - **Meine Angst, einen Teil von Angeli in dieser Zeit verloren zu haben — und dass sie seither nicht mehr so sehr zu mir passt.** (Das ist die offene Gabelung aus → [Wir](../03-relationship/us.md), Analyse 13.07.2026: Angst-Kreislauf vs. bleibende Veränderung.)
 
 Heute (2026): Umzug in die Schweiz und Zusammenziehen mit Angeli in Umsetzung (→ [Entscheidung](../05-decisions/move-to-switzerland.md)), Mandate laufen Ende August aus, intensive Arbeit an mir und an der Beziehung — dokumentiert in diesem Wiki.
+
+## Freundschaften durch die Jahre
+
+> Quelle: Interview-Fortsetzung am 07.08.2026.
+
+Aus Kindheit und Dorfzeit habe ich keine wirklichen Kontakte mehr. Auch zu [Melli](../04-people/melli.md) und Johannes besteht kein Kontakt: Die Freundschaft mit Melli beendete ich ca. 2006 (drittes Semester) wegen Agi — der Bruch tut mir bis heute leid, ich fühle mich schuldig dafür. Nach der Trennung 2013 traf ich sie noch einmal in Konstanz, mehr entstand nicht.
+
+Im Studium hatte ich viele Freunde, die aber immer mal wechselten. Geblieben sind bis heute:
+
+- **[Jakob](../04-people/jakob.md)** („Jay") — Informatik-Studienfreund, später beide Gesellschafter bei Formigas, gemeinsamer Anteilsverkauf. Heute wenig Kontakt.
+- **[Christoph](../04-people/christoph.md)** — aus Casino und Studentenwohnheim; über die Jahre immer enger geworden. Wir können gut miteinander reden, obwohl wir sehr unterschiedlich sind.
+
+Später dazugekommen:
+
+- **[Oli](../04-people/oli.md)** — vor einigen Jahren über Bumble **bewusst gesucht**, weil ich eine wirklich tiefe Freundschaft wollte. Heute mein Krisenkontakt; Mittagessen, Gespräche über unsere Beziehungen, ca. 2× pro Woche gemeinsam CrossFit.
+- **[Daniel](../04-people/daniel.md)** — mein Nerd-Freund (Magic, DnD). Zum Nerd-Kreis gehörten auch Phil, Simon und [Bogo](../04-people/bogo.md); seit dem Bruch mit Bogo (2026) ruht die Runde, Phil orientiert sich an Bogo.
+- **[Klaus](../04-people/klaus.md)** — Bürokollege, einer meiner neuesten und jüngsten Freunde (ca. 30); IT- und KI-Austausch, inzwischen auch privat in der Gruppe.
+
+Dazu viele Freunde über Angeli (oft Pärchen) und Kontakte, die ich nicht aktiv pflege, die aber theoretisch noch da sind.
+
+*Deutung:* Die bewusste Suche nach Oli widerlegt den alten Verdacht aus der Berufskolleg-Zeit („vielleicht war ich unfähig, Freundschaften zu pflegen"). Ich kann Freundschaften nicht nur pflegen, sondern gezielt aufbauen — wenn ich weiß, was ich will.
+
+## Sport und Körper durch die Jahre
+
+> Kurzfassung vom 07.08.2026 — Ausarbeitung folgt.
+
+- **Ende Berufskolleg:** Diäten und starkes Abnehmen, Joggen im Wald, Training zuhause im Zimmer und im Keller (einfacher Heimtrainer).
+- **Konstanz:** erst der „Kraftraum" an der Uni, später richtige Fitnessstudios — bis heute.
+- **CrossFit** seit kurz vor Corona; mache ich sehr gerne, heute ca. 2× pro Woche mit Oli.
+- Mehrmals im Leben stark ab- und wieder zugenommen; mehrmals viele Muskeln aufgebaut und (zum Teil) wieder verloren.
+- **Vereine:** als Kind Torwart im Fußballverein, in Konstanz eine Zeit Rugby. Als Teenager in Böhmenkirch Segelfliegen.
+- Wassersport und Ausprobieren: Windsurfschein (fast nie genutzt), Foiling (18.07.2026, → [Freuden](joys.md)). **Ich habe eine Leidenschaft für alles, was mit Luft und Wasser zu tun hat.**
 
 Siehe auch: [Wer ich bin](who-i-am.md) · [Glaubenssätze](beliefs.md) · [Muster](patterns.md) · [Keine Kinder](../05-decisions/no-children.md)

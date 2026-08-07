@@ -12,6 +12,7 @@ Der Bogen meines Cannabis-Konsums über die letzten Jahre — woher er kam, wozu
 - **ab 2021/22** — Der Konsum geht zurück. Gründe: nachlassende Belastung, [Therapie](therapy.md) (ab Ende 2021), Reibung mit Angeli, eigener Wunsch nach mehr Leben.
 - **Ende 2024** — Kurz vor Weihnachten wollte ich die Beziehung beenden. Angeli und ich einigten uns darauf, dass Cannabis der Grund sein könnte. Danach einige Monate komplett abstinent, viel Sport, Leben wieder in die Hand genommen (→ [Wir](../03-relationship/us.md), Analyse 19.07.2026).
 - **heute (2026)** — Kein Abendkonsum mehr, seit langem. Nur noch selten, geplant, alle paar Wochen — meist um etwas zu verstärken, das ich ohnehin vorhatte (Computerspielen, am See chillen).
+- **seit Mitte 2026** — Mit dem Bruch mit [Bogo](../04-people/bogo.md) fielen Bezugsquelle und Gelegenheiten weg: Er war mein „Dealer", und die regelmäßigen Nerd-Abende (alle 2–3 Wochen) waren immer mit Konsum verbunden. Die Reduktion war schon vorher eine bewusste Entscheidung — der Bruch hat sie verstärkt und vereinfacht. Ich kaufe jetzt in der Apotheke: unbequemer, aber okay; der Konsum läuft dadurch noch bewusster und geplanter ab.
 
 ## Der Kreislauf (2018–2020)
 

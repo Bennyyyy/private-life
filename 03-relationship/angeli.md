@@ -31,6 +31,7 @@ Wer sie ist, was sie mir bedeutet, was ich an ihr sehe.
 - Während der Chemo hatte sie kaum ein Immunsystem; eine Corona-Infektion hätte tödlich sein können.
 - Durch die Erkrankung kann sie keine Kinder mehr bekommen — wir hatten aber schon vorher geklärt, dass wir beide keine wollen (→ [Keine Kinder](../05-decisions/no-children.md)).
 - Seit einiger Zeit hat sie beim Sex Schmerzen, die mit ihrer Brustkrebserkrankung zusammenhängen.
+- Früher hatte sie eine Essstörung (Bulimie), und auch heute hat sie noch ein schwieriges Verhältnis zum Essen. Ihr Gewicht („Dickheit") war lange ein belastendes Thema, das sie vor mir eher versteckt hat. Dank Wegovy hat sich das Problem sehr verbessert. (Interview 07.08.2026, → [Wir](us.md), „Die Jahre vor der Krise".)
 
 ## Notizen
 
