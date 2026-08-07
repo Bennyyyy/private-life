@@ -23,6 +23,7 @@ Wer sie ist, was sie mir bedeutet, was ich an ihr sehe.
 - Neue Produkte ausprobieren; sie kann viel Zeit in Supermärkten und Läden verbringen
 - Viel Ketchup und andere Soßen auf Burger und Pommes; Nudeln müssen sofort nach dem Kochen, noch heiß, mit Pesto vermischt werden
 - Manchmal isst sie direkt aus der Packung, weil sie nicht warten kann, oder heimlich, damit es niemand sieht — und „krasse", eigentlich ungesunde Sachen muss sie einfach probieren
+- Gesunde Ernährung ist ihr wichtig, und sie mag nicht viel Zucker essen — am Abend geht Zucker für sie gar nicht, auch wenn sie manches sonst durchaus gern mag. Nach dem Zähneputzen isst sie grundsätzlich nichts mehr (vor allem keinen Zucker) — und Zähneputzen ist bei ihr oft schon früh am Abend, z. B. gegen 22 Uhr. (Ergänzt 07.08.2026)
 - Bei sexueller Intimität mag sie es sehr, wenn ich die Initiative übernehme, sie packe und den Sex beginne.
 
 ## Gesundheit
